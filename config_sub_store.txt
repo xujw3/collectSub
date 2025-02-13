@@ -1,35 +1,17 @@
 -- play_list --
 
-可用流量: 40723.22 GB https://ag.bnpm.dynu.net:30443/api/v1/client/subscribe?token=58783846cbee6647784c16bb08d58918
-可用流量: 44.86 GB https://submit.xz61.cn:22443/api/v1/client/subscribe?token=48de2dcb151b867cd38741383e1eae5b
-可用流量: 289.93 GB https://gfdlaw9.xiaoliyu.xyz:8443/api/v1/client/2ffe6c21898d497cdbd08492e24d921a
-可用流量: 472.49 GB https://rgergergergerg6555.saojc.xyz/api/v1/client/subscribe?token=750810736ea0883ffd61f1b1c416b885
-可用流量: 56.15 GB https://NcLAhc.subxly.cfd:8443/api/v1/client/e5af9bc2d642948f3a0ee39d4a86a5d8
-可用流量: 72.26 GB https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415&amp
-可用流量: 344.12 GB https://hrqiea.subxly.cfd:8443/api/v1/client/03e798cf34ffc623a859e9d24c55c2d3
-可用流量: 337.2 GB https://04hua.xiaoliyusub.top:8443/api/v1/client/2c1c6f4d49a84aed9ec36f5f47cb7fe7
-可用流量: 890.54 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 931135487.99 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-可用流量: 337.2 GB https://guq3tjlp.subxly.cfd:8443/api/v1/client/2c1c6f4d49a84aed9ec36f5f47cb7fe7
-可用流量: 42984.85 GB https://cf-workers-sub-9s8.pages.dev/CSDN
-可用流量: 1048025.94 GB https://subscribe.famint.net/api/v1/client/subscribe?token=47f216c5ec7a8f4da47e6311c71eb687
-可用流量: 47.79 GB https://submit.xz61.cn:22443/api/v1/client/subscribe?token=41d5e1507383978dadd9dfb3fbb5a489
-可用流量: 2005.46 GB https://pvn4hq.xiaoliyusub.top:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
+可用流量: 331.12 GB https://hrqiea.subxly.cfd:8443/api/v1/client/03e798cf34ffc623a859e9d24c55c2d3
+可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+可用流量: 40671.37 GB https://ag.bnpm.dynu.net:30443/api/v1/client/subscribe?token=58783846cbee6647784c16bb08d58918
+可用流量: 323.89 GB https://guq3tjlp.subxly.cfd:8443/api/v1/client/2c1c6f4d49a84aed9ec36f5f47cb7fe7
+可用流量: 1965.96 GB https://pvn4hq.xiaoliyusub.top:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
+可用流量: 472.26 GB https://rgergergergerg6555.saojc.xyz/api/v1/client/subscribe?token=750810736ea0883ffd61f1b1c416b885
 
 -- sub_list --
 
-https://ag.bnpm.dynu.net:30443/api/v1/client/subscribe?token=58783846cbee6647784c16bb08d58918
-https://submit.xz61.cn:22443/api/v1/client/subscribe?token=48de2dcb151b867cd38741383e1eae5b
-https://gfdlaw9.xiaoliyu.xyz:8443/api/v1/client/2ffe6c21898d497cdbd08492e24d921a
-https://rgergergergerg6555.saojc.xyz/api/v1/client/subscribe?token=750810736ea0883ffd61f1b1c416b885
-https://NcLAhc.subxly.cfd:8443/api/v1/client/e5af9bc2d642948f3a0ee39d4a86a5d8
-https://sub123.71345.xyz/api/v1/client/subscribe?token=67d0e817bbb631b2aa14bfe031334415&amp
 https://hrqiea.subxly.cfd:8443/api/v1/client/03e798cf34ffc623a859e9d24c55c2d3
-https://04hua.xiaoliyusub.top:8443/api/v1/client/2c1c6f4d49a84aed9ec36f5f47cb7fe7
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+https://ag.bnpm.dynu.net:30443/api/v1/client/subscribe?token=58783846cbee6647784c16bb08d58918
 https://guq3tjlp.subxly.cfd:8443/api/v1/client/2c1c6f4d49a84aed9ec36f5f47cb7fe7
-https://cf-workers-sub-9s8.pages.dev/CSDN
-https://subscribe.famint.net/api/v1/client/subscribe?token=47f216c5ec7a8f4da47e6311c71eb687
-https://submit.xz61.cn:22443/api/v1/client/subscribe?token=41d5e1507383978dadd9dfb3fbb5a489
 https://pvn4hq.xiaoliyusub.top:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
+https://rgergergergerg6555.saojc.xyz/api/v1/client/subscribe?token=750810736ea0883ffd61f1b1c416b885
