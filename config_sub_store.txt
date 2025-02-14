@@ -1,19 +1,33 @@
 -- play_list --
 
-可用流量: 32.37 GB https://hrqiea.subxly.cfd:8443/api/v1/client/03e798cf34ffc623a859e9d24c55c2d3
-可用流量: 978.74 GB https://pvn4hq.subxly.cfd:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
-可用流量: 1048219.18 GB https://subscribe.famint.net/api/v1/client/subscribe?token=eae4cd63060aa493bc7e22adab118bee&amp
-可用流量: 880.02 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 306.75 GB https://getinfo.bigbigwatermelon.com/s?token=46a05a9cca3d964ba59c8549d9259904
+可用流量: 170.89 GB https://guq3tjlp.subxly.cfd:8443/api/v1/client/2c1c6f4d49a84aed9ec36f5f47cb7fe7
+可用流量: 10.85 GB https://hrqiea.subxly.cfd:8443/api/v1/client/03e798cf34ffc623a859e9d24c55c2d3
+可用流量: 895.11 GB https://pvn4hq.subxly.cfd:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
+可用流量: 895.11 GB https://pvn4hq.xiaoliyusub.top:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
+可用流量: 86.99 GB https://4t7n4.subxly.cfd:8443/api/v1/client/ab74101a44a7b88d7d045caa9404b3de
+可用流量: 1048219.03 GB https://subscribe.famint.net/api/v1/client/subscribe?token=eae4cd63060aa493bc7e22adab118bee&amp
+可用流量: 879.38 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 143.12 GB https://sub.xn--4gqp1u.com/s/517af5a6d12ca44b627ac46e6ce11d18
 可用流量: 931135487.79 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-可用流量: 978.74 GB https://pvn4hq.xiaoliyusub.top:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
-可用流量: 92.09 GB https://4t7n4.subxly.cfd:8443/api/v1/client/ab74101a44a7b88d7d045caa9404b3de
+可用流量: 343.87 GB https://ly.ccwink.cc/api/v1/client/subscribe?token=c2bc3bc950ec1e5d22bc9f45716a28a2
+可用流量: 139.5 GB https://gfdlaw9.xiaoliyu.xyz:8443/api/v1/client/2ffe6c21898d497cdbd08492e24d921a
+可用流量: 170.89 GB https://04hua.xiaoliyusub.top:8443/api/v1/client/2c1c6f4d49a84aed9ec36f5f47cb7fe7
+可用流量: 40051.51 GB https://ag.bnpm.dynu.net:30443/api/v1/client/subscribe?token=58783846cbee6647784c16bb08d58918
 
 -- sub_list --
 
+https://getinfo.bigbigwatermelon.com/s?token=46a05a9cca3d964ba59c8549d9259904
+https://guq3tjlp.subxly.cfd:8443/api/v1/client/2c1c6f4d49a84aed9ec36f5f47cb7fe7
 https://hrqiea.subxly.cfd:8443/api/v1/client/03e798cf34ffc623a859e9d24c55c2d3
 https://pvn4hq.subxly.cfd:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
-https://subscribe.famint.net/api/v1/client/subscribe?token=eae4cd63060aa493bc7e22adab118bee&amp
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 https://pvn4hq.xiaoliyusub.top:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
 https://4t7n4.subxly.cfd:8443/api/v1/client/ab74101a44a7b88d7d045caa9404b3de
+https://subscribe.famint.net/api/v1/client/subscribe?token=eae4cd63060aa493bc7e22adab118bee&amp
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+https://sub.xn--4gqp1u.com/s/517af5a6d12ca44b627ac46e6ce11d18
+https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
+https://ly.ccwink.cc/api/v1/client/subscribe?token=c2bc3bc950ec1e5d22bc9f45716a28a2
+https://gfdlaw9.xiaoliyu.xyz:8443/api/v1/client/2ffe6c21898d497cdbd08492e24d921a
+https://04hua.xiaoliyusub.top:8443/api/v1/client/2c1c6f4d49a84aed9ec36f5f47cb7fe7
+https://ag.bnpm.dynu.net:30443/api/v1/client/subscribe?token=58783846cbee6647784c16bb08d58918
