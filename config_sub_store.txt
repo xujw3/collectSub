@@ -1,21 +1,17 @@
 -- play_list --
 
-可用流量: 4461.97 GB https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=87fd1239fa2282b2a01661ba42e28a87
+可用流量: 125.78 GB https://getinfo.bigbigwatermelon.com/s?token=46a05a9cca3d964ba59c8549d9259904
+可用流量: 1569.95 GB https://pvn4hq.subxly.cfd:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
 可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 871.31 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 931135487.75 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-可用流量: 1637.12 GB https://pvn4hq.subxly.cfd:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
-可用流量: 1637.12 GB https://pvn4hq.xiaoliyusub.top:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
-可用流量: 39573.86 GB https://ag.bnpm.dynu.net:30443/api/v1/client/subscribe?token=58783846cbee6647784c16bb08d58918
-可用流量: 137.32 GB https://getinfo.bigbigwatermelon.com/s?token=46a05a9cca3d964ba59c8549d9259904
+可用流量: 871.09 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 39567.96 GB https://ag.bnpm.dynu.net:30443/api/v1/client/subscribe?token=58783846cbee6647784c16bb08d58918
+可用流量: 4461.64 GB https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=87fd1239fa2282b2a01661ba42e28a87
 
 -- sub_list --
 
-https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=87fd1239fa2282b2a01661ba42e28a87
+https://getinfo.bigbigwatermelon.com/s?token=46a05a9cca3d964ba59c8549d9259904
+https://pvn4hq.subxly.cfd:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
 https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
 https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-https://pvn4hq.subxly.cfd:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
-https://pvn4hq.xiaoliyusub.top:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
 https://ag.bnpm.dynu.net:30443/api/v1/client/subscribe?token=58783846cbee6647784c16bb08d58918
-https://getinfo.bigbigwatermelon.com/s?token=46a05a9cca3d964ba59c8549d9259904
+https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=87fd1239fa2282b2a01661ba42e28a87
