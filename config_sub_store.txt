@@ -1,57 +1,53 @@
 -- play_list --
 
-可用流量: 5725.13 GB https://pvn4hq.subxly.cfd:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
-可用流量: 100.58 GB https://cfj.chuifengji.top/cfj/vip/client/subscribe?token=3221e7076f73068d7963097f57e00a4f&amp;flag=meta
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 427.62 GB https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
+可用流量: 426.22 GB https://xn--9krt36k.com/s/5938dc6db7a83976a95c32dd710bc9db
+可用流量: 285.05 GB https://xn--mest48anb1j.com/s/a6e951347f03e127fe2c90c0a73eaf42
+可用流量: 16.57 GB https://fly.j-s.us.kg/api/v1/client/subscribe?token=6ed1f4f85a11ddbd9458dbbfa423865b
+可用流量: 137.9 GB https://xn--mest48anb1j.com/s/0dfdb06fe24836f1e6d4a803020b374d
+可用流量: 5698.62 GB https://pvn4hq.xiaoliyusub.top:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
+可用流量: 1634.04 GB https://www.paofusub2.com/link/Z9og5CHMQrks3LOQ?clash=1
+可用流量: 440.81 GB https://xn--mest48anb1j.com/s/027d9bbfd1a8c2436cd179cafc60629e
+可用流量: 73.31 GB https://cfj.chuifengji.top/cfj/vip/client/subscribe?token=3221e7076f73068d7963097f57e00a4f&amp;flag=meta
+可用流量: 126.6 GB https://xn--9krt36k.com/s/444674b7a02aca539437bf73414c73c8
+可用流量: 93.18 GB https://ch.vfkum.website/api/v1/client/subscribe?token=9834caf1701f442add1e75aef6691fbe
+可用流量: 38653.11 GB https://ag.bnpm.dynu.net:30443/api/v1/client/subscribe?token=58783846cbee6647784c16bb08d58918
+可用流量: 426.87 GB https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
+可用流量: 859.95 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 73.31 GB https://cfj.chuifengji.top/cfj/vip/client/subscribe?token=3221e7076f73068d7963097f57e00a4f
+可用流量: 14909.81 GB https://kawaiifreevpn.pages.dev/90d7db9b-972b-4073-8738-12cf42124260?b64
+可用流量: 14909.66 GB https://kawaiifreevpn.pages.dev/90d7db9b-972b-4073-8738-12cf42124260?sb
+可用流量: 42993.23 GB https://cf-workers-sub-9s8.pages.dev/CSDN
+可用流量: 14909.02 GB https://kawaiifreevpn.pages.dev/90d7db9b-972b-4073-8738-12cf42124260
+可用流量: 999922.27 GB http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+可用流量: 14908.78 GB https://kawaiifreevpn.pages.dev/90d7db9b-972b-4073-8738-12cf42124260?clash
+可用流量: 432.68 GB https://sub.xn--4gqp1u.com/s/517af5a6d12ca44b627ac46e6ce11d18
 可用流量: 931135483.34 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-可用流量: 15846.39 GB https://kawaiifreevpn.pages.dev/90d7db9b-972b-4073-8738-12cf42124260?clash
-可用流量: 13.89 GB https://fly.j-s.us.kg/api/v1/client/subscribe?token=6ed1f4f85a11ddbd9458dbbfa423865b
-可用流量: 431.16 GB https://xn--9krt36k.com/s/5938dc6db7a83976a95c32dd710bc9db
-可用流量: 5725.13 GB https://pvn4hq.xiaoliyusub.top:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
-可用流量: 133.51 GB https://xn--9krt36k.com/s/444674b7a02aca539437bf73414c73c8
-可用流量: 100.58 GB https://cfj.chuifengji.top/cfj/vip/client/subscribe?token=3221e7076f73068d7963097f57e00a4f
-可用流量: 437.23 GB https://sub.xn--4gqp1u.com/s/517af5a6d12ca44b627ac46e6ce11d18
-可用流量: 93.29 GB https://ch.vfkum.website/api/v1/client/subscribe?token=9834caf1701f442add1e75aef6691fbe
-可用流量: 999932.44 GB http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-可用流量: 15845.06 GB https://kawaiifreevpn.pages.dev/90d7db9b-972b-4073-8738-12cf42124260?b64
-可用流量: 42993.14 GB https://emm-7zy.pages.dev/CSDN
-可用流量: 860.18 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 146.02 GB https://xn--ehq91fquq.com/s/4c44f63fb09a9648787b68582dab9b69
-可用流量: 15844.72 GB https://kawaiifreevpn.pages.dev/90d7db9b-972b-4073-8738-12cf42124260
-可用流量: 442.07 GB https://xn--mest48anb1j.com/s/027d9bbfd1a8c2436cd179cafc60629e
-可用流量: 42993.14 GB https://cf-workers-sub-9s8.pages.dev/CSDN
-可用流量: 286.71 GB https://xn--mest48anb1j.com/s/a6e951347f03e127fe2c90c0a73eaf42
-可用流量: 138.22 GB https://xn--mest48anb1j.com/s/0dfdb06fe24836f1e6d4a803020b374d
-可用流量: 15844.44 GB https://kawaiifreevpn.pages.dev/90d7db9b-972b-4073-8738-12cf42124260?sb
-可用流量: 38674.42 GB https://ag.bnpm.dynu.net:30443/api/v1/client/subscribe?token=58783846cbee6647784c16bb08d58918
-可用流量: 96.37 GB https://ch.owokkvsxks.store/api/v1/client/subscribe?token=4513b8b5ca45100a7e353d670d5ffc9e
+可用流量: 5698.62 GB https://pvn4hq.subxly.cfd:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
+可用流量: 95.99 GB https://ch.owokkvsxks.store/api/v1/client/subscribe?token=4513b8b5ca45100a7e353d670d5ffc9e
 
 -- sub_list --
 
-https://pvn4hq.subxly.cfd:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
-https://cfj.chuifengji.top/cfj/vip/client/subscribe?token=3221e7076f73068d7963097f57e00a4f&amp;flag=meta
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
-https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-https://kawaiifreevpn.pages.dev/90d7db9b-972b-4073-8738-12cf42124260?clash
-https://fly.j-s.us.kg/api/v1/client/subscribe?token=6ed1f4f85a11ddbd9458dbbfa423865b
 https://xn--9krt36k.com/s/5938dc6db7a83976a95c32dd710bc9db
-https://pvn4hq.xiaoliyusub.top:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
-https://xn--9krt36k.com/s/444674b7a02aca539437bf73414c73c8
-https://cfj.chuifengji.top/cfj/vip/client/subscribe?token=3221e7076f73068d7963097f57e00a4f
-https://sub.xn--4gqp1u.com/s/517af5a6d12ca44b627ac46e6ce11d18
-https://ch.vfkum.website/api/v1/client/subscribe?token=9834caf1701f442add1e75aef6691fbe
-http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-https://kawaiifreevpn.pages.dev/90d7db9b-972b-4073-8738-12cf42124260?b64
-https://emm-7zy.pages.dev/CSDN
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://xn--ehq91fquq.com/s/4c44f63fb09a9648787b68582dab9b69
-https://kawaiifreevpn.pages.dev/90d7db9b-972b-4073-8738-12cf42124260
-https://xn--mest48anb1j.com/s/027d9bbfd1a8c2436cd179cafc60629e
-https://cf-workers-sub-9s8.pages.dev/CSDN
 https://xn--mest48anb1j.com/s/a6e951347f03e127fe2c90c0a73eaf42
+https://fly.j-s.us.kg/api/v1/client/subscribe?token=6ed1f4f85a11ddbd9458dbbfa423865b
 https://xn--mest48anb1j.com/s/0dfdb06fe24836f1e6d4a803020b374d
-https://kawaiifreevpn.pages.dev/90d7db9b-972b-4073-8738-12cf42124260?sb
+https://pvn4hq.xiaoliyusub.top:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
+https://www.paofusub2.com/link/Z9og5CHMQrks3LOQ?clash=1
+https://xn--mest48anb1j.com/s/027d9bbfd1a8c2436cd179cafc60629e
+https://cfj.chuifengji.top/cfj/vip/client/subscribe?token=3221e7076f73068d7963097f57e00a4f&amp;flag=meta
+https://xn--9krt36k.com/s/444674b7a02aca539437bf73414c73c8
+https://ch.vfkum.website/api/v1/client/subscribe?token=9834caf1701f442add1e75aef6691fbe
 https://ag.bnpm.dynu.net:30443/api/v1/client/subscribe?token=58783846cbee6647784c16bb08d58918
+https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+https://cfj.chuifengji.top/cfj/vip/client/subscribe?token=3221e7076f73068d7963097f57e00a4f
+https://kawaiifreevpn.pages.dev/90d7db9b-972b-4073-8738-12cf42124260?b64
+https://kawaiifreevpn.pages.dev/90d7db9b-972b-4073-8738-12cf42124260?sb
+https://cf-workers-sub-9s8.pages.dev/CSDN
+https://kawaiifreevpn.pages.dev/90d7db9b-972b-4073-8738-12cf42124260
+http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+https://kawaiifreevpn.pages.dev/90d7db9b-972b-4073-8738-12cf42124260?clash
+https://sub.xn--4gqp1u.com/s/517af5a6d12ca44b627ac46e6ce11d18
+https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
+https://pvn4hq.subxly.cfd:8443/api/v1/client/f253d52ef399a8bb2fd67e26d6ba142a
 https://ch.owokkvsxks.store/api/v1/client/subscribe?token=4513b8b5ca45100a7e353d670d5ffc9e
