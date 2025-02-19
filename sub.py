@@ -4,12 +4,14 @@ import os
 
 def postdata(data):
     json_data = {
-        'name': 'otc',
-        'displayName': '',
+        'name': 'hbgx',
+        'displayName': 'github抓取',
         'form': '',
+        'remark': '',
         'mergeSources': '',
         'ignoreFailedRemoteSub': True,
-        'icon': 'https://raw.githubusercontent.com/cc63/ICON/main/icons/ClashMeta.png',
+        'passThroughUA': False,
+        'icon': 'https://raw.githubusercontent.com/cc63/ICON/main/icons/AMY.png',
         'process': [
             {
                 'type': 'Quick Setting Operator',
@@ -21,20 +23,31 @@ def postdata(data):
                     'vmess aead': 'DEFAULT',
                 },
             },
+            {
+                'type': 'Script Operator',
+                'args': {
+                    'content': 'https://raw.githubusercontent.com/xujw3/other/refs/heads/main/rename.js#flag&noCache&clear',
+                    'mode': 'link',
+                },
+                'id': '36934923.422785416',
+                'disabled': False,
+            },
         ],
+        'subUserinfo': 'upload=1024000000000; download=1024000000000; total=102400000000000; expire=4115721600; reset_day=1024; plan_name=VIP1; app_url=https://087iu0np-substore.hf.space',
+        'proxy': '',
         'tag': [
             '第三方',
         ],
+        'subscriptionTags': [],
         'source': 'remote',
         'url': data,
         'content': '',
         'ua': 'clash-verge/v1.5.1',
-        'subscriptionTags': [],
-        'display-name': '',
+        'display-name': 'github抓取',
     }
     apiurl = os.getenv("APIURL")
     response = requests.patch(
-        f'{apiurl}/otc',
+        f'{apiurl}/hbgx',
         json=json_data,
     )
 
