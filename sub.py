@@ -7,7 +7,7 @@ def postdata(data):
         'displayName': '',
         'form': '',
         'mergeSources': '',
-        'ignoreFailedRemoteSub': False,
+        'ignoreFailedRemoteSub': True,
         'icon': 'https://raw.githubusercontent.com/cc63/ICON/main/icons/ClashMeta.png',
         'process': [
             {
@@ -31,9 +31,9 @@ def postdata(data):
         'subscriptionTags': [],
         'display-name': '',
     }
-
+    apiurl = os.getenv("APIURL")
     response = requests.patch(
-        'https://087iu0np-substore.hf.space/793652832/api/sub/otc',
+        f'{apiurl}/otc',
         json=json_data,
     )
 
@@ -60,5 +60,5 @@ def getdata(file_path):
 
 
 if __name__ == "__main__":
-    path = r"C:\Users\kjpmc21\Desktop\jm\config_sub_store.txt"
+    path = "./config_sub_store.txt"
     print(postdata(getdata(path)).text)
