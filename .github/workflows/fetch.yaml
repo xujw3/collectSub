@@ -44,6 +44,11 @@ jobs:
     - name: 执行任务
       run: |
         python ./main.py
+    - name: 更新Substore
+      env:
+        APIURL: ${{ secrets.APIURL }}
+      run: |
+        python ./sub.py
     - name: Commit
       run: |
         git config --global user.name "GitHub Actions"
