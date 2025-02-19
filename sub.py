@@ -28,7 +28,7 @@ def postdata(data):
         'source': 'remote',
         'url': data,
         'content': '',
-        'ua': '',
+        'ua': 'clash-verge/v1.5.1',
         'subscriptionTags': [],
         'display-name': '',
     }
