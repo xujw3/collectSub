@@ -33,7 +33,7 @@ def postdata(data):
                 'disabled': False,
             },
         ],
-        'subUserinfo': 'upload=1024000000000; download=1024000000000; total=102400000000000; expire=4115721600; reset_day=1024; plan_name=VIP1; app_url=https://087iu0np-substore.hf.space',
+        'subUserinfo': 'upload=1000000000000; download=1000000000000; total=100000000000000; expire=4115721600; reset_day=1; plan_name=VIP1; app_url=https://087iu0np-substore.hf.space',
         'proxy': '',
         'tag': [
             '第三方',
