@@ -42,7 +42,7 @@ def postdata(data):
         'source': 'remote',
         'url': data,
         'content': '',
-        'ua': 'clash-verge/v1.5.1',
+        'ua': 'Clash Verge/1.7.1',
         'display-name': 'github抓取',
     }
     apiurl = os.getenv("APIURL")
