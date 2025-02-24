@@ -1,33 +1,29 @@
 -- play_list --
 
-可用流量: 4837.92 GB https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=4c409288a54caf5d44ab2a537f814bb8
-可用流量: 911.11 GB https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
+可用流量: 273.47 GB https://xn--yetu3xij4b.com/s/febcf4c89b3603841d24f787d487c93b
 可用流量: 931135467.44 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-可用流量: 356.72 GB https://xn--yets78bbhi.top/s/fac6d6ca2c8180bda3174d35f299ea18
-可用流量: 18.23 GB https://xn--9krt36k.com/s/92c2bb6169aa18655a66a40378894d96
-可用流量: 344.03 GB https://xn--9krt36k.com/s/136e8756df173d08a09748eb629f83fc
-可用流量: 61.77 GB https://xn--mest48anb1j.com/s/a2bfdaf799223847a08f2fbe9d1b46a7
-可用流量: 48.4 GB https://xn--9krt36k.com/s/c10a2dffc66e173cfcdb1d58f6c3b859
-可用流量: 600.25 GB https://sub.coo.ga/api/v1/client/subscribe?token=06f47c6f5407fb501a5719bd8f2173e8
+可用流量: 903.7 GB https://sub.372372.xyz/api/v1/client/subscribe?token=5350e56b94a859a4a8a060bc7ffb5463
+可用流量: 195.05 GB https://xn--mest48anb1j.com/s/0383ea79a7172e5aa606cdbf9e2714f8
+可用流量: 911.07 GB https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
 可用流量: 1019.2 GB https://c4.notesync.org/api/v1/client/subscribe?token=ilNuUvChu6eQ2lQuHbATPYmn0HuZQD1Q&amp;flag=clash
-可用流量: 130.87 GB https://sub.xn--4gq62fv6r4w0c.com/s/3d2f87789d38170d8b8e87eaa44b02fe
-可用流量: 288.47 GB https://xn--9krt36k.com/s/9b21e45ed606e65f345ff164814aec5c
-可用流量: 24297.38 GB https://ag.bnpm.dynu.net:30443/api/v1/client/subscribe?token=58783846cbee6647784c16bb08d58918
-可用流量: 350.8 GB https://xn--yetu3xij4b.com/s/528236494c21f6084d3c12dc9ada7963
+可用流量: 911.07 GB https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
+可用流量: 286.9 GB https://xn--9krt36k.com/s/9b21e45ed606e65f345ff164814aec5c
+可用流量: 353.91 GB https://xn--yets78bbhi.top/s/fac6d6ca2c8180bda3174d35f299ea18
+可用流量: 253.57 GB https://xn--yetu3xij4b.com/s/f67a5d11026ca465cfe378f029e564b8
+可用流量: 276.6 GB https://088EA81A-3547-85E0-4AF6-DFCB3C6674AA.372372.xyz/api/v1/client/subscribe?token=d3065c795c0ea07c325756a2515708d9
+可用流量: 17.63 GB https://xn--9krt36k.com/s/92c2bb6169aa18655a66a40378894d96
 
 -- sub_list --
 
-https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=4c409288a54caf5d44ab2a537f814bb8
-https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
+https://xn--yetu3xij4b.com/s/febcf4c89b3603841d24f787d487c93b
 https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-https://xn--yets78bbhi.top/s/fac6d6ca2c8180bda3174d35f299ea18
-https://xn--9krt36k.com/s/92c2bb6169aa18655a66a40378894d96
-https://xn--9krt36k.com/s/136e8756df173d08a09748eb629f83fc
-https://xn--mest48anb1j.com/s/a2bfdaf799223847a08f2fbe9d1b46a7
-https://xn--9krt36k.com/s/c10a2dffc66e173cfcdb1d58f6c3b859
-https://sub.coo.ga/api/v1/client/subscribe?token=06f47c6f5407fb501a5719bd8f2173e8
+https://sub.372372.xyz/api/v1/client/subscribe?token=5350e56b94a859a4a8a060bc7ffb5463
+https://xn--mest48anb1j.com/s/0383ea79a7172e5aa606cdbf9e2714f8
+https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
 https://c4.notesync.org/api/v1/client/subscribe?token=ilNuUvChu6eQ2lQuHbATPYmn0HuZQD1Q&amp;flag=clash
-https://sub.xn--4gq62fv6r4w0c.com/s/3d2f87789d38170d8b8e87eaa44b02fe
+https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
 https://xn--9krt36k.com/s/9b21e45ed606e65f345ff164814aec5c
-https://ag.bnpm.dynu.net:30443/api/v1/client/subscribe?token=58783846cbee6647784c16bb08d58918
-https://xn--yetu3xij4b.com/s/528236494c21f6084d3c12dc9ada7963
+https://xn--yets78bbhi.top/s/fac6d6ca2c8180bda3174d35f299ea18
+https://xn--yetu3xij4b.com/s/f67a5d11026ca465cfe378f029e564b8
+https://088EA81A-3547-85E0-4AF6-DFCB3C6674AA.372372.xyz/api/v1/client/subscribe?token=d3065c795c0ea07c325756a2515708d9
+https://xn--9krt36k.com/s/92c2bb6169aa18655a66a40378894d96
