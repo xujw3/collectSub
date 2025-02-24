@@ -1,27 +1,39 @@
 -- play_list --
 
-可用流量: 839.46 GB https://sub.coo.ga/api/v1/client/subscribe?token=06f47c6f5407fb501a5719bd8f2173e8
-可用流量: 10000.0 GB https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
-可用流量: 911.52 GB https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
-可用流量: 138.18 GB https://sub.xn--4gq62fv6r4w0c.com/s/3d2f87789d38170d8b8e87eaa44b02fe
-可用流量: 931135467.63 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-可用流量: 911.52 GB https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
-可用流量: 295.86 GB https://xn--9krt36k.com/s/9b21e45ed606e65f345ff164814aec5c
-可用流量: 925.92 GB https://sub.372372.xyz/api/v1/client/subscribe?token=5350e56b94a859a4a8a060bc7ffb5463
-可用流量: 281.49 GB https://xn--yetu3xij4b.com/s/febcf4c89b3603841d24f787d487c93b
-可用流量: 4837.95 GB https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=4c409288a54caf5d44ab2a537f814bb8
-可用流量: 366.8 GB https://xn--yets78bbhi.top/s/fac6d6ca2c8180bda3174d35f299ea18
+可用流量: 261.61 GB https://xn--yetu3xij4b.com/s/f67a5d11026ca465cfe378f029e564b8
+可用流量: 911.39 GB https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
+可用流量: 351.79 GB https://xn--yetu3xij4b.com/s/528236494c21f6084d3c12dc9ada7963
+可用流量: 4837.94 GB https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=4c409288a54caf5d44ab2a537f814bb8
+可用流量: 135.66 GB https://sub.xn--4gq62fv6r4w0c.com/s/3d2f87789d38170d8b8e87eaa44b02fe
+可用流量: 48.52 GB https://xn--9krt36k.com/s/c10a2dffc66e173cfcdb1d58f6c3b859
+可用流量: 1019.2 GB https://c4.notesync.org/api/v1/client/subscribe?token=ilNuUvChu6eQ2lQuHbATPYmn0HuZQD1Q&amp;flag=clash
+可用流量: 913.97 GB https://sub.372372.xyz/api/v1/client/subscribe?token=5350e56b94a859a4a8a060bc7ffb5463
+可用流量: 931135467.44 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
+可用流量: 65.27 GB https://xn--mest48anb1j.com/s/a2bfdaf799223847a08f2fbe9d1b46a7
+可用流量: 275.06 GB https://xn--yetu3xij4b.com/s/febcf4c89b3603841d24f787d487c93b
+可用流量: 688.68 GB https://sub.coo.ga/api/v1/client/subscribe?token=06f47c6f5407fb501a5719bd8f2173e8
+可用流量: 24461.15 GB https://ag.bnpm.dynu.net:30443/api/v1/client/subscribe?token=58783846cbee6647784c16bb08d58918
+可用流量: 911.39 GB https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
+可用流量: 18.81 GB https://xn--9krt36k.com/s/92c2bb6169aa18655a66a40378894d96
+可用流量: 291.75 GB https://xn--9krt36k.com/s/9b21e45ed606e65f345ff164814aec5c
+可用流量: 1819.95 GB https://biu001.com/api/v1/client/subscribe?token=c9405f9a573a458dc58613ff7eb09199
 
 -- sub_list --
 
-https://sub.coo.ga/api/v1/client/subscribe?token=06f47c6f5407fb501a5719bd8f2173e8
-https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
-https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
-https://sub.xn--4gq62fv6r4w0c.com/s/3d2f87789d38170d8b8e87eaa44b02fe
-https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
+https://xn--yetu3xij4b.com/s/f67a5d11026ca465cfe378f029e564b8
 https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
-https://xn--9krt36k.com/s/9b21e45ed606e65f345ff164814aec5c
-https://sub.372372.xyz/api/v1/client/subscribe?token=5350e56b94a859a4a8a060bc7ffb5463
-https://xn--yetu3xij4b.com/s/febcf4c89b3603841d24f787d487c93b
+https://xn--yetu3xij4b.com/s/528236494c21f6084d3c12dc9ada7963
 https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=4c409288a54caf5d44ab2a537f814bb8
-https://xn--yets78bbhi.top/s/fac6d6ca2c8180bda3174d35f299ea18
+https://sub.xn--4gq62fv6r4w0c.com/s/3d2f87789d38170d8b8e87eaa44b02fe
+https://xn--9krt36k.com/s/c10a2dffc66e173cfcdb1d58f6c3b859
+https://c4.notesync.org/api/v1/client/subscribe?token=ilNuUvChu6eQ2lQuHbATPYmn0HuZQD1Q&amp;flag=clash
+https://sub.372372.xyz/api/v1/client/subscribe?token=5350e56b94a859a4a8a060bc7ffb5463
+https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
+https://xn--mest48anb1j.com/s/a2bfdaf799223847a08f2fbe9d1b46a7
+https://xn--yetu3xij4b.com/s/febcf4c89b3603841d24f787d487c93b
+https://sub.coo.ga/api/v1/client/subscribe?token=06f47c6f5407fb501a5719bd8f2173e8
+https://ag.bnpm.dynu.net:30443/api/v1/client/subscribe?token=58783846cbee6647784c16bb08d58918
+https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
+https://xn--9krt36k.com/s/92c2bb6169aa18655a66a40378894d96
+https://xn--9krt36k.com/s/9b21e45ed606e65f345ff164814aec5c
+https://biu001.com/api/v1/client/subscribe?token=c9405f9a573a458dc58613ff7eb09199
