@@ -1,23 +1,25 @@
 -- play_list --
 
-可用流量: 998580.52 GB http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-可用流量: 450.46 GB https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
-可用流量: 10.66 GB https://weget.cdn.cache.wentian.org/s/5dfff6ad468f5fdd4808984cd95a8c0a
-可用流量: 27.58 GB https://laosijicc.top/lsj/vip/client/subscribe?token=6d74009aeba85e4f152fe6107a71cc92
-可用流量: 377.26 GB https://xn--yetu3xij4b.com/s/61ee0f7db208525723ecf2158f0d6a86
+可用流量: 931135458.82 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
-可用流量: 401.06 GB https://xn--yetu3xij4b.com/s/10205ac58226b2232479661dfe719cde
+可用流量: 998580.05 GB http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+可用流量: 141.88 GB https://xn--9krt36k.com/s/136e8756df173d08a09748eb629f83fc
+可用流量: 10.63 GB https://weget.cdn.cache.wentian.org/s/5dfff6ad468f5fdd4808984cd95a8c0a
+可用流量: 27.57 GB https://laosijicc.top/lsj/vip/client/subscribe?token=6d74009aeba85e4f152fe6107a71cc92
+可用流量: 12.88 GB https://sub.pianyijichang.com/s/680c380e6c71929584c0a21c61496b92
 可用流量: 931135484.96 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-可用流量: 142.02 GB https://xn--9krt36k.com/s/136e8756df173d08a09748eb629f83fc
+可用流量: 377.26 GB https://xn--yetu3xij4b.com/s/61ee0f7db208525723ecf2158f0d6a86
+可用流量: 401.06 GB https://xn--yetu3xij4b.com/s/10205ac58226b2232479661dfe719cde
 
 -- sub_list --
 
+https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
+https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
 http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
+https://xn--9krt36k.com/s/136e8756df173d08a09748eb629f83fc
 https://weget.cdn.cache.wentian.org/s/5dfff6ad468f5fdd4808984cd95a8c0a
 https://laosijicc.top/lsj/vip/client/subscribe?token=6d74009aeba85e4f152fe6107a71cc92
-https://xn--yetu3xij4b.com/s/61ee0f7db208525723ecf2158f0d6a86
-https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
-https://xn--yetu3xij4b.com/s/10205ac58226b2232479661dfe719cde
+https://sub.pianyijichang.com/s/680c380e6c71929584c0a21c61496b92
 https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-https://xn--9krt36k.com/s/136e8756df173d08a09748eb629f83fc
+https://xn--yetu3xij4b.com/s/61ee0f7db208525723ecf2158f0d6a86
+https://xn--yetu3xij4b.com/s/10205ac58226b2232479661dfe719cde
