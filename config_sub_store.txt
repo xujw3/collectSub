@@ -1,23 +1,23 @@
 -- play_list --
 
-可用流量: 27.7 GB https://laosijicc.top/lsj/vip/client/subscribe?token=6d74009aeba85e4f152fe6107a71cc92
-可用流量: 147.52 GB https://xn--9krt36k.com/s/136e8756df173d08a09748eb629f83fc
-可用流量: 401.49 GB https://xn--yetu3xij4b.com/s/10205ac58226b2232479661dfe719cde
-可用流量: 11.32 GB https://weget.cdn.cache.wentian.org/s/5dfff6ad468f5fdd4808984cd95a8c0a
-可用流量: 377.61 GB https://xn--yetu3xij4b.com/s/61ee0f7db208525723ecf2158f0d6a86
-可用流量: 880.04 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 880.02 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 可用流量: 450.72 GB https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
-可用流量: 14.92 GB https://sub.pianyijichang.com/s/680c380e6c71929584c0a21c61496b92
-可用流量: 998588.32 GB http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+可用流量: 146.23 GB https://xn--9krt36k.com/s/136e8756df173d08a09748eb629f83fc
+可用流量: 43033.43 GB https://cf-workers-sub-9s8.pages.dev/CSDN
+可用流量: 401.4 GB https://xn--yetu3xij4b.com/s/10205ac58226b2232479661dfe719cde
+可用流量: 931135484.96 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+可用流量: 998585.68 GB http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+可用流量: 377.59 GB https://xn--yetu3xij4b.com/s/61ee0f7db208525723ecf2158f0d6a86
+可用流量: 27.7 GB https://laosijicc.top/lsj/vip/client/subscribe?token=6d74009aeba85e4f152fe6107a71cc92
 
 -- sub_list --
 
-https://laosijicc.top/lsj/vip/client/subscribe?token=6d74009aeba85e4f152fe6107a71cc92
-https://xn--9krt36k.com/s/136e8756df173d08a09748eb629f83fc
-https://xn--yetu3xij4b.com/s/10205ac58226b2232479661dfe719cde
-https://weget.cdn.cache.wentian.org/s/5dfff6ad468f5fdd4808984cd95a8c0a
-https://xn--yetu3xij4b.com/s/61ee0f7db208525723ecf2158f0d6a86
 https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
-https://sub.pianyijichang.com/s/680c380e6c71929584c0a21c61496b92
+https://xn--9krt36k.com/s/136e8756df173d08a09748eb629f83fc
+https://cf-workers-sub-9s8.pages.dev/CSDN
+https://xn--yetu3xij4b.com/s/10205ac58226b2232479661dfe719cde
+https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
 http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+https://xn--yetu3xij4b.com/s/61ee0f7db208525723ecf2158f0d6a86
+https://laosijicc.top/lsj/vip/client/subscribe?token=6d74009aeba85e4f152fe6107a71cc92
