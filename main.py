@@ -240,5 +240,10 @@ async def main():
     valid_file = config_path.replace('.yaml', '_loon.txt')
     write_url_list(valid_nodes, valid_file)
 
+    # 检测“机场订阅”中节点的有效性（例如目标 target 为 "clash"）
+    valid_nodes = await check_nodes(subs, "clash")
+    valid_file = config_path.replace('.yaml', '_clash.txt')
+    write_url_list(valid_nodes, valid_file)
+
 if __name__ == '__main__':
     asyncio.run(main())
