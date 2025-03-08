@@ -219,7 +219,10 @@ async def main():
     clash  = [res["url"] for res in sub_results if res and res["type"] == "clash订阅"]
     v2     = [res["url"] for res in sub_results if res and res["type"] == "v2订阅"]
     play   = [f'{res["info"]} {res["url"]}' for res in sub_results if res and res["type"] == "机场订阅" and res["info"]]
-
+    print("subs:",subs)
+    print("clash:",clash)
+    print("v2:"v2)
+    print("play:",play)
     # 合并并更新配置（与原有数据合并）
     config["机场订阅"] = sorted(list(set(config.get("机场订阅", []) + subs)))
     config["clash订阅"] = sorted(list(set(config.get("clash订阅", []) + clash)))
@@ -241,9 +244,9 @@ async def main():
     write_url_list(valid_nodes, valid_file)
 
     # 检测“机场订阅”中节点的有效性（例如目标 target 为 "clash"）
-    valid_nodes = await check_nodes(subs, "clash")
-    valid_file = config_path.replace('.yaml', '_clash.txt')
-    write_url_list(valid_nodes, valid_file)
+    # valid_nodes = await check_nodes(subs, "clash")
+    # valid_file = config_path.replace('.yaml', '_clash.txt')
+    # write_url_list(valid_nodes, valid_file)
 
 if __name__ == '__main__':
     asyncio.run(main())
