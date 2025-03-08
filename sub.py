@@ -57,22 +57,37 @@ def postdata(data):
 def getdata(file_path):
     sub_list = []
     in_sub_list = False
-
-    with open(file_path, 'r', encoding='utf-8') as f:
-        for line in f:
-            stripped_line = line.strip()
-
-            if stripped_line == '-- sub_list --':
-                in_sub_list = True
-            elif stripped_line.startswith('--') and in_sub_list:
-                break  # 遇到下一个段落，停止提取
-            elif in_sub_list and stripped_line:
-                sub_list.append(stripped_line)
-
-    # 使用 '\n' 作为分隔符
-    return '\n'.join(sub_list)
-
+    
+    # 处理config_clash.txt的特殊情况
+    if file_path == "./config_clash.txt":
+        with open(file_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                stripped_line = line.strip()
+                if stripped_line:  # 只要不是空行就添加
+                    sub_list.append(stripped_line)
+    else:
+        # 原有的处理逻辑
+        with open(file_path, 'r', encoding='utf-8') as f:
+            for line in f:
+                stripped_line = line.strip()
+                if stripped_line == '-- sub_list --':
+                    in_sub_list = True
+                elif stripped_line.startswith('--') and in_sub_list:
+                    break  # 遇到下一个段落，停止提取
+                elif in_sub_list and stripped_line:
+                    sub_list.append(stripped_line)
+    
+    return sub_list  # 返回列表而不是字符串，便于后续合并
 
 if __name__ == "__main__":
-    path = "./config_sub_store.txt"
-    print(postdata(getdata(path)).text)
+    paths = ["./config_sub_store.txt", "./config_clash.txt"]
+    combined_results = []
+    
+    # 收集所有结果
+    for path in paths:
+        result = getdata(path)
+        combined_results.extend(result)  # 使用extend合并列表
+    
+    # 将合并后的结果转换为字符串
+    final_result = '\n'.join(combined_results)
+    print(postdata(final_result).text)
