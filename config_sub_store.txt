@@ -1,21 +1,11 @@
 -- play_list --
 
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 27.38 GB https://laosijicc.top/lsj/vip/client/subscribe?token=6d74009aeba85e4f152fe6107a71cc92
-可用流量: 399.99 GB https://xn--yetu3xij4b.com/s/10205ac58226b2232479661dfe719cde
-可用流量: 931135484.88 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-可用流量: 931135458.8 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-可用流量: 374.86 GB https://xn--yetu3xij4b.com/s/61ee0f7db208525723ecf2158f0d6a86
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
-可用流量: 879.71 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 998530.16 GB http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+可用流量: 95.71 GB https://xn--9krt36k.com/s/136e8756df173d08a09748eb629f83fc
+可用流量: 43034.07 GB https://emm-7zy.pages.dev/CSDN
 
 -- sub_list --
 
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-https://laosijicc.top/lsj/vip/client/subscribe?token=6d74009aeba85e4f152fe6107a71cc92
-https://xn--yetu3xij4b.com/s/10205ac58226b2232479661dfe719cde
-https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-https://xn--yetu3xij4b.com/s/61ee0f7db208525723ecf2158f0d6a86
-https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+https://xn--9krt36k.com/s/136e8756df173d08a09748eb629f83fc
+https://emm-7zy.pages.dev/CSDN
