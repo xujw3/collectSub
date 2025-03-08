@@ -1,15 +1,11 @@
 -- play_list --
 
-可用流量: 25.61 GB https://laosijicc.top/lsj/vip/client/subscribe?token=6d74009aeba85e4f152fe6107a71cc92
-可用流量: 93.85 GB https://ni8.zxm.cc/api/v1/client/subscribe?token=cb957ca52c4ebe6a711b6d8b413a5bd8
-可用流量: 998512.57 GB http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-可用流量: 879.34 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 931135484.88 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+可用流量: 24.96 GB https://laosijicc.top/lsj/vip/client/subscribe?token=6d74009aeba85e4f152fe6107a71cc92
+可用流量: 998508.9 GB http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+可用流量: 75.29 GB https://xn--9krt36k.com/s/136e8756df173d08a09748eb629f83fc
 
 -- sub_list --
 
 https://laosijicc.top/lsj/vip/client/subscribe?token=6d74009aeba85e4f152fe6107a71cc92
-https://ni8.zxm.cc/api/v1/client/subscribe?token=cb957ca52c4ebe6a711b6d8b413a5bd8
 http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+https://xn--9krt36k.com/s/136e8756df173d08a09748eb629f83fc
