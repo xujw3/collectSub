@@ -20,15 +20,15 @@ jobs:
     steps:
 
     - name: 迁出代码
-      uses: actions/checkout@v2
+      uses: actions/checkout@v3
 
     - name: 安装Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v3
       with:
         python-version: '3.x'
       
     - name: 加载缓存
-      uses: actions/cache@v2
+      uses: actions/cache@v3
       with:
         path: ~/.cache/pip
         key: ${{ runner.os }}-pip-${{ hashFiles('**/run_in_Actions/requirements.txt') }}
