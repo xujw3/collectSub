@@ -1,21 +1,9 @@
 -- play_list --
 
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
-可用流量: 450.92 GB https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
-可用流量: 27.71 GB https://laosijicc.top/lsj/vip/client/subscribe?token=6d74009aeba85e4f152fe6107a71cc92
 可用流量: 377.61 GB https://xn--yetu3xij4b.com/s/61ee0f7db208525723ecf2158f0d6a86
-可用流量: 15.22 GB https://sub.pianyijichang.com/s/680c380e6c71929584c0a21c61496b92
-可用流量: 401.49 GB https://xn--yetu3xij4b.com/s/10205ac58226b2232479661dfe719cde
-可用流量: 43033.37 GB https://cf-workers-sub-9s8.pages.dev/CSDN
-可用流量: 11.58 GB https://weget.cdn.cache.wentian.org/s/5dfff6ad468f5fdd4808984cd95a8c0a
+可用流量: 1962.25 GB https://qxuig4.youxuan.wiki/api/v1/client/subscribe?token=d176bd1ddc5626a89c1c65a4977defcd
 
 -- sub_list --
 
-https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
-https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
-https://laosijicc.top/lsj/vip/client/subscribe?token=6d74009aeba85e4f152fe6107a71cc92
 https://xn--yetu3xij4b.com/s/61ee0f7db208525723ecf2158f0d6a86
-https://sub.pianyijichang.com/s/680c380e6c71929584c0a21c61496b92
-https://xn--yetu3xij4b.com/s/10205ac58226b2232479661dfe719cde
-https://cf-workers-sub-9s8.pages.dev/CSDN
-https://weget.cdn.cache.wentian.org/s/5dfff6ad468f5fdd4808984cd95a8c0a
+https://qxuig4.youxuan.wiki/api/v1/client/subscribe?token=d176bd1ddc5626a89c1c65a4977defcd
