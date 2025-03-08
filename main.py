@@ -221,7 +221,7 @@ async def main():
     play   = [f'{res["info"]} {res["url"]}' for res in sub_results if res and res["type"] == "机场订阅" and res["info"]]
     print("subs:",subs)
     print("clash:",clash)
-    print("v2:"v2)
+    print("v2:",v2)
     print("play:",play)
     # 合并并更新配置（与原有数据合并）
     config["机场订阅"] = sorted(list(set(config.get("机场订阅", []) + subs)))
