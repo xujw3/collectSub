@@ -1,25 +1,13 @@
 -- play_list --
 
-可用流量: 433.22 GB https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
-可用流量: 998310.06 GB http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-可用流量: 385.98 GB https://xn--yetu3xij4b.com/s/10205ac58226b2232479661dfe719cde
-可用流量: 351.58 GB https://xn--yetu3xij4b.com/s/61ee0f7db208525723ecf2158f0d6a86
-可用流量: 877.77 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
-可用流量: 931135458.53 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-可用流量: 15.16 GB https://laosijicc.top/lsj/vip/client/subscribe?token=6d74009aeba85e4f152fe6107a71cc92
-可用流量: 931135484.63 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-可用流量: 199.97 GB https://laosijicc.top/lsj/vip/client/subscribe?token=f8622a02465ac960c206939ac8e8c860
+可用流量: 14.51 GB https://laosijicc.top/lsj/vip/client/subscribe?token=6d74009aeba85e4f152fe6107a71cc92
+可用流量: 998303.29 GB http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+可用流量: 350.93 GB https://xn--yetu3xij4b.com/s/61ee0f7db208525723ecf2158f0d6a86
+可用流量: 432.91 GB https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
 
 -- sub_list --
 
-https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
-http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-https://xn--yetu3xij4b.com/s/10205ac58226b2232479661dfe719cde
-https://xn--yetu3xij4b.com/s/61ee0f7db208525723ecf2158f0d6a86
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
-https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 https://laosijicc.top/lsj/vip/client/subscribe?token=6d74009aeba85e4f152fe6107a71cc92
-https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-https://laosijicc.top/lsj/vip/client/subscribe?token=f8622a02465ac960c206939ac8e8c860
+http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+https://xn--yetu3xij4b.com/s/61ee0f7db208525723ecf2158f0d6a86
+https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
