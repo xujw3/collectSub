@@ -1,3 +1,1 @@
-https://raw.githubusercontent.com/ssrsub/ssr/master/ss-sub
-https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
 https://sub.scp-nsc.top/base64
