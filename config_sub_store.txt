@@ -1,19 +1,15 @@
 -- play_list --
 
-可用流量: 998067.22 GB http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-可用流量: 931135484.35 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-可用流量: 430.14 GB https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
-可用流量: 931135458.2 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-可用流量: 875.37 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 710.65 GB https://gates.djjc.cfd/api/v1/client/subscribe?token=5de1f19e5e17b0da335d9abbdcc87d45
+可用流量: 998059.24 GB http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+可用流量: 931135484.22 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
 可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
+可用流量: 665.24 GB https://gates.djjc.cfd/api/v1/client/subscribe?token=5de1f19e5e17b0da335d9abbdcc87d45
+可用流量: 931135458.2 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 
 -- sub_list --
 
 http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
 https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
-https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://gates.djjc.cfd/api/v1/client/subscribe?token=5de1f19e5e17b0da335d9abbdcc87d45
 https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
+https://gates.djjc.cfd/api/v1/client/subscribe?token=5de1f19e5e17b0da335d9abbdcc87d45
+https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
