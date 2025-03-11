@@ -1,17 +1,17 @@
 -- play_list --
 
-可用流量: 997765.33 GB http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-可用流量: 870.1 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 405.16 GB https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
-可用流量: 931135483.74 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
 可用流量: 931135457.75 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
+可用流量: 931135483.74 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+可用流量: 997764.37 GB http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+可用流量: 405.15 GB https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
+可用流量: 869.67 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 
 -- sub_list --
 
-http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
-https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
 https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
+https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
