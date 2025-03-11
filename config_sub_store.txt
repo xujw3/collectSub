@@ -1,19 +1,13 @@
 -- play_list --
 
-可用流量: 997776.48 GB http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-可用流量: 870.53 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 108.06 GB https://service-p0v9tp46-1312645837.gz.apigw.tencentcs.com/api/v1/client/subscribe?token=577a10ca85e1e2f2debb472698ac348a
-可用流量: 931135483.93 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
 可用流量: 931135457.88 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-可用流量: 411.08 GB https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
+可用流量: 25.61 GB https://service-p0v9tp46-1312645837.gz.apigw.tencentcs.com/api/v1/client/subscribe?token=577a10ca85e1e2f2debb472698ac348a
+可用流量: 997767.45 GB http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+可用流量: 931135483.88 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
 
 -- sub_list --
 
-http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://service-p0v9tp46-1312645837.gz.apigw.tencentcs.com/api/v1/client/subscribe?token=577a10ca85e1e2f2debb472698ac348a
-https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
 https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
+https://service-p0v9tp46-1312645837.gz.apigw.tencentcs.com/api/v1/client/subscribe?token=577a10ca85e1e2f2debb472698ac348a
+http://15.197.234.117:40329/sub/e788fc41033ac908/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
