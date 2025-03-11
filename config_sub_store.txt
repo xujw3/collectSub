@@ -1,19 +1,17 @@
 -- play_list --
 
-可用流量: 2.71 GB https://api.heima2u.com/api/v1/client/subscribe?token=f33c9c51f59a8f803d9eac57736b3f03
-可用流量: 867.57 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 2754.8 GB http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
 可用流量: 931135457.68 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 可用流量: 931135483.67 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
 可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
+可用流量: 867.32 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 2.7 GB https://api.heima2u.com/api/v1/client/subscribe?token=f33c9c51f59a8f803d9eac57736b3f03
 可用流量: 402.88 GB https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
 
 -- sub_list --
 
-https://api.heima2u.com/api/v1/client/subscribe?token=f33c9c51f59a8f803d9eac57736b3f03
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
 https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
 https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+https://api.heima2u.com/api/v1/client/subscribe?token=f33c9c51f59a8f803d9eac57736b3f03
 https://xn--9krt36k.com/s/a4f69c0ad674899bec7b71ee35fd6459
