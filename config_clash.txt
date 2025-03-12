@@ -1,6 +1,6 @@
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://proxypool.aloes.workers.dev/
-https://yanyubaby.eu.org/GhPsSY7kNCMHQYX7Fjhnb8Gw
+https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
 https://yanyubaby.eu.org/WAdHK4RQkZceXdi2Yh8chAfN
-https://super.jack991.filegear-sg.me/
 https://sub.scp-nsc.top/clash
+https://super.jack991.filegear-sg.me/
+https://yanyubaby.eu.org/GhPsSY7kNCMHQYX7Fjhnb8Gw
