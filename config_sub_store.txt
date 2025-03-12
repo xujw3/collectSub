@@ -1,27 +1,21 @@
 -- play_list --
 
-可用流量: 931135457.5 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-可用流量: 105.43 GB https://sub.xn--2vxn29amga.com/s/bb92bcd539ad63cc54f324e0e4451fbf
-可用流量: 497.55 GB https://aimanman.me/s/7b0c043397e14a788e4ae8477eb7a85e
 可用流量: 931135483.36 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-可用流量: 328.74 GB https://xn--yetu3xij4b.com/s/d6385b46249cebd930efe99de1d65822
 可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
-可用流量: 299.63 GB https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
-可用流量: 481.46 GB https://aimanman.me/s/b416b8441973c08d9465dda079340101
-可用流量: 2559.58 GB http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
-可用流量: 863.51 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 406.71 GB https://aimanman.me/s/477af88bbe1db712f2a71808cc8f213e
+可用流量: 931135457.5 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
+可用流量: 294.1 GB https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
+可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+可用流量: 328.7 GB https://xn--yetu3xij4b.com/s/d6385b46249cebd930efe99de1d65822
+可用流量: 497.26 GB https://aimanman.me/s/7b0c043397e14a788e4ae8477eb7a85e
+可用流量: 480.34 GB https://aimanman.me/s/b416b8441973c08d9465dda079340101
 
 -- sub_list --
 
-https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-https://sub.xn--2vxn29amga.com/s/bb92bcd539ad63cc54f324e0e4451fbf
-https://aimanman.me/s/7b0c043397e14a788e4ae8477eb7a85e
 https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-https://xn--yetu3xij4b.com/s/d6385b46249cebd930efe99de1d65822
 https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
+https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+https://xn--yetu3xij4b.com/s/d6385b46249cebd930efe99de1d65822
+https://aimanman.me/s/7b0c043397e14a788e4ae8477eb7a85e
 https://aimanman.me/s/b416b8441973c08d9465dda079340101
-http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://aimanman.me/s/477af88bbe1db712f2a71808cc8f213e
