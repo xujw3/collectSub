@@ -1,27 +1,29 @@
 -- play_list --
 
-可用流量: 931135483.0 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-可用流量: 470.47 GB https://aimanman.me/s/b416b8441973c08d9465dda079340101
-可用流量: 860.41 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
-可用流量: 294.37 GB https://aimanman.me/s/477af88bbe1db712f2a71808cc8f213e
+可用流量: 85.69 GB https://45.137.181.197/api/v1/client/subscribe?token=57141b33b664412b3254cd69853edc57
+可用流量: 469.82 GB https://aimanman.me/s/b416b8441973c08d9465dda079340101
 可用流量: 197.1 GB https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
-可用流量: 330.86 GB https://45.137.181.197/api/v1/client/subscribe?token=57141b33b664412b3254cd69853edc57
+可用流量: 931135483.0 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
+可用流量: 247.63 GB https://xn--yetu3xij4b.com/s/d6385b46249cebd930efe99de1d65822
+可用流量: 194.99 GB https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
+可用流量: 492.9 GB https://aimanman.me/s/7b0c043397e14a788e4ae8477eb7a85e
+可用流量: 292.1 GB https://aimanman.me/s/477af88bbe1db712f2a71808cc8f213e
 可用流量: 931135455.73 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-可用流量: 2388.89 GB http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
-可用流量: 196.03 GB https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
-可用流量: 247.81 GB https://xn--yetu3xij4b.com/s/d6385b46249cebd930efe99de1d65822
+可用流量: 2386.25 GB http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
 
 -- sub_list --
 
-https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-https://aimanman.me/s/b416b8441973c08d9465dda079340101
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
-https://aimanman.me/s/477af88bbe1db712f2a71808cc8f213e
-https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
 https://45.137.181.197/api/v1/client/subscribe?token=57141b33b664412b3254cd69853edc57
+https://aimanman.me/s/b416b8441973c08d9465dda079340101
+https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
+https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
+https://xn--yetu3xij4b.com/s/d6385b46249cebd930efe99de1d65822
+https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
+https://aimanman.me/s/7b0c043397e14a788e4ae8477eb7a85e
+https://aimanman.me/s/477af88bbe1db712f2a71808cc8f213e
 https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
-https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
-https://xn--yetu3xij4b.com/s/d6385b46249cebd930efe99de1d65822
