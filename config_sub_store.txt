@@ -1,25 +1,19 @@
 -- play_list --
 
-可用流量: 857.16 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 462.59 GB https://aimanman.me/s/b416b8441973c08d9465dda079340101
-可用流量: 230.12 GB https://aimanman.me/s/477af88bbe1db712f2a71808cc8f213e
-可用流量: 147.53 GB https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
-可用流量: 64.12 GB https://api.e687699.top/api/v1/client/subscribe?token=d51f623392f42a41accd2d889987e0cd
-可用流量: 4863.72 GB https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
-可用流量: 210.39 GB https://xn--yetu3xij4b.com/s/d6385b46249cebd930efe99de1d65822
 可用流量: 197.1 GB https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
-可用流量: 2289.69 GB http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
-可用流量: 931135455.62 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
+可用流量: 3.44 GB https://api.heima2u.com/api/v1/client/subscribe?token=2b7e79ee35b62097621e0bdccd4722e8
+可用流量: 4664.25 GB https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
+可用流量: 144.14 GB https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
+可用流量: 179.62 GB https://xn--yetu3xij4b.com/s/d6385b46249cebd930efe99de1d65822
+可用流量: 35.99 GB https://api.e687699.top/api/v1/client/subscribe?token=d51f623392f42a41accd2d889987e0cd
+可用流量: 2281.57 GB http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
 
 -- sub_list --
 
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://aimanman.me/s/b416b8441973c08d9465dda079340101
-https://aimanman.me/s/477af88bbe1db712f2a71808cc8f213e
-https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
-https://api.e687699.top/api/v1/client/subscribe?token=d51f623392f42a41accd2d889987e0cd
-https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
-https://xn--yetu3xij4b.com/s/d6385b46249cebd930efe99de1d65822
 https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
+https://api.heima2u.com/api/v1/client/subscribe?token=2b7e79ee35b62097621e0bdccd4722e8
+https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
+https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
+https://xn--yetu3xij4b.com/s/d6385b46249cebd930efe99de1d65822
+https://api.e687699.top/api/v1/client/subscribe?token=d51f623392f42a41accd2d889987e0cd
 http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
-https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
