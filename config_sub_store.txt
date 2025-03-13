@@ -1,25 +1,41 @@
 -- play_list --
 
-可用流量: 234.12 GB https://xn--yetu3xij4b.com/s/d6385b46249cebd930efe99de1d65822
-可用流量: 858.2 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 142.61 GB https://45.137.181.197/api/v1/client/subscribe?token=57141b33b664412b3254cd69853edc57
-可用流量: 174.01 GB https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
-可用流量: 2.83 GB https://api.heima2u.com/api/v1/client/subscribe?token=2b7e79ee35b62097621e0bdccd4722e8
-可用流量: 2338.12 GB http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
-可用流量: 197.1 GB https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
+可用流量: 1022959.95 GB http://160.251.136.55:8080/%E7%8C%AB%E7%8C%AB%E9%A3%9E%E6%9C%BA
+可用流量: 173.85 GB https://api.e687699.top/api/v1/client/subscribe?token=d51f623392f42a41accd2d889987e0cd
+可用流量: 172.88 GB https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
+可用流量: 486.94 GB https://aimanman.me/s/7b0c043397e14a788e4ae8477eb7a85e
+可用流量: 400.13 GB https://aimanman.me/s/732b8fc01f6a36b955a3a67a3226255e
+可用流量: 2331.52 GB http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
+可用流量: 267.83 GB https://aimanman.me/s/477af88bbe1db712f2a71808cc8f213e
 可用流量: 931135455.62 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 可用流量: 931135482.86 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
 可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
+可用流量: 467.23 GB https://aimanman.me/s/b416b8441973c08d9465dda079340101
+可用流量: 231.63 GB https://xn--yetu3xij4b.com/s/d6385b46249cebd930efe99de1d65822
+可用流量: 197.1 GB https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
+可用流量: 5113.44 GB https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
+可用流量: 1.51 GB https://api.heima2u.com/api/v1/client/subscribe?token=2b7e79ee35b62097621e0bdccd4722e8
+可用流量: 22395.91 GB https://api-hy.02000.net/api/v1/client/subscribe?token=c1e7a542d82991f1011d0235ab4cc33f
+可用流量: 457.65 GB https://aimanman.me/s/a283eac7483201ceb8fbe4085996814b
+可用流量: 857.98 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 
 -- sub_list --
 
-https://xn--yetu3xij4b.com/s/d6385b46249cebd930efe99de1d65822
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://45.137.181.197/api/v1/client/subscribe?token=57141b33b664412b3254cd69853edc57
+http://160.251.136.55:8080/%E7%8C%AB%E7%8C%AB%E9%A3%9E%E6%9C%BA
+https://api.e687699.top/api/v1/client/subscribe?token=d51f623392f42a41accd2d889987e0cd
 https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
-https://api.heima2u.com/api/v1/client/subscribe?token=2b7e79ee35b62097621e0bdccd4722e8
+https://aimanman.me/s/7b0c043397e14a788e4ae8477eb7a85e
+https://aimanman.me/s/732b8fc01f6a36b955a3a67a3226255e
 http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
-https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
+https://aimanman.me/s/477af88bbe1db712f2a71808cc8f213e
 https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
 https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
+https://aimanman.me/s/b416b8441973c08d9465dda079340101
+https://xn--yetu3xij4b.com/s/d6385b46249cebd930efe99de1d65822
+https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
+https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
+https://api.heima2u.com/api/v1/client/subscribe?token=2b7e79ee35b62097621e0bdccd4722e8
+https://api-hy.02000.net/api/v1/client/subscribe?token=c1e7a542d82991f1011d0235ab4cc33f
+https://aimanman.me/s/a283eac7483201ceb8fbe4085996814b
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
