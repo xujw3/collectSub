@@ -1,31 +1,27 @@
 -- play_list --
 
-可用流量: 24.41 GB https://aimanman.me/s/477af88bbe1db712f2a71808cc8f213e
+可用流量: 353.13 GB https://aimanman.me/s/732b8fc01f6a36b955a3a67a3226255e
+可用流量: 400.24 GB https://aimanman.me/s/a283eac7483201ceb8fbe4085996814b
+可用流量: 21.61 GB https://aimanman.me/s/477af88bbe1db712f2a71808cc8f213e
+可用流量: 43046.16 GB https://sea-5l8.pages.dev/CSDN
+可用流量: 3285.31 GB https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
 可用流量: 931135455.32 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-可用流量: 358.33 GB https://aimanman.me/s/732b8fc01f6a36b955a3a67a3226255e
-可用流量: 2235.92 GB http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
-可用流量: 458.03 GB https://aimanman.me/s/b416b8441973c08d9465dda079340101
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
-可用流量: 3386.43 GB https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
+可用流量: 853.33 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 43046.16 GB https://cf-workers-sub-9s8.pages.dev/CSDN
 可用流量: 931135482.58 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-可用流量: 405.9 GB https://aimanman.me/s/a283eac7483201ceb8fbe4085996814b
-可用流量: 482.42 GB https://aimanman.me/s/7b0c043397e14a788e4ae8477eb7a85e
-可用流量: 43046.08 GB https://sea-5l8.pages.dev/CSDN
-可用流量: 853.95 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 113.12 GB https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
+可用流量: 481.93 GB https://aimanman.me/s/7b0c043397e14a788e4ae8477eb7a85e
+可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
 
 -- sub_list --
 
-https://aimanman.me/s/477af88bbe1db712f2a71808cc8f213e
-https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 https://aimanman.me/s/732b8fc01f6a36b955a3a67a3226255e
-http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
-https://aimanman.me/s/b416b8441973c08d9465dda079340101
-https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
-https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
-https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
 https://aimanman.me/s/a283eac7483201ceb8fbe4085996814b
-https://aimanman.me/s/7b0c043397e14a788e4ae8477eb7a85e
+https://aimanman.me/s/477af88bbe1db712f2a71808cc8f213e
 https://sea-5l8.pages.dev/CSDN
+https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
+https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
+https://cf-workers-sub-9s8.pages.dev/CSDN
+https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+https://aimanman.me/s/7b0c043397e14a788e4ae8477eb7a85e
+https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
