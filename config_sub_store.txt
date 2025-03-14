@@ -1,21 +1,23 @@
 -- play_list --
 
-可用流量: 378.95 GB https://aimanman.me/s/a283eac7483201ceb8fbe4085996814b
+可用流量: 931135482.57 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+可用流量: 2103.4 GB https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
+可用流量: 479.85 GB https://aimanman.me/s/7b0c043397e14a788e4ae8477eb7a85e
+可用流量: 376.64 GB https://aimanman.me/s/a283eac7483201ceb8fbe4085996814b
+可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
+可用流量: 98.05 GB https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
 可用流量: 197.1 GB https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
-可用流量: 2460.94 GB https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
-可用流量: 931135455.32 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-可用流量: 43046.42 GB https://emm-7zy.pages.dev/CSDN
-可用流量: 43046.42 GB https://sea-5l8.pages.dev/CSDN
-可用流量: 851.93 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 480.1 GB https://aimanman.me/s/7b0c043397e14a788e4ae8477eb7a85e
+可用流量: 931135455.14 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
+可用流量: 455.22 GB https://aimanman.me/s/b416b8441973c08d9465dda079340101
 
 -- sub_list --
 
-https://aimanman.me/s/a283eac7483201ceb8fbe4085996814b
-https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
+https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
 https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
-https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-https://emm-7zy.pages.dev/CSDN
-https://sea-5l8.pages.dev/CSDN
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 https://aimanman.me/s/7b0c043397e14a788e4ae8477eb7a85e
+https://aimanman.me/s/a283eac7483201ceb8fbe4085996814b
+https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
+https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
+https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
+https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
+https://aimanman.me/s/b416b8441973c08d9465dda079340101
