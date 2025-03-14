@@ -1,17 +1,15 @@
 -- play_list --
 
-可用流量: 197.1 GB https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
-可用流量: 3782.48 GB https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
-可用流量: 931135455.52 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-可用流量: 483.01 GB https://aimanman.me/s/7b0c043397e14a788e4ae8477eb7a85e
-可用流量: 370.77 GB https://aimanman.me/s/732b8fc01f6a36b955a3a67a3226255e
-可用流量: 2256.97 GB http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
+可用流量: 3579.85 GB https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
+可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
+可用流量: 931135482.58 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+可用流量: 931135455.32 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
+可用流量: 2240.25 GB http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
 
 -- sub_list --
 
-https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
 https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
+https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
+https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
 https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-https://aimanman.me/s/7b0c043397e14a788e4ae8477eb7a85e
-https://aimanman.me/s/732b8fc01f6a36b955a3a67a3226255e
 http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
