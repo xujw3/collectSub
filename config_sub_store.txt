@@ -1,21 +1,27 @@
 -- play_list --
 
-可用流量: 848.67 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 可用流量: 197.1 GB https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
-可用流量: 291.63 GB https://aimanman.me/s/732b8fc01f6a36b955a3a67a3226255e
+可用流量: 848.51 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 278.41 GB https://aimanman.me/s/a283eac7483201ceb8fbe4085996814b
 可用流量: 58.7 GB https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
 可用流量: 931135482.45 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-可用流量: 931135455.14 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
-可用流量: 363.2 GB https://aimanman.me/s/7b0c043397e14a788e4ae8477eb7a85e
+可用流量: 931135455.14 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
+可用流量: 290.41 GB https://aimanman.me/s/732b8fc01f6a36b955a3a67a3226255e
+可用流量: 448.56 GB https://aimanman.me/s/b416b8441973c08d9465dda079340101
+可用流量: 361.11 GB https://aimanman.me/s/7b0c043397e14a788e4ae8477eb7a85e
+可用流量: 2169.63 GB http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
 
 -- sub_list --
 
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
-https://aimanman.me/s/732b8fc01f6a36b955a3a67a3226255e
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+https://aimanman.me/s/a283eac7483201ceb8fbe4085996814b
 https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
 https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 https://xship.top/v1/subscribe?starlink=qaKSC44T83EOPpgCSR030vSH
+https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
+https://aimanman.me/s/732b8fc01f6a36b955a3a67a3226255e
+https://aimanman.me/s/b416b8441973c08d9465dda079340101
 https://aimanman.me/s/7b0c043397e14a788e4ae8477eb7a85e
+http://em7.buzz/v3/subscr?id=5359840131e14ce3bb2e6c00a8fc3e01
