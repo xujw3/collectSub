@@ -1,10 +1,9 @@
 -- play_list --
 
-可用流量: 845.21 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 845.11 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 可用流量: 197.1 GB https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
 可用流量: 931135455.04 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 可用流量: 931135482.29 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-可用流量: 3.07 GB https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
 
 -- sub_list --
 
@@ -12,4 +11,3 @@ https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4
 https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
 https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-https://xn--yetu3xij4b.com/s/02c50233a41877c61e991603ac85ac65
