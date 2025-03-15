@@ -1,7 +1,12 @@
-https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://free.juzi.lat/upload/zhh1741859141709.txt
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-https://sub.scp-nsc.top/clash
+https://proxypool.aloes.workers.dev/
+https://free.juzi.lat/upload/zhh1741859141709.txt
+https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
+https://sea-5l8.pages.dev/CSDN
+https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
+https://wf.nekros.us/s/9ede78a13c9b3d6f7cb5929969e126ba
+https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
+https://xn--yetu3xij4b.com/s/d6385b46249cebd930efe99de1d65822
+https://aimanman.me/s/477af88bbe1db712f2a71808cc8f213e
 https://super.jack991.filegear-sg.me/
-https://paste.gg/p/TG@FProxies/07d2c9efd8ae41ab82e2ad8097220ae6/files/09e4e87518a1479d9665942377e0966e/raw
+https://sub.scp-nsc.top/clash
