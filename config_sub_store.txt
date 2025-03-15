@@ -1,13 +1,21 @@
 -- play_list --
 
-可用流量: 845.11 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 197.1 GB https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
 可用流量: 931135455.04 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 可用流量: 931135482.29 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+可用流量: 844.98 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 12.65 GB https://cloud.xn--pbt38zg4v.com/nmb/114514/subscribe/5964de7f27d81c5b9c4cf7c9b0ad0c40
+可用流量: 197.1 GB https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
+可用流量: 43048.83 GB https://cf-workers-sub-9s8.pages.dev/CSDN
+可用流量: 43048.83 GB https://sea-5l8.pages.dev/CSDN
+可用流量: 161.37 GB https://cloud.xn--pbt38zg4v.com/nmb/114514/subscribe/9f7d27d7a5615165dbdf75ccc8a2b6b1
 
 -- sub_list --
 
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
 https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+https://cloud.xn--pbt38zg4v.com/nmb/114514/subscribe/5964de7f27d81c5b9c4cf7c9b0ad0c40
+https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
+https://cf-workers-sub-9s8.pages.dev/CSDN
+https://sea-5l8.pages.dev/CSDN
+https://cloud.xn--pbt38zg4v.com/nmb/114514/subscribe/9f7d27d7a5615165dbdf75ccc8a2b6b1
