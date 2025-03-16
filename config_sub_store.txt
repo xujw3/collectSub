@@ -1,29 +1,15 @@
 -- play_list --
 
-可用流量: 197.1 GB https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
-可用流量: 52.0 GB https://supz1.6128888.xyz/api/v1/client/subscribe?token=887c9f01e68146618e70657e8ec2b6ee
-可用流量: 2981.85 GB https://yx1.281968.xyz/api/v1/client/subscribe?token=4bead4953ed865f8e24d654b36aa27dc
-可用流量: 466.62 GB http://124.71.40.178/api/v1/client/subscribe?token=406010749cf80c6015826ee29f7d1d08
-可用流量: 26.04 GB https://gy777.xyz/s/6f0070b70065e233f15ca65ffa24a4de
-可用流量: 931135454.91 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-可用流量: 931135482.04 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+可用流量: 344.13 GB http://124.71.40.178/api/v1/client/subscribe?token=406010749cf80c6015826ee29f7d1d08
+可用流量: 153.76 GB https://aimanman.me/s/8147ed1492d8d4ff7c3dec7e980ffc0f
 可用流量: 999999.0 GB https://yx.ye-xiao.top/s/4dfda9f61aff1b22cc47ee93dc58b20b
-可用流量: 842.05 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 52.0 GB https://supz1.6128888.xyz/api/v1/client/subscribe?token=31f3b6a059e2a3894971150b34163ff5
-可用流量: 43050.61 GB https://sea-5l8.pages.dev/CSDN
-可用流量: 174.24 GB https://aimanman.me/s/8147ed1492d8d4ff7c3dec7e980ffc0f
+可用流量: 2931.32 GB https://yx1.281968.xyz/api/v1/client/subscribe?token=4bead4953ed865f8e24d654b36aa27dc
+可用流量: 842.03 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 
 -- sub_list --
 
-https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
-https://supz1.6128888.xyz/api/v1/client/subscribe?token=887c9f01e68146618e70657e8ec2b6ee
-https://yx1.281968.xyz/api/v1/client/subscribe?token=4bead4953ed865f8e24d654b36aa27dc
 http://124.71.40.178/api/v1/client/subscribe?token=406010749cf80c6015826ee29f7d1d08
-https://gy777.xyz/s/6f0070b70065e233f15ca65ffa24a4de
-https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-https://yx.ye-xiao.top/s/4dfda9f61aff1b22cc47ee93dc58b20b
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://supz1.6128888.xyz/api/v1/client/subscribe?token=31f3b6a059e2a3894971150b34163ff5
-https://sea-5l8.pages.dev/CSDN
 https://aimanman.me/s/8147ed1492d8d4ff7c3dec7e980ffc0f
+https://yx.ye-xiao.top/s/4dfda9f61aff1b22cc47ee93dc58b20b
+https://yx1.281968.xyz/api/v1/client/subscribe?token=4bead4953ed865f8e24d654b36aa27dc
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
