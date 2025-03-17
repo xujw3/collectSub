@@ -1,21 +1,25 @@
 -- play_list --
 
-可用流量: 931135481.82 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-可用流量: 1786.57 GB https://yx1.281968.xyz/api/v1/client/subscribe?token=4bead4953ed865f8e24d654b36aa27dc
-可用流量: 197.1 GB https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
+可用流量: 931135481.64 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+可用流量: 26.3 GB https://b7af2e827532cf5d6bb61a805b44b58c.807541.xyz/api/v1/client/subscribe?token=e4625d4d5013ed8c116958af3c19c288
 可用流量: 999999.0 GB https://yx.ye-xiao.top/s/4dfda9f61aff1b22cc47ee93dc58b20b
-可用流量: 840.47 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 52.0 GB https://supz1.6128888.xyz/api/v1/client/subscribe?token=887c9f01e68146618e70657e8ec2b6ee
+可用流量: 840.08 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 1623.69 GB https://yx1.281968.xyz/api/v1/client/subscribe?token=4bead4953ed865f8e24d654b36aa27dc
+可用流量: 197.1 GB https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
+可用流量: 931135454.76 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 可用流量: 52.0 GB https://supz1.6128888.xyz/api/v1/client/subscribe?token=31f3b6a059e2a3894971150b34163ff5
-可用流量: 931135454.77 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
+可用流量: 52.0 GB https://supz1.6128888.xyz/api/v1/client/subscribe?token=887c9f01e68146618e70657e8ec2b6ee
+可用流量: 43052.34 GB https://emm-7zy.pages.dev/CSDN
 
 -- sub_list --
 
 https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-https://yx1.281968.xyz/api/v1/client/subscribe?token=4bead4953ed865f8e24d654b36aa27dc
-https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
+https://b7af2e827532cf5d6bb61a805b44b58c.807541.xyz/api/v1/client/subscribe?token=e4625d4d5013ed8c116958af3c19c288
 https://yx.ye-xiao.top/s/4dfda9f61aff1b22cc47ee93dc58b20b
 https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://supz1.6128888.xyz/api/v1/client/subscribe?token=887c9f01e68146618e70657e8ec2b6ee
-https://supz1.6128888.xyz/api/v1/client/subscribe?token=31f3b6a059e2a3894971150b34163ff5
+https://yx1.281968.xyz/api/v1/client/subscribe?token=4bead4953ed865f8e24d654b36aa27dc
+https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
 https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
+https://supz1.6128888.xyz/api/v1/client/subscribe?token=31f3b6a059e2a3894971150b34163ff5
+https://supz1.6128888.xyz/api/v1/client/subscribe?token=887c9f01e68146618e70657e8ec2b6ee
+https://emm-7zy.pages.dev/CSDN
