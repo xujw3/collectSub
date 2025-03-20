@@ -1,21 +1,33 @@
 -- play_list --
 
-可用流量: 0.99 GB https://gaxcdn.koihost.com/apiv2/user/sub?token=ef3a85a648b529be7531711c9d76bf97
 可用流量: 931135452.07 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-可用流量: 388.61 GB https://xn--4oq11ryli3rg.com/s/799f692ebef19a04a0b3f777637929a2
-可用流量: 3.28 GB https://gotocdn.tencentagi.com/apiv2/user/sub?token=ac4f5a47ab33d2bc58081281c78b22b8
-可用流量: 52.0 GB https://supz1.6128888.xyz/api/v1/client/subscribe?token=31f3b6a059e2a3894971150b34163ff5
-可用流量: 0.9 GB https://gaxcdn.koihost.com/apiv2/user/sub?token=93801e904ba357e59013a8a112ca2b07
-可用流量: 76.96 GB https://bajie.la/api/v1/client/subscribe?token=496b495b2b0c5fe8c92c73184510a756
-可用流量: 821.84 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 1.14 GB https://gotocdn.tencentagi.com/apiv2/user/sub?token=13ea2409eb29537aa2d64511e2c71dba
+可用流量: 9982.35 GB https://xboard.520021.net/api/v1/client/subscribe?token=6b201047a6ad996d77fb8354a6a7696c
+可用流量: 388.16 GB https://xn--4oq11ryli3rg.com/s/799f692ebef19a04a0b3f777637929a2
+可用流量: 821.64 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 280.89 GB https://gywanglug.xyz/s/08f978868acc79974cf025e569a9bfdc
+可用流量: 60.36 GB https://aimanman.me/s/ec2522afc2ed398b37b41e63a0986603
+可用流量: 4.32 GB https://g933cec.cdn.uunode.com/apiv2/user/sub?token=aeef21f7bee1522aad04aab5f27f5c6d
+可用流量: 931135480.64 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+可用流量: 197.1 GB https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
+可用流量: 6.19 GB https://gaxcdn.koihost.com/apiv2/user/sub?token=647fe22644f31a9b03332bb413fdf193
+可用流量: 52.0 GB https://supz1.6128888.xyz/api/v1/client/subscribe?token=887c9f01e68146618e70657e8ec2b6ee
+可用流量: 3.21 GB https://gotocdn.tencentagi.com/apiv2/user/sub?token=ac4f5a47ab33d2bc58081281c78b22b8
+可用流量: 999999207.16 GB https://202503021722111.chibaba.ggff.net/api/v1/client/subscribe?token=2300c05a842f8ec6f55da6596882bfe3
 
 -- sub_list --
 
-https://gaxcdn.koihost.com/apiv2/user/sub?token=ef3a85a648b529be7531711c9d76bf97
 https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
+https://gotocdn.tencentagi.com/apiv2/user/sub?token=13ea2409eb29537aa2d64511e2c71dba
+https://xboard.520021.net/api/v1/client/subscribe?token=6b201047a6ad996d77fb8354a6a7696c
 https://xn--4oq11ryli3rg.com/s/799f692ebef19a04a0b3f777637929a2
-https://gotocdn.tencentagi.com/apiv2/user/sub?token=ac4f5a47ab33d2bc58081281c78b22b8
-https://supz1.6128888.xyz/api/v1/client/subscribe?token=31f3b6a059e2a3894971150b34163ff5
-https://gaxcdn.koihost.com/apiv2/user/sub?token=93801e904ba357e59013a8a112ca2b07
-https://bajie.la/api/v1/client/subscribe?token=496b495b2b0c5fe8c92c73184510a756
 https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+https://gywanglug.xyz/s/08f978868acc79974cf025e569a9bfdc
+https://aimanman.me/s/ec2522afc2ed398b37b41e63a0986603
+https://g933cec.cdn.uunode.com/apiv2/user/sub?token=aeef21f7bee1522aad04aab5f27f5c6d
+https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
+https://gaxcdn.koihost.com/apiv2/user/sub?token=647fe22644f31a9b03332bb413fdf193
+https://supz1.6128888.xyz/api/v1/client/subscribe?token=887c9f01e68146618e70657e8ec2b6ee
+https://gotocdn.tencentagi.com/apiv2/user/sub?token=ac4f5a47ab33d2bc58081281c78b22b8
+https://202503021722111.chibaba.ggff.net/api/v1/client/subscribe?token=2300c05a842f8ec6f55da6596882bfe3
