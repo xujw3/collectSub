@@ -1,23 +1,17 @@
 -- play_list --
 
-可用流量: 1217.21 GB https://gawrgura.moe/api/v1/client/subscribe?token=7817c0778025c4ecc9d26436b6d90b09
-可用流量: 999998514.37 GB https://202503021722111.chibaba.ggff.net/api/v1/client/subscribe?token=2300c05a842f8ec6f55da6596882bfe3
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 52.0 GB https://supz1.6128888.xyz/api/v1/client/subscribe?token=887c9f01e68146618e70657e8ec2b6ee
-可用流量: 999998514.37 GB https://202503021722111.chibaba.ggff.net/api/v1/client/subscribe?token=2300c05a842f8ec6f55da6596882bfe3#/
-可用流量: 9625.82 GB https://xboard.520021.net/api/v1/client/subscribe?token=6b201047a6ad996d77fb8354a6a7696c
-可用流量: 354.21 GB https://xn--4oq11ryli3rg.com/s/799f692ebef19a04a0b3f777637929a2
-可用流量: 817.73 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 197.1 GB https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
+可用流量: 511.03 GB https://lihuayun1232.cfd/s/8e3c9bb7869e2697f626baf1378227d7
+可用流量: 9614.07 GB https://xboard.520021.net/api/v1/client/subscribe?token=6b201047a6ad996d77fb8354a6a7696c
+可用流量: 817.57 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 999998469.9 GB https://202503021722111.chibaba.ggff.net/api/v1/client/subscribe?token=2300c05a842f8ec6f55da6596882bfe3#/
+可用流量: 43060.98 GB https://sea-5l8.pages.dev/CSDN
+可用流量: 43060.98 GB https://emm-7zy.pages.dev/CSDN
 
 -- sub_list --
 
-https://gawrgura.moe/api/v1/client/subscribe?token=7817c0778025c4ecc9d26436b6d90b09
-https://202503021722111.chibaba.ggff.net/api/v1/client/subscribe?token=2300c05a842f8ec6f55da6596882bfe3
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-https://supz1.6128888.xyz/api/v1/client/subscribe?token=887c9f01e68146618e70657e8ec2b6ee
-https://202503021722111.chibaba.ggff.net/api/v1/client/subscribe?token=2300c05a842f8ec6f55da6596882bfe3#/
+https://lihuayun1232.cfd/s/8e3c9bb7869e2697f626baf1378227d7
 https://xboard.520021.net/api/v1/client/subscribe?token=6b201047a6ad996d77fb8354a6a7696c
-https://xn--4oq11ryli3rg.com/s/799f692ebef19a04a0b3f777637929a2
 https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
+https://202503021722111.chibaba.ggff.net/api/v1/client/subscribe?token=2300c05a842f8ec6f55da6596882bfe3#/
+https://sea-5l8.pages.dev/CSDN
+https://emm-7zy.pages.dev/CSDN
