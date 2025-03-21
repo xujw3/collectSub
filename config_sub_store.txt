@@ -1,17 +1,19 @@
 -- play_list --
 
-可用流量: 0.85 GB https://29q93.no-mad-world.club/link/Fn2jGHphlEXjq86l?clash=3&amp;extend=1
+可用流量: 816.49 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 52.0 GB https://supz1.6128888.xyz/api/v1/client/subscribe?token=887c9f01e68146618e70657e8ec2b6ee
+可用流量: 1153.82 GB https://gawrgura.moe/api/v1/client/subscribe?token=7817c0778025c4ecc9d26436b6d90b09
 可用流量: 197.1 GB https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
-可用流量: 9416.43 GB https://xboard.520021.net/api/v1/client/subscribe?token=6b201047a6ad996d77fb8354a6a7696c
+可用流量: 336.93 GB https://xn--4oq11ryli3rg.com/s/799f692ebef19a04a0b3f777637929a2
 可用流量: 931135451.63 GB https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
-可用流量: 816.69 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 1158.64 GB https://gawrgura.moe/api/v1/client/subscribe?token=7817c0778025c4ecc9d26436b6d90b09
+可用流量: 9378.23 GB https://xboard.520021.net/api/v1/client/subscribe?token=6b201047a6ad996d77fb8354a6a7696c
 
 -- sub_list --
 
-https://29q93.no-mad-world.club/link/Fn2jGHphlEXjq86l?clash=3&amp;extend=1
-https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
-https://xboard.520021.net/api/v1/client/subscribe?token=6b201047a6ad996d77fb8354a6a7696c
-https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
 https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+https://supz1.6128888.xyz/api/v1/client/subscribe?token=887c9f01e68146618e70657e8ec2b6ee
 https://gawrgura.moe/api/v1/client/subscribe?token=7817c0778025c4ecc9d26436b6d90b09
+https://cloud.xjyjc.top/vio/cloud/client/subscribe?token=ac6ff77c6f65fc9ac511f905a417526c
+https://xn--4oq11ryli3rg.com/s/799f692ebef19a04a0b3f777637929a2
+https://xship.top/v1/subscribe?starlink=dqxLsBV3LitAt8Jwux5IRn7m
+https://xboard.520021.net/api/v1/client/subscribe?token=6b201047a6ad996d77fb8354a6a7696c
