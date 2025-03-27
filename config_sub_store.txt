@@ -1,17 +1,25 @@
 -- play_list --
 
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 999996850.85 GB https://202503021722111.chibaba.ggff.net/api/v1/client/subscribe?token=2300c05a842f8ec6f55da6596882bfe3
-可用流量: 1499.61 GB https://sub.xn--mes91t7ofgnw.com/s/dc3ad6d09d9f8866bf965cf645e548d6
-可用流量: 931135477.67 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-可用流量: 37.51 GB http://ywl.201593.xyz/s/16687002e04dae38fcf8150829e5a943
-可用流量: 418.05 GB https://gy888.xyz/s/a90df487df7442e67352c9d74f0d20e6
+可用流量: 931135477.55 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+可用流量: 999996831.37 GB https://202503021722111.chibaba.ggff.net/api/v1/client/subscribe?token=2300c05a842f8ec6f55da6596882bfe3
+可用流量: 805.52 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 500.0 GB https://sub.xn--mes91t7ofgnw.com/s/0578ca5f2eb8e23497018fec019a61c2
+可用流量: 43074.28 GB https://cf-workers-sub-9s8.pages.dev/CSDN
+可用流量: 999999395.48 GB https://sub.bailian.site/s/b041e10710d9d54ea9138eef8a427864
+可用流量: 70.79 GB https://ch.owokkvsxks.store/api/v1/client/subscribe?token=679b8c493b6009a578cd75a64ea71066
+可用流量: 53.64 GB http://ywl.201593.xyz/s/4cf6a3fd45789ed1e21bc3b5d23e3495
+可用流量: 42.93 GB https://ywl.201593.xyz/s/8a8fde67d7657964d22fd9e661c9d7d5
+可用流量: 499.99 GB https://sub.xn--mes91t7ofgnw.com/s/cdbc5187a9da849956e4a00c64596550
 
 -- sub_list --
 
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-https://202503021722111.chibaba.ggff.net/api/v1/client/subscribe?token=2300c05a842f8ec6f55da6596882bfe3
-https://sub.xn--mes91t7ofgnw.com/s/dc3ad6d09d9f8866bf965cf645e548d6
 https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-http://ywl.201593.xyz/s/16687002e04dae38fcf8150829e5a943
-https://gy888.xyz/s/a90df487df7442e67352c9d74f0d20e6
+https://202503021722111.chibaba.ggff.net/api/v1/client/subscribe?token=2300c05a842f8ec6f55da6596882bfe3
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+https://sub.xn--mes91t7ofgnw.com/s/0578ca5f2eb8e23497018fec019a61c2
+https://cf-workers-sub-9s8.pages.dev/CSDN
+https://sub.bailian.site/s/b041e10710d9d54ea9138eef8a427864
+https://ch.owokkvsxks.store/api/v1/client/subscribe?token=679b8c493b6009a578cd75a64ea71066
+http://ywl.201593.xyz/s/4cf6a3fd45789ed1e21bc3b5d23e3495
+https://ywl.201593.xyz/s/8a8fde67d7657964d22fd9e661c9d7d5
+https://sub.xn--mes91t7ofgnw.com/s/cdbc5187a9da849956e4a00c64596550
