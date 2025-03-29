@@ -1,27 +1,23 @@
 -- play_list --
 
-可用流量: 997.58 GB http://nuxyun.v2rayflash.top/api/v1/client/subscribe?token=38b5d270f053b5ca4b754b6cfee6ae9e
-可用流量: 999999799.91 GB http://202503281226111.chibaba.ggff.net/api/v1/client/subscribe?token=be030b075cf4ba7afeeae4d3257fbdb8#/
-可用流量: 931135476.85 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
-可用流量: 3937.46 GB https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
-可用流量: 1491.15 GB https://sub.xn--mes91t7ofgnw.com/s/dc3ad6d09d9f8866bf965cf645e548d6
-可用流量: 803.82 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 215.71 GB https://gy888.xyz/s/a90df487df7442e67352c9d74f0d20e6
-可用流量: 999996007.82 GB https://202503021722111.chibaba.ggff.net/api/v1/client/subscribe?token=2300c05a842f8ec6f55da6596882bfe3
-可用流量: 999999799.44 GB https://202502181121431.chibaba.ggff.net/api/v1/client/subscribe?token=b5756287f05633d9068afb2a9fe375ba
-可用流量: 6.31 GB https://ch.owokkvsxks.store/api/v1/client/subscribe?token=679b8c493b6009a578cd75a64ea71066
-可用流量: 34.92 GB https://ch.owokkvsxks.store/api/v1/client/subscribe?token=b815a417769dfd4e1983bbeefd8d7f35
+可用流量: 931135476.84 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+可用流量: 3642.47 GB https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
+可用流量: 999999793.87 GB http://202503281226111.chibaba.ggff.net/api/v1/client/subscribe?token=be030b075cf4ba7afeeae4d3257fbdb8#/
+可用流量: 96822.6 GB https://ly.ccwink.cc/api/v1/client/subscribe?token=85ce9c6ba278c9f8e194bb98087382f0
+可用流量: 999999777.48 GB https://202502181121431.chibaba.ggff.net/api/v1/client/subscribe?token=b5756287f05633d9068afb2a9fe375ba
+可用流量: 999996000.13 GB https://202503021722111.chibaba.ggff.net/api/v1/client/subscribe?token=2300c05a842f8ec6f55da6596882bfe3
+可用流量: 214.66 GB https://gy888.xyz/s/a90df487df7442e67352c9d74f0d20e6
+可用流量: 1490.72 GB https://sub.xn--mes91t7ofgnw.com/s/dc3ad6d09d9f8866bf965cf645e548d6
+可用流量: 43078.37 GB https://emm-7zy.pages.dev/CSDN
 
 -- sub_list --
 
-http://nuxyun.v2rayflash.top/api/v1/client/subscribe?token=38b5d270f053b5ca4b754b6cfee6ae9e
-http://202503281226111.chibaba.ggff.net/api/v1/client/subscribe?token=be030b075cf4ba7afeeae4d3257fbdb8#/
 https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
 https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
-https://sub.xn--mes91t7ofgnw.com/s/dc3ad6d09d9f8866bf965cf645e548d6
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://gy888.xyz/s/a90df487df7442e67352c9d74f0d20e6
-https://202503021722111.chibaba.ggff.net/api/v1/client/subscribe?token=2300c05a842f8ec6f55da6596882bfe3
+http://202503281226111.chibaba.ggff.net/api/v1/client/subscribe?token=be030b075cf4ba7afeeae4d3257fbdb8#/
+https://ly.ccwink.cc/api/v1/client/subscribe?token=85ce9c6ba278c9f8e194bb98087382f0
 https://202502181121431.chibaba.ggff.net/api/v1/client/subscribe?token=b5756287f05633d9068afb2a9fe375ba
-https://ch.owokkvsxks.store/api/v1/client/subscribe?token=679b8c493b6009a578cd75a64ea71066
-https://ch.owokkvsxks.store/api/v1/client/subscribe?token=b815a417769dfd4e1983bbeefd8d7f35
+https://202503021722111.chibaba.ggff.net/api/v1/client/subscribe?token=2300c05a842f8ec6f55da6596882bfe3
+https://gy888.xyz/s/a90df487df7442e67352c9d74f0d20e6
+https://sub.xn--mes91t7ofgnw.com/s/dc3ad6d09d9f8866bf965cf645e548d6
+https://emm-7zy.pages.dev/CSDN
