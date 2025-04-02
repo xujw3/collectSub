@@ -1,1 +1,4 @@
-https://cf-workers-sub-9s8.pages.dev/CSDN
+https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
+https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
+https://cloud.gougou.live/s/9bc9d11bc3dcebccfb1c5eafdccc6e1a
+https://sub.scp-nsc.top/clash
