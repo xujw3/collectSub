@@ -1,6 +1,7 @@
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
 https://cloud.gougou.live/s/9bc9d11bc3dcebccfb1c5eafdccc6e1a
+https://sub.scp-nsc.top/clash
+https://super.jack991.filegear-sg.me/
 https://as.al/raw/zztbfX
 https://sdk.bhqt.fun:443
+https://sdk.bhqt.fun:443/
+https://paste.gg/p/TG@FProxies/07d2c9efd8ae41ab82e2ad8097220ae6/files/09e4e87518a1479d9665942377e0966e/raw
