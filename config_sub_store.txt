@@ -1,19 +1,27 @@
 -- play_list --
 
-可用流量: 466.69 GB https://sub.xn--4gqvd492adjr.com/s/a0259bb022cb1cfbd6ef931d484895e5
-可用流量: 112.84 GB https://msub.fengchiyx.xyz/api/v1/client/subscribe?token=34ff9012ec68f9c521fc559a83146eba
-可用流量: 490.55 GB https://sub.xn--4gqvd492adjr.com/s/2d7adafbde72e941fa407eea0a928d80
-可用流量: 391.88 GB http://ywl.201593.xyz/s/9e2f0f84922856493312a2d4c1838bfd
-可用流量: 423.49 GB http://ywl.201593.xyz/s/479f5e96c556413bfc5e3adec87b025b
-可用流量: 377.63 GB http://ywl.201593.xyz/s/4cf6a3fd45789ed1e21bc3b5d23e3495
-可用流量: 385.09 GB http://ywl.201593.xyz/s/c0df6ca659cf9408f6b0a03ce306d1e7
+可用流量: 789.44 GB https://epclub.xyz/api/epclub?token=b8877e23d8e96dae30e161f3fad4d39a
+可用流量: 495.78 GB https://sub.xn--4gqvd492adjr.com/s/da48a74071030b411eaab72caf4efec0
+可用流量: 111.73 GB https://msub.fengchiyx.xyz/api/v1/client/subscribe?token=34ff9012ec68f9c521fc559a83146eba
+可用流量: 931135475.07 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+可用流量: 436.94 GB http://ywl.201593.xyz/s/42d91418a7fe6dadfd7ba1e0dc2a1053
+可用流量: 391.84 GB http://ywl.201593.xyz/s/9e2f0f84922856493312a2d4c1838bfd
+可用流量: 483.34 GB https://sub.xn--4gqvd492adjr.com/s/83afc5169b0d9140e8635c1f12b7f6e5
+可用流量: 2.9 GB https://sub.nexc.cc/api/v1/client/subscribe?token=6653dae74bb2813201976ce8561b37c8
+可用流量: 446.76 GB https://ywl.201593.xyz/s/44d8b94f3591df9e4376ceb5c5cca080
+可用流量: 191.94 GB http://nuxyun.v2rayflash.top/api/v1/client/subscribe?token=38b5d270f053b5ca4b754b6cfee6ae9e
+可用流量: 364.92 GB https://sub.tuanzi.xyz/s/99d6184c02bd5abaf697e249e1829b5d
 
 -- sub_list --
 
-https://sub.xn--4gqvd492adjr.com/s/a0259bb022cb1cfbd6ef931d484895e5
+https://epclub.xyz/api/epclub?token=b8877e23d8e96dae30e161f3fad4d39a
+https://sub.xn--4gqvd492adjr.com/s/da48a74071030b411eaab72caf4efec0
 https://msub.fengchiyx.xyz/api/v1/client/subscribe?token=34ff9012ec68f9c521fc559a83146eba
-https://sub.xn--4gqvd492adjr.com/s/2d7adafbde72e941fa407eea0a928d80
+https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+http://ywl.201593.xyz/s/42d91418a7fe6dadfd7ba1e0dc2a1053
 http://ywl.201593.xyz/s/9e2f0f84922856493312a2d4c1838bfd
-http://ywl.201593.xyz/s/479f5e96c556413bfc5e3adec87b025b
-http://ywl.201593.xyz/s/4cf6a3fd45789ed1e21bc3b5d23e3495
-http://ywl.201593.xyz/s/c0df6ca659cf9408f6b0a03ce306d1e7
+https://sub.xn--4gqvd492adjr.com/s/83afc5169b0d9140e8635c1f12b7f6e5
+https://sub.nexc.cc/api/v1/client/subscribe?token=6653dae74bb2813201976ce8561b37c8
+https://ywl.201593.xyz/s/44d8b94f3591df9e4376ceb5c5cca080
+http://nuxyun.v2rayflash.top/api/v1/client/subscribe?token=38b5d270f053b5ca4b754b6cfee6ae9e
+https://sub.tuanzi.xyz/s/99d6184c02bd5abaf697e249e1829b5d
