@@ -1,19 +1,33 @@
 -- play_list --
 
-可用流量: 495.27 GB https://sub.xn--4gqvd492adjr.com/s/d818ae121176fd8c3ff2d942c665e584
-可用流量: 483.04 GB https://sub.xn--4gqvd492adjr.com/s/83afc5169b0d9140e8635c1f12b7f6e5
-可用流量: 787.04 GB https://epclub.xyz/api/epclub?token=b8877e23d8e96dae30e161f3fad4d39a
-可用流量: 191.94 GB http://nuxyun.v2rayflash.top/api/v1/client/subscribe?token=38b5d270f053b5ca4b754b6cfee6ae9e
-可用流量: 933.73 GB https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
-可用流量: 596.36 GB https://epclub.xyz/api/epclub?token=a4ad607b25573b878ba4141766805d45
+可用流量: 487.25 GB https://sub.xn--4gqvd492adjr.com/s/256bff244c913c5a19dc860ac345541b
+可用流量: 472.41 GB https://sub.xn--4gqvd492adjr.com/s/8b84ef754365bdd9fdc29f27e1896029
 可用流量: 931135475.07 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+可用流量: 191.94 GB http://nuxyun.v2rayflash.top/api/v1/client/subscribe?token=38b5d270f053b5ca4b754b6cfee6ae9e
+可用流量: 786.88 GB https://epclub.xyz/api/epclub?token=b8877e23d8e96dae30e161f3fad4d39a
+可用流量: 593.23 GB https://epclub.xyz/api/epclub?token=a4ad607b25573b878ba4141766805d45
+可用流量: 1.81 GB https://sub.nexc.cc/api/v1/client/subscribe?token=6653dae74bb2813201976ce8561b37c8
+可用流量: 348.91 GB https://sub.tuanzi.xyz/s/99d6184c02bd5abaf697e249e1829b5d
+可用流量: 1129.05 GB https://user937.dukadi.one/api/v1/client/subscribe?token=cd4dc73947ceeb7b9d3b91dc9b3c1ecf
+可用流量: 933.33 GB https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
+可用流量: 93.15 GB https://msub.fengchiyx.xyz/api/v1/client/subscribe?token=34ff9012ec68f9c521fc559a83146eba
+可用流量: 7.75 GB https://sub.nexc.cc/api/v1/client/subscribe?token=8ed3fe4c475e3f339dbf760ae72667df
+可用流量: 492.23 GB https://sub.xn--4gqvd492adjr.com/s/56fd5916c0bb4ae0c229cf5443e59a61
+可用流量: 489.83 GB https://sub.xn--4gqvd492adjr.com/s/2d7adafbde72e941fa407eea0a928d80
 
 -- sub_list --
 
-https://sub.xn--4gqvd492adjr.com/s/d818ae121176fd8c3ff2d942c665e584
-https://sub.xn--4gqvd492adjr.com/s/83afc5169b0d9140e8635c1f12b7f6e5
-https://epclub.xyz/api/epclub?token=b8877e23d8e96dae30e161f3fad4d39a
-http://nuxyun.v2rayflash.top/api/v1/client/subscribe?token=38b5d270f053b5ca4b754b6cfee6ae9e
-https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
-https://epclub.xyz/api/epclub?token=a4ad607b25573b878ba4141766805d45
+https://sub.xn--4gqvd492adjr.com/s/256bff244c913c5a19dc860ac345541b
+https://sub.xn--4gqvd492adjr.com/s/8b84ef754365bdd9fdc29f27e1896029
 https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+http://nuxyun.v2rayflash.top/api/v1/client/subscribe?token=38b5d270f053b5ca4b754b6cfee6ae9e
+https://epclub.xyz/api/epclub?token=b8877e23d8e96dae30e161f3fad4d39a
+https://epclub.xyz/api/epclub?token=a4ad607b25573b878ba4141766805d45
+https://sub.nexc.cc/api/v1/client/subscribe?token=6653dae74bb2813201976ce8561b37c8
+https://sub.tuanzi.xyz/s/99d6184c02bd5abaf697e249e1829b5d
+https://user937.dukadi.one/api/v1/client/subscribe?token=cd4dc73947ceeb7b9d3b91dc9b3c1ecf
+https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
+https://msub.fengchiyx.xyz/api/v1/client/subscribe?token=34ff9012ec68f9c521fc559a83146eba
+https://sub.nexc.cc/api/v1/client/subscribe?token=8ed3fe4c475e3f339dbf760ae72667df
+https://sub.xn--4gqvd492adjr.com/s/56fd5916c0bb4ae0c229cf5443e59a61
+https://sub.xn--4gqvd492adjr.com/s/2d7adafbde72e941fa407eea0a928d80
