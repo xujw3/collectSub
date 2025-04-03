@@ -1,5 +1,6 @@
-https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
+https://cloud.gougou.live/s/9bc9d11bc3dcebccfb1c5eafdccc6e1a
 https://super.jack991.filegear-sg.me/
 https://sub.vip.sd/JPa6vvFgygVtNP2sGJ2r/download/YuanZhang
 https://sub.scp-nsc.top/clash
+https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml

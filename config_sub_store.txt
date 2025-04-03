@@ -1,25 +1,17 @@
 -- play_list --
 
-可用流量: 482.45 GB https://sub.xn--4gqvd492adjr.com/s/8b84ef754365bdd9fdc29f27e1896029
-可用流量: 389.76 GB https://ywl.201593.xyz/s/8a8fde67d7657964d22fd9e661c9d7d5
-可用流量: 864.09 GB https://epclub.xyz/api/epclub?token=b8877e23d8e96dae30e161f3fad4d39a
-可用流量: 709.35 GB https://epclub.xyz/api/epclub?token=a4ad607b25573b878ba4141766805d45
-可用流量: 474.78 GB https://sub.xn--4gqvd492adjr.com/s/a0259bb022cb1cfbd6ef931d484895e5
-可用流量: 233.76 GB https://cyberguard.cfd/api/v1/client/subscribe?token=6cbebedaf0f060f5cfef3f432349d840
-可用流量: 496.25 GB https://sub.xn--4gqvd492adjr.com/s/d818ae121176fd8c3ff2d942c665e584
-可用流量: 981.35 GB https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
-可用流量: 426.94 GB http://ywl.201593.xyz/s/479f5e96c556413bfc5e3adec87b025b
-可用流量: 1475.27 GB https://user937.dukadi.one/api/v1/client/subscribe?token=cd4dc73947ceeb7b9d3b91dc9b3c1ecf
+可用流量: 8.06 GB https://sub.nexc.cc/api/v1/client/subscribe?token=6653dae74bb2813201976ce8561b37c8
+可用流量: 931135475.07 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+可用流量: 618.03 GB https://cyberguard.cfd/api/v1/client/subscribe?token=6cbebedaf0f060f5cfef3f432349d840
+可用流量: 486.91 GB https://sub.tuanzi.xyz/s/99d6184c02bd5abaf697e249e1829b5d
+可用流量: 9.71 GB https://sub.nexc.cc/api/v1/client/subscribe?token=8ed3fe4c475e3f339dbf760ae72667df
+可用流量: 1470.66 GB https://user937.dukadi.one/api/v1/client/subscribe?token=cd4dc73947ceeb7b9d3b91dc9b3c1ecf
 
 -- sub_list --
 
-https://sub.xn--4gqvd492adjr.com/s/8b84ef754365bdd9fdc29f27e1896029
-https://ywl.201593.xyz/s/8a8fde67d7657964d22fd9e661c9d7d5
-https://epclub.xyz/api/epclub?token=b8877e23d8e96dae30e161f3fad4d39a
-https://epclub.xyz/api/epclub?token=a4ad607b25573b878ba4141766805d45
-https://sub.xn--4gqvd492adjr.com/s/a0259bb022cb1cfbd6ef931d484895e5
+https://sub.nexc.cc/api/v1/client/subscribe?token=6653dae74bb2813201976ce8561b37c8
+https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
 https://cyberguard.cfd/api/v1/client/subscribe?token=6cbebedaf0f060f5cfef3f432349d840
-https://sub.xn--4gqvd492adjr.com/s/d818ae121176fd8c3ff2d942c665e584
-https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
-http://ywl.201593.xyz/s/479f5e96c556413bfc5e3adec87b025b
+https://sub.tuanzi.xyz/s/99d6184c02bd5abaf697e249e1829b5d
+https://sub.nexc.cc/api/v1/client/subscribe?token=8ed3fe4c475e3f339dbf760ae72667df
 https://user937.dukadi.one/api/v1/client/subscribe?token=cd4dc73947ceeb7b9d3b91dc9b3c1ecf
