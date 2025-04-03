@@ -1,37 +1,21 @@
 -- play_list --
 
 可用流量: 191.94 GB http://nuxyun.v2rayflash.top/api/v1/client/subscribe?token=38b5d270f053b5ca4b754b6cfee6ae9e
-可用流量: 495.15 GB https://sub.xn--4gqvd492adjr.com/s/324af52ed03cba3b06a2cc25d4d79efd
-可用流量: 492.71 GB https://sub.xn--4gqvd492adjr.com/s/56fd5916c0bb4ae0c229cf5443e59a61
+可用流量: 3.64 GB https://sub.nexc.cc/api/v1/client/subscribe?token=6653dae74bb2813201976ce8561b37c8
 可用流量: 8.03 GB https://sub.nexc.cc/api/v1/client/subscribe?token=8ed3fe4c475e3f339dbf760ae72667df
-可用流量: 3.7 GB https://sub.nexc.cc/api/v1/client/subscribe?token=6653dae74bb2813201976ce8561b37c8
-可用流量: 487.33 GB https://sub.xn--4gqvd492adjr.com/s/256bff244c913c5a19dc860ac345541b
-可用流量: 437.68 GB http://ywl.201593.xyz/s/42d91418a7fe6dadfd7ba1e0dc2a1053
-可用流量: 378.0 GB http://ywl.201593.xyz/s/4cf6a3fd45789ed1e21bc3b5d23e3495
-可用流量: 379.2 GB https://ywl.201593.xyz/s/8a8fde67d7657964d22fd9e661c9d7d5
-可用流量: 496.82 GB https://sub.xn--4gqvd492adjr.com/s/b12266106c0688f0c174639aaefe249b
-可用流量: 491.06 GB https://sub.xn--4gqvd492adjr.com/s/2d7adafbde72e941fa407eea0a928d80
-可用流量: 385.21 GB http://ywl.201593.xyz/s/c0df6ca659cf9408f6b0a03ce306d1e7
-可用流量: 43090.15 GB https://cf-workers-sub-9s8.pages.dev/CSDN
-可用流量: 447.22 GB https://ywl.201593.xyz/s/44d8b94f3591df9e4376ceb5c5cca080
-可用流量: 392.36 GB http://ywl.201593.xyz/s/9e2f0f84922856493312a2d4c1838bfd
-可用流量: 495.93 GB https://sub.xn--4gqvd492adjr.com/s/da48a74071030b411eaab72caf4efec0
+可用流量: 1234.95 GB https://user937.dukadi.one/api/v1/client/subscribe?token=cd4dc73947ceeb7b9d3b91dc9b3c1ecf
+可用流量: 793.09 GB https://epclub.xyz/api/epclub?token=b8877e23d8e96dae30e161f3fad4d39a
+可用流量: 931135475.07 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+可用流量: 492.71 GB https://sub.xn--4gqvd492adjr.com/s/56fd5916c0bb4ae0c229cf5443e59a61
+可用流量: 117.61 GB https://msub.fengchiyx.xyz/api/v1/client/subscribe?token=34ff9012ec68f9c521fc559a83146eba
 
 -- sub_list --
 
 http://nuxyun.v2rayflash.top/api/v1/client/subscribe?token=38b5d270f053b5ca4b754b6cfee6ae9e
-https://sub.xn--4gqvd492adjr.com/s/324af52ed03cba3b06a2cc25d4d79efd
-https://sub.xn--4gqvd492adjr.com/s/56fd5916c0bb4ae0c229cf5443e59a61
-https://sub.nexc.cc/api/v1/client/subscribe?token=8ed3fe4c475e3f339dbf760ae72667df
 https://sub.nexc.cc/api/v1/client/subscribe?token=6653dae74bb2813201976ce8561b37c8
-https://sub.xn--4gqvd492adjr.com/s/256bff244c913c5a19dc860ac345541b
-http://ywl.201593.xyz/s/42d91418a7fe6dadfd7ba1e0dc2a1053
-http://ywl.201593.xyz/s/4cf6a3fd45789ed1e21bc3b5d23e3495
-https://ywl.201593.xyz/s/8a8fde67d7657964d22fd9e661c9d7d5
-https://sub.xn--4gqvd492adjr.com/s/b12266106c0688f0c174639aaefe249b
-https://sub.xn--4gqvd492adjr.com/s/2d7adafbde72e941fa407eea0a928d80
-http://ywl.201593.xyz/s/c0df6ca659cf9408f6b0a03ce306d1e7
-https://cf-workers-sub-9s8.pages.dev/CSDN
-https://ywl.201593.xyz/s/44d8b94f3591df9e4376ceb5c5cca080
-http://ywl.201593.xyz/s/9e2f0f84922856493312a2d4c1838bfd
-https://sub.xn--4gqvd492adjr.com/s/da48a74071030b411eaab72caf4efec0
+https://sub.nexc.cc/api/v1/client/subscribe?token=8ed3fe4c475e3f339dbf760ae72667df
+https://user937.dukadi.one/api/v1/client/subscribe?token=cd4dc73947ceeb7b9d3b91dc9b3c1ecf
+https://epclub.xyz/api/epclub?token=b8877e23d8e96dae30e161f3fad4d39a
+https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+https://sub.xn--4gqvd492adjr.com/s/56fd5916c0bb4ae0c229cf5443e59a61
+https://msub.fengchiyx.xyz/api/v1/client/subscribe?token=34ff9012ec68f9c521fc559a83146eba
