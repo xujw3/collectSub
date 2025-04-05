@@ -1,7 +1,6 @@
 import requests
 import os
 
-
 def postdata(data):
     json_data = {
         'name': 'hbgx',
@@ -50,23 +49,24 @@ def postdata(data):
         f'{apiurl}/hbgx',
         json=json_data,
     )
-
     return response
-
 
 def getdata(file_path):
     sub_list = []
     in_sub_list = False
     
-    # 处理config_clash.txt的特殊情况
-    if file_path == "./config_clash.txt":
+    # 针对不同文件类型的处理
+    file_name = os.path.basename(file_path)
+    
+    # 对于config_clash.txt、config_v2.txt和config-loon.txt使用相同的处理逻辑
+    if file_name in ["config_clash.txt", "config_v2.txt", "config-loon.txt"]:
         with open(file_path, 'r', encoding='utf-8') as f:
             for line in f:
                 stripped_line = line.strip()
                 if stripped_line:  # 只要不是空行就添加
                     sub_list.append(stripped_line)
     else:
-        # 原有的处理逻辑
+        # 原有的处理逻辑（针对其他文件，如config_sub_store.txt）
         with open(file_path, 'r', encoding='utf-8') as f:
             for line in f:
                 stripped_line = line.strip()
@@ -80,13 +80,17 @@ def getdata(file_path):
     return sub_list  # 返回列表而不是字符串，便于后续合并
 
 if __name__ == "__main__":
-    paths = ["./config_sub_store.txt", "./config_clash.txt"]
+    # 更新需要处理的文件列表，增加了config_v2.txt和config-loon.txt
+    paths = ["./config_sub_store.txt", "./config_clash.txt", "./config_v2.txt", "./config-loon.txt"]
     combined_results = []
     
     # 收集所有结果
     for path in paths:
-        result = getdata(path)
-        combined_results.extend(result)  # 使用extend合并列表
+        if os.path.exists(path):  # 确保文件存在
+            result = getdata(path)
+            combined_results.extend(result)  # 使用extend合并列表
+        else:
+            print(f"警告: 文件 {path} 不存在，已跳过。")
     
     # 将合并后的结果转换为字符串
     final_result = '\n'.join(combined_results)
