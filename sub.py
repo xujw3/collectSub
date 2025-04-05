@@ -59,7 +59,7 @@ def getdata(file_path):
     file_name = os.path.basename(file_path)
     
     # 对于config_clash.txt、config_v2.txt和config-loon.txt使用相同的处理逻辑
-    if file_name in ["config_clash.txt", "config_v2.txt", "config-loon.txt"]:
+    if file_name in ["config_clash.txt", "config_v2.txt", "config_loon.txt"]:
         with open(file_path, 'r', encoding='utf-8') as f:
             for line in f:
                 stripped_line = line.strip()
@@ -81,7 +81,7 @@ def getdata(file_path):
 
 if __name__ == "__main__":
     # 更新需要处理的文件列表，增加了config_v2.txt和config-loon.txt
-    paths = ["./config_sub_store.txt", "./config_clash.txt", "./config_v2.txt", "./config-loon.txt"]
+    paths = ["./config_sub_store.txt", "./config_clash.txt", "./config_v2.txt", "./config_loon.txt"]
     combined_results = []
     
     # 收集所有结果
