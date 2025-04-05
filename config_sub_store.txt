@@ -1,15 +1,27 @@
 -- play_list --
 
-可用流量: 99886.16 GB https://bailian.uk/s/3a84daf952a7733c20da2882c5abd39d
-可用流量: 999998925.49 GB https://202503212313501.chibaba.ggff.net/api/v1/client/subscribe?token=eee1b58c52d8e656bc6b729a182cf49b
-可用流量: 647.73 GB https://ansuyun.xyz/api/as?token=a0600c664805237ffa7df55a12fa049e
-可用流量: 624.44 GB https://ansuyun.xyz/api/as?token=329be9f6fc07ffff723c13ff6f478154
-可用流量: 191.94 GB http://nuxyun.v2rayflash.top/api/v1/client/subscribe?token=38b5d270f053b5ca4b754b6cfee6ae9e
+可用流量: 341.83 GB https://app.jisuba.live/s/1981e8cdc2e36df838306afe082cee39
+可用流量: 312.7 GB https://app.jisuba.live/s/1f8cc339e262ef7f03c0e20ef4f8651b
+可用流量: 43094.0 GB https://cf-workers-sub-9s8.pages.dev/CSDN
+可用流量: 457.81 GB https://vpn.28.al/s/4920d17bc5f6cda30a465d597cbd1d21
+可用流量: 10.0 GB https://link08.shanhai.one/api/v1/client/subscribe?token=8d4c465fd37cb8db170036cf00be9dbc
+可用流量: 882.93 GB https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
+可用流量: 344.2 GB https://user937.dukadi.one/api/v1/client/subscribe?token=cd4dc73947ceeb7b9d3b91dc9b3c1ecf&amp;flag=meta&amp;types=all
+可用流量: 931135474.74 GB https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
+可用流量: 999998918.69 GB https://202503212313501.chibaba.ggff.net/api/v1/client/subscribe?token=eee1b58c52d8e656bc6b729a182cf49b
+可用流量: 497.32 GB https://sub.xn--4gqvd492adjr.com/s/9ccbdc4b137c348c6e2cf814e5719aa9
+可用流量: 494.6 GB https://sub.xn--4gqvd492adjr.com/s/6a401b142084ee1cbae1251e76f25118
 
 -- sub_list --
 
-https://bailian.uk/s/3a84daf952a7733c20da2882c5abd39d
+https://app.jisuba.live/s/1981e8cdc2e36df838306afe082cee39
+https://app.jisuba.live/s/1f8cc339e262ef7f03c0e20ef4f8651b
+https://cf-workers-sub-9s8.pages.dev/CSDN
+https://vpn.28.al/s/4920d17bc5f6cda30a465d597cbd1d21
+https://link08.shanhai.one/api/v1/client/subscribe?token=8d4c465fd37cb8db170036cf00be9dbc
+https://epclub.xyz/api/epclub?token=f42ab4d5ef84c8eec3f2ffd947021205
+https://user937.dukadi.one/api/v1/client/subscribe?token=cd4dc73947ceeb7b9d3b91dc9b3c1ecf&amp;flag=meta&amp;types=all
+https://xship.top/v1/subscribe?starlink=_RP5WBvhkvkfK72mu4gwgQtv
 https://202503212313501.chibaba.ggff.net/api/v1/client/subscribe?token=eee1b58c52d8e656bc6b729a182cf49b
-https://ansuyun.xyz/api/as?token=a0600c664805237ffa7df55a12fa049e
-https://ansuyun.xyz/api/as?token=329be9f6fc07ffff723c13ff6f478154
-http://nuxyun.v2rayflash.top/api/v1/client/subscribe?token=38b5d270f053b5ca4b754b6cfee6ae9e
+https://sub.xn--4gqvd492adjr.com/s/9ccbdc4b137c348c6e2cf814e5719aa9
+https://sub.xn--4gqvd492adjr.com/s/6a401b142084ee1cbae1251e76f25118
