@@ -1,3 +1,7 @@
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
+https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
+https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
+https://raw.githubusercontent.com/ileoisadev/sub/refs/heads/main/sub.yaml
 https://cloud.gougou.live/s/9bc9d11bc3dcebccfb1c5eafdccc6e1a
+https://sub.scp-nsc.top/clash
+https://sub.vip.sd/JPa6vvFgygVtNP2sGJ2r/download/YuanZhang
+https://super.jack991.filegear-sg.me/
