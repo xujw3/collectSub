@@ -1,13 +1,5 @@
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-https://cf-workers-sub-9s8.pages.dev/CSDN
-https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
-https://raw.githubusercontent.com/ileoisadev/sub/refs/heads/main/sub.yaml
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
-https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
-https://cloud.gougou.live/s/9bc9d11bc3dcebccfb1c5eafdccc6e1a
+https://raw.githubusercontent.com/ileoisadev/sub/refs/heads/main/sub.yaml
 https://sub.vip.sd/JPa6vvFgygVtNP2sGJ2r/download/YuanZhang
-https://sub.scp-nsc.top/clash
-https://as.al/raw/zztbfX
 https://super.jack991.filegear-sg.me/
-https://paste.gg/p/TG@FProxies/0abb7e1af1b6419b9963436704adcfa0/files/1537c8f2cd094f6686f2d8f0f5a45466/raw
+https://as.al/raw/zztbfX
