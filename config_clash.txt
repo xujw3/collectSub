@@ -1,5 +1,5 @@
-https://app.jisuba.live/s/1981e8cdc2e36df838306afe082cee39
-https://sub.scp-nsc.top/clash
-https://vpn.28.al/s/4920d17bc5f6cda30a465d597cbd1d21
+https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
+https://cloud.gougou.live/s/9bc9d11bc3dcebccfb1c5eafdccc6e1a
 https://520.hq12.top/s/ba2667ab16f01cd72297398ce441779e
-https://super.jack991.filegear-sg.me/
+https://vpn.28.al/s/4920d17bc5f6cda30a465d597cbd1d21
+https://sub.scp-nsc.top/clash
