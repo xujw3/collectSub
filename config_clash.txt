@@ -1,6 +1,4 @@
-https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
+https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
+https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
 https://520.hq12.top/s/ba2667ab16f01cd72297398ce441779e
-https://cf-workers-sub-9s8.pages.dev/CSDN
