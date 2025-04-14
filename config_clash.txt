@@ -1,9 +1,11 @@
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
+https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://sub.mogufan.com/s/224878231a8a55e73d7e1bacef80129d
 https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
 https://cloud.gougou.live/s/9bc9d11bc3dcebccfb1c5eafdccc6e1a
-https://vpn.28.al/s/4920d17bc5f6cda30a465d597cbd1d21
 https://520.hq12.top/s/ba2667ab16f01cd72297398ce441779e
 https://super.jack991.filegear-sg.me/
+https://vpn.28.al/s/4920d17bc5f6cda30a465d597cbd1d21
+https://cf-workers-sub-9s8.pages.dev/CSDN
