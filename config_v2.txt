@@ -1,6 +1,3 @@
-https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/bg/mixed
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/be/mixed
-https://github.com/ssrsub/ssr/raw/master/ssrsub
-https://3.azadteam.workers.dev/sub/41398380-2073-4d85-878a-24194a6f04a3#azadnet
-https://1.azadteam.workers.dev/sub/ed886282-edc7-4c9a-a4d3-28950e7832c8#azadnet
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt
+https://api-linkcube.net/subscribe/bmvex-4lrepn6a
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ca/mixed
