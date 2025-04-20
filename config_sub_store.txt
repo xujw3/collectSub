@@ -1,31 +1,37 @@
 -- play_list --
 
-可用流量: 36864.0 GB https://bh.jiedianxielou.workers.dev
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA
-可用流量: 212.71 GB https://xn--9kqx21a0sv.com/api/bpyun?token=71381df2a4c89241bc7698efbe0931dd
-可用流量: 22.55 GB https://api-linkcube.net/subscribe/bmvex-4lrepn6a
-可用流量: 377.23 GB https://ansuyun.xyz/api/as?token=84a8bd92ef0ac3e8dc0df111eb2a4e08
-可用流量: 43124.91 GB https://emm-7zy.pages.dev/CSDN
-可用流量: 1612.95 GB https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G
 可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
-可用流量: 110.35 GB https://youyoo.ccwink.cc/api/v1/client/subscribe?token=261121489d52e625dd7bf0ad58c3210a
-可用流量: 101.2 GB https://youyoo.ccwink.cc/api/v1/client/subscribe?token=f47d9d789e3f91570cb2ff70045eafe5
-可用流量: 260.89 GB https://xn--9kqx21a0sv.com/api/bpyun?token=437a253fa2adff3b500308444a2eafab
-可用流量: 259.58 GB https://x2.ziyouniao.site/s/915656b08f2f4de6c62154b936bbf9aa
+可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G
+可用流量: 7.7 GB https://api-linkcube.net/subscribe/bmvex-4lrepn6a
+可用流量: 333.64 GB https://xn--9kqx21a0sv.com/api/bpyun?token=c099a0f220e8023c5032f8c67ef0b649
+可用流量: 248.68 GB https://x2.ziyouniao.site/s/915656b08f2f4de6c62154b936bbf9aa
+可用流量: 36864.0 GB https://bh.jiedianxielou.workers.dev/
+可用流量: 36864.0 GB https://bh.jiedianxielou.workers.dev
+可用流量: 92.93 GB http://sub.crosswall.org/s/0f7923f1a9a6f477c519748d8e0f3180
+可用流量: 1563.13 GB https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf
+可用流量: 109.07 GB https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
+可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA
+可用流量: 171798681.79 GB https://bujidao.cc/sub?key=aggyu9f3pU8TKX47Hd5heYshCDviM5N0
+可用流量: 96802.85 GB https://bird.1024.one/s/043e35511f8c0ed80f8586667eec5901
+可用流量: 342.16 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
+可用流量: 376.43 GB https://ansuyun.xyz/api/as?token=84a8bd92ef0ac3e8dc0df111eb2a4e08
+可用流量: 209.57 GB https://xn--9kqx21a0sv.com/api/bpyun?token=71381df2a4c89241bc7698efbe0931dd
 
 -- sub_list --
 
-https://bh.jiedianxielou.workers.dev
-https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA
-https://xn--9kqx21a0sv.com/api/bpyun?token=71381df2a4c89241bc7698efbe0931dd
-https://api-linkcube.net/subscribe/bmvex-4lrepn6a
-https://ansuyun.xyz/api/as?token=84a8bd92ef0ac3e8dc0df111eb2a4e08
-https://emm-7zy.pages.dev/CSDN
-https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf
-https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G
 https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
-https://youyoo.ccwink.cc/api/v1/client/subscribe?token=261121489d52e625dd7bf0ad58c3210a
-https://youyoo.ccwink.cc/api/v1/client/subscribe?token=f47d9d789e3f91570cb2ff70045eafe5
-https://xn--9kqx21a0sv.com/api/bpyun?token=437a253fa2adff3b500308444a2eafab
+https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G
+https://api-linkcube.net/subscribe/bmvex-4lrepn6a
+https://xn--9kqx21a0sv.com/api/bpyun?token=c099a0f220e8023c5032f8c67ef0b649
 https://x2.ziyouniao.site/s/915656b08f2f4de6c62154b936bbf9aa
+https://bh.jiedianxielou.workers.dev/
+https://bh.jiedianxielou.workers.dev
+http://sub.crosswall.org/s/0f7923f1a9a6f477c519748d8e0f3180
+https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf
+https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
+https://xship.top/v1/subscribe?starlink=pro@ak22RsujzCYUkcqv_cU6ILMA
+https://bujidao.cc/sub?key=aggyu9f3pU8TKX47Hd5heYshCDviM5N0
+https://bird.1024.one/s/043e35511f8c0ed80f8586667eec5901
+https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
+https://ansuyun.xyz/api/as?token=84a8bd92ef0ac3e8dc0df111eb2a4e08
+https://xn--9kqx21a0sv.com/api/bpyun?token=71381df2a4c89241bc7698efbe0931dd
