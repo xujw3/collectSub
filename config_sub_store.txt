@@ -1,27 +1,29 @@
 -- play_list --
 
-可用流量: 140.36 GB https://xn--9kqx21a0sv.com/api/bpyun?token=71381df2a4c89241bc7698efbe0931dd
-可用流量: 36864.0 GB https://bh.jiedianxielou.workers.dev/
+可用流量: 732.15 GB https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf
+可用流量: 315.42 GB https://xn--9kqx21a0sv.com/api/bpyun?token=c099a0f220e8023c5032f8c67ef0b649
 可用流量: 328.01 GB https://ansuyun.xyz/api/as?token=84a8bd92ef0ac3e8dc0df111eb2a4e08
-可用流量: 1759.36 GB http://api.miloli.cc/api/v1/client/subscribe?token=794cccfe111b2522747cf9bc2c36dffd
-可用流量: 5.81 GB https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
-可用流量: 43127.82 GB https://emm-7zy.pages.dev/CSDN
-可用流量: 168.22 GB https://x2.ziyouniao.site/s/915656b08f2f4de6c62154b936bbf9aa
-可用流量: 36864.0 GB https://bh.jiedianxielou.workers.dev
+可用流量: 1664.84 GB http://api.miloli.cc/api/v1/client/subscribe?token=794cccfe111b2522747cf9bc2c36dffd
+可用流量: 167.28 GB https://x2.ziyouniao.site/s/915656b08f2f4de6c62154b936bbf9aa
 可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G
+可用流量: 4.91 GB https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
+可用流量: 36864.0 GB https://bh.jiedianxielou.workers.dev
+可用流量: 36864.0 GB https://bh.jiedianxielou.workers.dev/
 可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
+可用流量: 43127.87 GB https://cf-workers-sub-9s8.pages.dev/CSDN
 可用流量: 1791.62 GB https://bayoeorescentpossessicoanseparateuneforescenphocommitte.adoptangelaboradvacotionclwonthorughconfrmcompimentdeseertaltar.org/link/PkHuTjYpRZGnaxwE?clash=1
 
 -- sub_list --
 
-https://xn--9kqx21a0sv.com/api/bpyun?token=71381df2a4c89241bc7698efbe0931dd
-https://bh.jiedianxielou.workers.dev/
+https://www.ckckssl.top/api/v1/client/subscribe?token=cdc96d354d96b6e6e2670c7611611bdf
+https://xn--9kqx21a0sv.com/api/bpyun?token=c099a0f220e8023c5032f8c67ef0b649
 https://ansuyun.xyz/api/as?token=84a8bd92ef0ac3e8dc0df111eb2a4e08
 http://api.miloli.cc/api/v1/client/subscribe?token=794cccfe111b2522747cf9bc2c36dffd
-https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
-https://emm-7zy.pages.dev/CSDN
 https://x2.ziyouniao.site/s/915656b08f2f4de6c62154b936bbf9aa
-https://bh.jiedianxielou.workers.dev
 https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G
+https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6
+https://bh.jiedianxielou.workers.dev
+https://bh.jiedianxielou.workers.dev/
 https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
+https://cf-workers-sub-9s8.pages.dev/CSDN
 https://bayoeorescentpossessicoanseparateuneforescenphocommitte.adoptangelaboradvacotionclwonthorughconfrmcompimentdeseertaltar.org/link/PkHuTjYpRZGnaxwE?clash=1
