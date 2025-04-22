@@ -1,4 +1,5 @@
-https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/dk/mixed
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/br/mixed
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ca/mixed
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/tr/mixed
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_4.txt
