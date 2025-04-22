@@ -1,10 +1,5 @@
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 http://nuxyun.v2rayflash.top/NuxYun/34cf1adc64332da29fb75c024d2bf720
-https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
-https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
+https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://x2.ziyouniao.site/s/915656b08f2f4de6c62154b936bbf9aa
 https://www.now61.com/f/wDdNCa/dyy5.9.yaml
-https://super.jack991.filegear-sg.me/
 https://520.hq12.top/s/ba2667ab16f01cd72297398ce441779e
