@@ -1,9 +1,9 @@
-https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_4.txt
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/bg/mixed
+https://github.com/ssrsub/ssr/raw/master/ssrsub
+https://igdux.top/~ppp
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/us/mixed
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt
-https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt
-https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ar/mixed
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ae/mixed
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ca/mixed
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/dk/mixed
+https://azadnet-2.azadnet-team.workers.dev/sub/e0c579e5-d86f-426b-bbee-f815821a34c3#EN-Normal
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt
 https://fs.v2rayse.com/share/20250223/f1b4d62nn3.txt
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/tw/mixed
