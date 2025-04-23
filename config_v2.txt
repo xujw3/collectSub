@@ -1,6 +1,8 @@
 https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ee/mixed
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/bh/mixed
-https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/us/mixed
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ae/mixed
 https://igdux.top/~ppp
 https://fs.v2rayse.com/share/20250223/f1b4d62nn3.txt
+https://github.com/ssrsub/ssr/raw/master/V2Ray
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt
+https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/countries/ar/mixed
+https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_2.txt
