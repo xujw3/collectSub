@@ -1,27 +1,25 @@
 -- play_list --
 
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 36864.0 GB https://bh.jiedianxielou.workers.dev/
-可用流量: 1065.85 GB http://api.miloli.cc/api/v1/client/subscribe?token=794cccfe111b2522747cf9bc2c36dffd
-可用流量: 94.04 GB http://nuxyun.v2rayflash.top/NuxYun/34cf1adc64332da29fb75c024d2bf720
-可用流量: 282.57 GB https://xn--9kqx21a0sv.com/api/bpyun?token=c099a0f220e8023c5032f8c67ef0b649
-可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G
 可用流量: 36864.0 GB https://bh.jiedianxielou.workers.dev
+可用流量: 191.07 GB https://xn--9kqx21a0sv.com/api/bpyun?token=437a253fa2adff3b500308444a2eafab
+可用流量: 47.76 GB https://xn--9kqx21a0sv.com/api/bpyun?token=71381df2a4c89241bc7698efbe0931dd
+可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G
+可用流量: 36864.0 GB https://bh.jiedianxielou.workers.dev/
+可用流量: 358.2 GB https://xtls.rprx.vision/api/v1/client/subscribe?token=2ec8ee407bedc047dfceede2c8f7f5b4
 可用流量: 9999722.82 GB http://1.262291.xyz:8831/api/v1/client/subscribe?token=08eeefa9f721c3a98863d5368b87b2bd
-可用流量: 358.79 GB https://xtls.rprx.vision/api/v1/client/subscribe?token=2ec8ee407bedc047dfceede2c8f7f5b4
-可用流量: 2.0 GB https://dashuai.qwa199544.workers.dev/
+可用流量: 43132.58 GB https://cf-workers-sub-9s8.pages.dev/CSDN
+可用流量: 997.96 GB http://api.miloli.cc/api/v1/client/subscribe?token=794cccfe111b2522747cf9bc2c36dffd
+可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
 
 -- sub_list --
 
-https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-https://bh.jiedianxielou.workers.dev/
-http://api.miloli.cc/api/v1/client/subscribe?token=794cccfe111b2522747cf9bc2c36dffd
-http://nuxyun.v2rayflash.top/NuxYun/34cf1adc64332da29fb75c024d2bf720
-https://xn--9kqx21a0sv.com/api/bpyun?token=c099a0f220e8023c5032f8c67ef0b649
-https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G
 https://bh.jiedianxielou.workers.dev
-http://1.262291.xyz:8831/api/v1/client/subscribe?token=08eeefa9f721c3a98863d5368b87b2bd
+https://xn--9kqx21a0sv.com/api/bpyun?token=437a253fa2adff3b500308444a2eafab
+https://xn--9kqx21a0sv.com/api/bpyun?token=71381df2a4c89241bc7698efbe0931dd
+https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G
+https://bh.jiedianxielou.workers.dev/
 https://xtls.rprx.vision/api/v1/client/subscribe?token=2ec8ee407bedc047dfceede2c8f7f5b4
-https://dashuai.qwa199544.workers.dev/
+http://1.262291.xyz:8831/api/v1/client/subscribe?token=08eeefa9f721c3a98863d5368b87b2bd
+https://cf-workers-sub-9s8.pages.dev/CSDN
+http://api.miloli.cc/api/v1/client/subscribe?token=794cccfe111b2522747cf9bc2c36dffd
+https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
