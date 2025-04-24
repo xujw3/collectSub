@@ -1,4 +1,3 @@
-http://nuxyun.v2rayflash.top/NuxYun/34cf1adc64332da29fb75c024d2bf720
-https://bh.jiedianxielou.workers.dev
 http://103.35.189.118:7001/s/2f28834d7f95f41397240689b91114c1
 https://bh.jiedianxielou.workers.dev/
+https://bh.jiedianxielou.workers.dev
