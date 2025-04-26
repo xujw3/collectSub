@@ -29,10 +29,10 @@ def postdata(data):
                     'mode': 'link',
                 },
                 'id': '36934923.422785416',
-                'disabled': False,
+                'disabled': True,
             },
         ],
-        'subUserinfo': 'upload=1000000000000; download=1000000000000; total=100000000000000; expire=4115721600; reset_day=1; plan_name=VIP1; app_url=https://sub.xujw.dpdns.org',
+        'subUserinfo': 'upload=1000000000000; download=1000000000000; total=100000000000000; expire=4115721600; reset_day=1; plan_name=VIP1; app_url=https://sub.xujw.dpdns.org/',
         'proxy': '',
         'tag': [
             '第三方',
