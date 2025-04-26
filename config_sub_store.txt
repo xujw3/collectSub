@@ -1,35 +1,17 @@
 -- play_list --
 
-可用流量: 86.1 GB https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=ac0d9aded89bc32d14874642577e9afc
-可用流量: 476.0 GB https://xn--9kqx21a0sv.com/api/bpyun?token=67c91c4a7ef83680aa15cf1dbbba5dfa
-可用流量: 3954.28 GB https://dash.sinqin.net/s/7845a6ab83b4e464a6ee53d956d977a3
-可用流量: 458.91 GB https://xn--9kqx21a0sv.com/api/bpyun?token=e347a5c53aefd1bce66ee9c7822208f7
-可用流量: 87.76 GB https://sub.mogufan.com/s/577abaa8a78934fd5e68c47fdeb51a9d
-可用流量: 239.33 GB https://x2.ziyouniao.site/s/429c7ab2b970ea3bd5dc6a31681eb00e
-可用流量: 585.72 GB https://yefengjc.xyz/api/yefeng?token=b6bad09ea5d97ded07c0bf9219e02359&amp;flag=meta
 可用流量: 931135488.0 GB https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
-可用流量: 143.84 GB https://youyoo.ccwink.cc/api/v1/client/subscribe?token=7d8d7f55a5be2c441d63a0c756d5f8b6
-可用流量: 43139.25 GB https://cf-workers-sub-9s8.pages.dev/CSDN
-可用流量: 125.8 GB https://youyoo.ccwink.cc/api/v1/client/subscribe?token=87fa9f2ae3b652a2eebfcb58108b6c6c
-可用流量: 76.04 GB https://sub.mogufan.com/s/1dcd789189aae0f61871d4f2adf9225a
-可用流量: 99999793.08 GB https://sub.xn--mes91t7ofgnw.com/s/3a6ff4e9a5aaafa50b962a99cf300c86
-可用流量: 104.53 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a63be6b9eba2dc97e6cb7f5b4b4df35b
-可用流量: 43139.25 GB https://sub-free-1.gmkeji.ggff.net/0a1483c03add41eba3cf7c997g03839e
+可用流量: 458.9 GB https://xn--9kqx21a0sv.com/api/bpyun?token=e347a5c53aefd1bce66ee9c7822208f7
+可用流量: 87.76 GB https://sub.mogufan.com/s/577abaa8a78934fd5e68c47fdeb51a9d
+可用流量: 1349.0 GB https://bh.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+可用流量: 85.44 GB https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=ac0d9aded89bc32d14874642577e9afc
+可用流量: 99.09 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
 
 -- sub_list --
 
-https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=ac0d9aded89bc32d14874642577e9afc
-https://xn--9kqx21a0sv.com/api/bpyun?token=67c91c4a7ef83680aa15cf1dbbba5dfa
-https://dash.sinqin.net/s/7845a6ab83b4e464a6ee53d956d977a3
+https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
 https://xn--9kqx21a0sv.com/api/bpyun?token=e347a5c53aefd1bce66ee9c7822208f7
 https://sub.mogufan.com/s/577abaa8a78934fd5e68c47fdeb51a9d
-https://x2.ziyouniao.site/s/429c7ab2b970ea3bd5dc6a31681eb00e
-https://yefengjc.xyz/api/yefeng?token=b6bad09ea5d97ded07c0bf9219e02359&amp;flag=meta
-https://xship.top/v1/subscribe?starlink=promax@0iU5m57fPU0cEcqcC1LGG5G_#%E6%98%9F%E9%93%BEStarlink%20%E2%9C%A8
-https://youyoo.ccwink.cc/api/v1/client/subscribe?token=7d8d7f55a5be2c441d63a0c756d5f8b6
-https://cf-workers-sub-9s8.pages.dev/CSDN
-https://youyoo.ccwink.cc/api/v1/client/subscribe?token=87fa9f2ae3b652a2eebfcb58108b6c6c
-https://sub.mogufan.com/s/1dcd789189aae0f61871d4f2adf9225a
-https://sub.xn--mes91t7ofgnw.com/s/3a6ff4e9a5aaafa50b962a99cf300c86
-https://xn--9kqx21a0sv.com/api/bpyun?token=a63be6b9eba2dc97e6cb7f5b4b4df35b
-https://sub-free-1.gmkeji.ggff.net/0a1483c03add41eba3cf7c997g03839e
+https://bh.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=ac0d9aded89bc32d14874642577e9afc
+https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
