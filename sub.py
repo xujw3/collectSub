@@ -8,7 +8,7 @@ def postdata(data):
         'form': '',
         'remark': '',
         'mergeSources': '',
-        'ignoreFailedRemoteSub': True,
+        'ignoreFailedRemoteSub': 'quiet',
         'passThroughUA': False,
         'icon': 'https://raw.githubusercontent.com/cc63/ICON/main/icons/AMY.png',
         'process': [
@@ -25,14 +25,18 @@ def postdata(data):
             {
                 'type': 'Script Operator',
                 'args': {
-                    'content': 'https://raw.githubusercontent.com/xujw3/other/refs/heads/main/rename.js#flag&noCache&clear',
+                    'content': 'https://raw.githubusercontent.com/xujw3/other/refs/heads/main/rename.js#clear&flag#noCache',
                     'mode': 'link',
+                    'arguments': {
+                        'clear': True,
+                        'flag': True,
+                    },
                 },
                 'id': '36934923.422785416',
                 'disabled': True,
             },
         ],
-        'subUserinfo': 'upload=1000000000000; download=1000000000000; total=100000000000000; expire=4115721600; reset_day=1; plan_name=VIP1; app_url=https://sub.xujw.dpdns.org/',
+        'subUserinfo': 'upload=1000000000000; download=1000000000000; total=100000000000000; expire=4115721600; reset_day=1; plan_name=VIP9; app_url=https://sub.xujw.dpdns.org/',
         'proxy': '',
         'tag': [
             '第三方',
