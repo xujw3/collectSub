@@ -1,29 +1,17 @@
 -- play_list --
 
-可用流量: 677.0 GB https://bh.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-可用流量: 1567.0 GB https://bh.jiedianxielou.workers.dev/
-可用流量: 20.07 GB https://youyoo.ccwink.cc/api/v1/client/subscribe?token=87fa9f2ae3b652a2eebfcb58108b6c6c
-可用流量: 603.0 GB https://bh.jiedianxielou.workers.dev
-可用流量: 999096.91 GB http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-可用流量: 91.78 GB https://laibajc.top/laiba/ml/client/subscribe?token=55696fc69bbf7efd2c4977c37ec6e995
-可用流量: 103.04 GB https://laibajc.top/laiba/ml/client/subscribe?token=e2937d94a69c626ae23ca2ce030e72e5
-可用流量: 2259.34 GB https://rss-node.com/link/AytXfiws1YtKJEq7?mu=1
-可用流量: 70.51 GB https://youyoo.ccwink.cc/api/v1/client/subscribe?token=7d8d7f55a5be2c441d63a0c756d5f8b6
-可用流量: 13.4 GB https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=29359ad1da49d791bd801f396db43506&amp;flag=meta
-可用流量: 442.3 GB https://xn--9kqx21a0sv.com/api/bpyun?token=e347a5c53aefd1bce66ee9c7822208f7
-可用流量: 43143.43 GB https://emm-7zy.pages.dev/CSDN
+可用流量: 457.01 GB https://xn--9kqx21a0sv.com/api/bpyun?token=479f280c2547d7213a395d98fa9212ec
+可用流量: 46.29 GB https://sub.mogufan.com/s/577abaa8a78934fd5e68c47fdeb51a9d
+可用流量: 69.72 GB https://youyoo.ccwink.cc/api/v1/client/subscribe?token=7d8d7f55a5be2c441d63a0c756d5f8b6
+可用流量: 102.36 GB https://laibajc.top/laiba/ml/client/subscribe?token=e2937d94a69c626ae23ca2ce030e72e5
+可用流量: 106.23 GB https://xn--9kqx21a0sv.com/api/bpyun?token=437a253fa2adff3b500308444a2eafab
+可用流量: 5057.5 GB https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
 
 -- sub_list --
 
-https://bh.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://bh.jiedianxielou.workers.dev/
-https://youyoo.ccwink.cc/api/v1/client/subscribe?token=87fa9f2ae3b652a2eebfcb58108b6c6c
-https://bh.jiedianxielou.workers.dev
-http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-https://laibajc.top/laiba/ml/client/subscribe?token=55696fc69bbf7efd2c4977c37ec6e995
-https://laibajc.top/laiba/ml/client/subscribe?token=e2937d94a69c626ae23ca2ce030e72e5
-https://rss-node.com/link/AytXfiws1YtKJEq7?mu=1
+https://xn--9kqx21a0sv.com/api/bpyun?token=479f280c2547d7213a395d98fa9212ec
+https://sub.mogufan.com/s/577abaa8a78934fd5e68c47fdeb51a9d
 https://youyoo.ccwink.cc/api/v1/client/subscribe?token=7d8d7f55a5be2c441d63a0c756d5f8b6
-https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=29359ad1da49d791bd801f396db43506&amp;flag=meta
-https://xn--9kqx21a0sv.com/api/bpyun?token=e347a5c53aefd1bce66ee9c7822208f7
-https://emm-7zy.pages.dev/CSDN
+https://laibajc.top/laiba/ml/client/subscribe?token=e2937d94a69c626ae23ca2ce030e72e5
+https://xn--9kqx21a0sv.com/api/bpyun?token=437a253fa2adff3b500308444a2eafab
+https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
