@@ -1,33 +1,27 @@
 -- play_list --
 
-可用流量: 126.31 GB https://laibajc.top/laiba/ml/client/subscribe?token=e2937d94a69c626ae23ca2ce030e72e5
-可用流量: 63.1 GB https://sub.mogufan.com/s/577abaa8a78934fd5e68c47fdeb51a9d
-可用流量: 38.86 GB https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=29359ad1da49d791bd801f396db43506&amp;flag=meta
-可用流量: 93.77 GB https://youyoo.ccwink.cc/api/v1/client/subscribe?token=7d8d7f55a5be2c441d63a0c756d5f8b6
-可用流量: 32.92 GB https://youyoo.ccwink.cc/api/v1/client/subscribe?token=87fa9f2ae3b652a2eebfcb58108b6c6c
-可用流量: 1022.27 GB https://www.liangyuandian.life/api/v1/client/subscribe?token=cfe2f074c5ffed27a05d651da11a4bb3
-可用流量: 297.0 GB https://666676666.xyz/api/v1/client/subscribe?token=f701ce71294b488eebc00937d841bebb
-可用流量: 55.17 GB https://sub.mogufan.com/s/1dcd789189aae0f61871d4f2adf9225a
-可用流量: 999098.27 GB http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-可用流量: 856.66 GB https://dash.sinqin.net/s/7845a6ab83b4e464a6ee53d956d977a3
-可用流量: 109.59 GB https://laibajc.top/laiba/ml/client/subscribe?token=55696fc69bbf7efd2c4977c37ec6e995
-可用流量: 1976.0 GB https://bh.jiedianxielou.workers.dev
-可用流量: 1609.0 GB https://bh.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-可用流量: 1963.62 GB http://api.miloli.cc/api/v1/client/subscribe?token=794cccfe111b2522747cf9bc2c36dffd
+可用流量: 34.82 GB https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=29359ad1da49d791bd801f396db43506&amp;flag=meta
+可用流量: 634.0 GB https://bh.jiedianxielou.workers.dev
+可用流量: 49.82 GB https://xn--9kqx21a0sv.com/api/bpyun?token=c099a0f220e8023c5032f8c67ef0b649
+可用流量: 460.56 GB https://xn--9kqx21a0sv.com/api/bpyun?token=479f280c2547d7213a395d98fa9212ec
+可用流量: 107.89 GB https://laibajc.top/laiba/ml/client/subscribe?token=55696fc69bbf7efd2c4977c37ec6e995
+可用流量: 745.2 GB https://dash.sinqin.net/s/7845a6ab83b4e464a6ee53d956d977a3
+可用流量: 1020.5 GB https://www.liangyuandian.life/api/v1/client/subscribe?token=cfe2f074c5ffed27a05d651da11a4bb3
+可用流量: 999098.26 GB http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+可用流量: 123.44 GB https://laibajc.top/laiba/ml/client/subscribe?token=e2937d94a69c626ae23ca2ce030e72e5
+可用流量: 1907.96 GB http://api.miloli.cc/api/v1/client/subscribe?token=794cccfe111b2522747cf9bc2c36dffd
+可用流量: 92.49 GB https://youyoo.ccwink.cc/api/v1/client/subscribe?token=7d8d7f55a5be2c441d63a0c756d5f8b6
 
 -- sub_list --
 
-https://laibajc.top/laiba/ml/client/subscribe?token=e2937d94a69c626ae23ca2ce030e72e5
-https://sub.mogufan.com/s/577abaa8a78934fd5e68c47fdeb51a9d
 https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=29359ad1da49d791bd801f396db43506&amp;flag=meta
-https://youyoo.ccwink.cc/api/v1/client/subscribe?token=7d8d7f55a5be2c441d63a0c756d5f8b6
-https://youyoo.ccwink.cc/api/v1/client/subscribe?token=87fa9f2ae3b652a2eebfcb58108b6c6c
-https://www.liangyuandian.life/api/v1/client/subscribe?token=cfe2f074c5ffed27a05d651da11a4bb3
-https://666676666.xyz/api/v1/client/subscribe?token=f701ce71294b488eebc00937d841bebb
-https://sub.mogufan.com/s/1dcd789189aae0f61871d4f2adf9225a
-http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-https://dash.sinqin.net/s/7845a6ab83b4e464a6ee53d956d977a3
-https://laibajc.top/laiba/ml/client/subscribe?token=55696fc69bbf7efd2c4977c37ec6e995
 https://bh.jiedianxielou.workers.dev
-https://bh.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://xn--9kqx21a0sv.com/api/bpyun?token=c099a0f220e8023c5032f8c67ef0b649
+https://xn--9kqx21a0sv.com/api/bpyun?token=479f280c2547d7213a395d98fa9212ec
+https://laibajc.top/laiba/ml/client/subscribe?token=55696fc69bbf7efd2c4977c37ec6e995
+https://dash.sinqin.net/s/7845a6ab83b4e464a6ee53d956d977a3
+https://www.liangyuandian.life/api/v1/client/subscribe?token=cfe2f074c5ffed27a05d651da11a4bb3
+http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+https://laibajc.top/laiba/ml/client/subscribe?token=e2937d94a69c626ae23ca2ce030e72e5
 http://api.miloli.cc/api/v1/client/subscribe?token=794cccfe111b2522747cf9bc2c36dffd
+https://youyoo.ccwink.cc/api/v1/client/subscribe?token=7d8d7f55a5be2c441d63a0c756d5f8b6
