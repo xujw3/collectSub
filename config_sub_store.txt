@@ -1,23 +1,31 @@
 -- play_list --
 
-可用流量: 2108.0 GB https://bh.jiedianxielou.workers.dev/
-可用流量: 96.1 GB https://laibajc.top/laiba/ml/client/subscribe?token=55696fc69bbf7efd2c4977c37ec6e995
-可用流量: 442.38 GB https://xn--9kqx21a0sv.com/api/bpyun?token=e347a5c53aefd1bce66ee9c7822208f7
-可用流量: 457.13 GB https://xn--9kqx21a0sv.com/api/bpyun?token=479f280c2547d7213a395d98fa9212ec
-可用流量: 107.1 GB https://laibajc.top/laiba/ml/client/subscribe?token=e2937d94a69c626ae23ca2ce030e72e5
-可用流量: 49.88 GB https://sub.mogufan.com/s/577abaa8a78934fd5e68c47fdeb51a9d
-可用流量: 76.83 GB https://youyoo.ccwink.cc/api/v1/client/subscribe?token=7d8d7f55a5be2c441d63a0c756d5f8b6
-可用流量: 22.18 GB https://youyoo.ccwink.cc/api/v1/client/subscribe?token=87fa9f2ae3b652a2eebfcb58108b6c6c
-可用流量: 378.58 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a443cd6b724873de7bf00400f91ff47b
+可用流量: 239.0 GB https://bh.jiedianxielou.workers.dev
+可用流量: 378.43 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a443cd6b724873de7bf00400f91ff47b
+可用流量: 94.34 GB https://laibajc.top/laiba/ml/client/subscribe?token=55696fc69bbf7efd2c4977c37ec6e995
+可用流量: 46.54 GB https://sub.mogufan.com/s/1dcd789189aae0f61871d4f2adf9225a
+可用流量: 48.63 GB https://sub.mogufan.com/s/577abaa8a78934fd5e68c47fdeb51a9d
+可用流量: 999097.1 GB http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+可用流量: 69.36 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
+可用流量: 989.0 GB https://bh.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+可用流量: 14.19 GB https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=29359ad1da49d791bd801f396db43506&amp;flag=meta
+可用流量: 470.25 GB https://xn--9kqx21a0sv.com/api/bpyun?token=eb8fcc2fb3a2a979df1d7fe5bd6c7419
+可用流量: 105.52 GB https://laibajc.top/laiba/ml/client/subscribe?token=e2937d94a69c626ae23ca2ce030e72e5
+可用流量: 107.3 GB https://xn--9kqx21a0sv.com/api/bpyun?token=437a253fa2adff3b500308444a2eafab
+可用流量: 1714.0 GB https://bh.jiedianxielou.workers.dev/
 
 -- sub_list --
 
-https://bh.jiedianxielou.workers.dev/
-https://laibajc.top/laiba/ml/client/subscribe?token=55696fc69bbf7efd2c4977c37ec6e995
-https://xn--9kqx21a0sv.com/api/bpyun?token=e347a5c53aefd1bce66ee9c7822208f7
-https://xn--9kqx21a0sv.com/api/bpyun?token=479f280c2547d7213a395d98fa9212ec
-https://laibajc.top/laiba/ml/client/subscribe?token=e2937d94a69c626ae23ca2ce030e72e5
-https://sub.mogufan.com/s/577abaa8a78934fd5e68c47fdeb51a9d
-https://youyoo.ccwink.cc/api/v1/client/subscribe?token=7d8d7f55a5be2c441d63a0c756d5f8b6
-https://youyoo.ccwink.cc/api/v1/client/subscribe?token=87fa9f2ae3b652a2eebfcb58108b6c6c
+https://bh.jiedianxielou.workers.dev
 https://xn--9kqx21a0sv.com/api/bpyun?token=a443cd6b724873de7bf00400f91ff47b
+https://laibajc.top/laiba/ml/client/subscribe?token=55696fc69bbf7efd2c4977c37ec6e995
+https://sub.mogufan.com/s/1dcd789189aae0f61871d4f2adf9225a
+https://sub.mogufan.com/s/577abaa8a78934fd5e68c47fdeb51a9d
+http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
+https://bh.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=29359ad1da49d791bd801f396db43506&amp;flag=meta
+https://xn--9kqx21a0sv.com/api/bpyun?token=eb8fcc2fb3a2a979df1d7fe5bd6c7419
+https://laibajc.top/laiba/ml/client/subscribe?token=e2937d94a69c626ae23ca2ce030e72e5
+https://xn--9kqx21a0sv.com/api/bpyun?token=437a253fa2adff3b500308444a2eafab
+https://bh.jiedianxielou.workers.dev/
