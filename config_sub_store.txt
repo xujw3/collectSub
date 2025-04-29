@@ -1,21 +1,25 @@
 -- play_list --
 
-可用流量: 426.03 GB https://xn--9kqx21a0sv.com/api/bpyun?token=479f280c2547d7213a395d98fa9212ec
-可用流量: 999088.77 GB http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-可用流量: 183.7 GB http://sub.crosswall.org/s/16ddda866fb0484f9b7b74982b8130c0
-可用流量: 1417.0 GB https://bh.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-可用流量: 208.96 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
-可用流量: 1136.0 GB https://bh.jiedianxielou.workers.dev
-可用流量: 2882.89 GB https://ninjasub.com/link/9noSSheK3HL0mSCW?clash=1
+可用流量: 26.98 GB https://laibajc.top/laiba/ml/client/subscribe?token=e2937d94a69c626ae23ca2ce030e72e5
+可用流量: 56.49 GB https://youyoo.ccwink.cc/api/v1/client/subscribe?token=7d8d7f55a5be2c441d63a0c756d5f8b6
+可用流量: 412.31 GB https://app.jisuba.live/s/223d23dc73fc15e1b4f3c185218b6398
+可用流量: 437.07 GB https://xn--9kqx21a0sv.com/api/bpyun?token=e347a5c53aefd1bce66ee9c7822208f7
+可用流量: 1223.0 GB https://bh.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
 可用流量: 9999133.71 GB https://185.213.174.24/search?token=11d12b87fc6b591a5f43e8b06ec4ab12
+可用流量: 56.81 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
+可用流量: 623.0 GB https://bh.jiedianxielou.workers.dev/
+可用流量: 49.56 GB https://laibajc.top/laiba/ml/client/subscribe?token=55696fc69bbf7efd2c4977c37ec6e995
+可用流量: 183.2 GB http://sub.crosswall.org/s/16ddda866fb0484f9b7b74982b8130c0
 
 -- sub_list --
 
-https://xn--9kqx21a0sv.com/api/bpyun?token=479f280c2547d7213a395d98fa9212ec
-http://15.197.234.117:40329/sub/66981cd05be137cf/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-http://sub.crosswall.org/s/16ddda866fb0484f9b7b74982b8130c0
+https://laibajc.top/laiba/ml/client/subscribe?token=e2937d94a69c626ae23ca2ce030e72e5
+https://youyoo.ccwink.cc/api/v1/client/subscribe?token=7d8d7f55a5be2c441d63a0c756d5f8b6
+https://app.jisuba.live/s/223d23dc73fc15e1b4f3c185218b6398
+https://xn--9kqx21a0sv.com/api/bpyun?token=e347a5c53aefd1bce66ee9c7822208f7
 https://bh.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
-https://bh.jiedianxielou.workers.dev
-https://ninjasub.com/link/9noSSheK3HL0mSCW?clash=1
 https://185.213.174.24/search?token=11d12b87fc6b591a5f43e8b06ec4ab12
+https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
+https://bh.jiedianxielou.workers.dev/
+https://laibajc.top/laiba/ml/client/subscribe?token=55696fc69bbf7efd2c4977c37ec6e995
+http://sub.crosswall.org/s/16ddda866fb0484f9b7b74982b8130c0
