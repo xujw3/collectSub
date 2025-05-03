@@ -1,21 +1,19 @@
 -- play_list --
 
-可用流量: 10000000.0 GB https://185.213.174.24/search?token=11d12b87fc6b591a5f43e8b06ec4ab12
-可用流量: 298.0 GB https://bh.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-可用流量: 1453.0 GB https://bh.jiedianxielou.workers.dev
-可用流量: 23142.57 GB https://mot.luyuju.dpdns.org/dyRkcYMfQavqC0wMghhv
-可用流量: 1248.0 GB https://bh.jiedianxielou.workers.dev/
-可用流量: 78.21 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 126.3 GB https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=29359ad1da49d791bd801f396db43506&amp;flag=meta
-可用流量: 111.43 GB https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=ac0d9aded89bc32d14874642577e9afc
+可用流量: 76.1 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+可用流量: 1355.0 GB https://bh.jiedianxielou.workers.dev
+可用流量: 847.0 GB https://bh.jiedianxielou.workers.dev/
+可用流量: 2171.0 GB https://bh.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+可用流量: 81.04 GB https://laibajc.top/laiba/ml/client/subscribe?token=55696fc69bbf7efd2c4977c37ec6e995
+可用流量: 497.07 GB http://sub.crosswall.org/s/9cc0ead59805b154df5fc4f23342bc43
+可用流量: 47.63 GB https://s.binfeng.site/api/v1/client/subscribe?token=d2944a3a33628c39a6c36600444e7506
 
 -- sub_list --
 
-https://185.213.174.24/search?token=11d12b87fc6b591a5f43e8b06ec4ab12
-https://bh.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://bh.jiedianxielou.workers.dev
-https://mot.luyuju.dpdns.org/dyRkcYMfQavqC0wMghhv
-https://bh.jiedianxielou.workers.dev/
 https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=29359ad1da49d791bd801f396db43506&amp;flag=meta
-https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=ac0d9aded89bc32d14874642577e9afc
+https://bh.jiedianxielou.workers.dev
+https://bh.jiedianxielou.workers.dev/
+https://bh.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://laibajc.top/laiba/ml/client/subscribe?token=55696fc69bbf7efd2c4977c37ec6e995
+http://sub.crosswall.org/s/9cc0ead59805b154df5fc4f23342bc43
+https://s.binfeng.site/api/v1/client/subscribe?token=d2944a3a33628c39a6c36600444e7506
