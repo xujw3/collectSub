@@ -1,25 +1,13 @@
 -- play_list --
 
-可用流量: 150.98 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
-可用流量: 36.28 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
 可用流量: 10000000.0 GB https://185.213.174.24/search?token=11d12b87fc6b591a5f43e8b06ec4ab12
-可用流量: 1621.0 GB https://bh.jiedianxielou.workers.dev
-可用流量: 468.0 GB https://bh.jiedianxielou.workers.dev/
-可用流量: 64.53 GB https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=29359ad1da49d791bd801f396db43506&amp;flag=meta
-可用流量: 40.06 GB https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=ac0d9aded89bc32d14874642577e9afc
-可用流量: 1727.0 GB https://bh.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-可用流量: 1682.62 GB https://ninjasub.com/link/9noSSheK3HL0mSCW?clash=1
-可用流量: 62.39 GB https://laibajc.top/laiba/ml/client/subscribe?token=55696fc69bbf7efd2c4977c37ec6e995
+可用流量: 150.88 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
+可用流量: 64.82 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+可用流量: 1675.14 GB https://ninjasub.com/link/9noSSheK3HL0mSCW?clash=1
 
 -- sub_list --
 
-https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
-https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
 https://185.213.174.24/search?token=11d12b87fc6b591a5f43e8b06ec4ab12
-https://bh.jiedianxielou.workers.dev
-https://bh.jiedianxielou.workers.dev/
-https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=29359ad1da49d791bd801f396db43506&amp;flag=meta
-https://lsdm.laibajc.top/laiba/ml/client/subscribe?token=ac0d9aded89bc32d14874642577e9afc
-https://bh.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
+https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
+https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
 https://ninjasub.com/link/9noSSheK3HL0mSCW?clash=1
-https://laibajc.top/laiba/ml/client/subscribe?token=55696fc69bbf7efd2c4977c37ec6e995
