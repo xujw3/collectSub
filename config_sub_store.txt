@@ -1,25 +1,19 @@
 -- play_list --
 
-可用流量: 20.04 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 972.35 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 997793.46 GB https://bbb.wolun555.com/api/v1/client/subscribe?token=VLSGKFMB4HJNP4ZW
-可用流量: 0.0 GB https://bh.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-可用流量: 891.3 GB https://abjc.xyz/api/abjc?token=61cfbe1fe61ff66412fa17d3691622d3
-可用流量: 7659.46 GB https://www.roc-taiwan.taipei/link/6vY3rvkzoG0S5jAU?clash=1
-可用流量: 999.9 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 1577.47 GB https://sub.coo.ga/api/v1/client/subscribe?token=03c5bb6ef19816430e077f5f800411d1
+可用流量: 95.63 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
+可用流量: 999.76 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 951.26 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 7362.32 GB https://www.roc-taiwan.taipei/link/6vY3rvkzoG0S5jAU?clash=1
 可用流量: 26.69 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-可用流量: 95.72 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
+可用流量: 1339.38 GB https://sub.coo.ga/api/v1/client/subscribe?token=03c5bb6ef19816430e077f5f800411d1
+可用流量: 20.0 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
 
 -- sub_list --
 
-https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-https://bbb.wolun555.com/api/v1/client/subscribe?token=VLSGKFMB4HJNP4ZW
-https://bh.jiedianxielou.workers.dev/api/v1/client/subscribe?token=114514
-https://abjc.xyz/api/abjc?token=61cfbe1fe61ff66412fa17d3691622d3
-https://www.roc-taiwan.taipei/link/6vY3rvkzoG0S5jAU?clash=1
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://sub.coo.ga/api/v1/client/subscribe?token=03c5bb6ef19816430e077f5f800411d1
-https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
 https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+https://www.roc-taiwan.taipei/link/6vY3rvkzoG0S5jAU?clash=1
+https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
+https://sub.coo.ga/api/v1/client/subscribe?token=03c5bb6ef19816430e077f5f800411d1
+https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
