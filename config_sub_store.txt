@@ -1,19 +1,13 @@
 -- play_list --
 
-可用流量: 121.44 GB https://www.roc-taiwan.taipei/link/6vY3rvkzoG0S5jAU?clash=1
-可用流量: 816.79 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 76.09 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
-可用流量: 26.44 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-可用流量: 459.16 GB https://45.137.181.197/api/v1/client/subscribe?token=57141b33b664412b3254cd69853edc57
+可用流量: 816.36 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
 可用流量: 19.56 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+可用流量: 26.44 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
 可用流量: 999.26 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 
 -- sub_list --
 
-https://www.roc-taiwan.taipei/link/6vY3rvkzoG0S5jAU?clash=1
 https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
-https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-https://45.137.181.197/api/v1/client/subscribe?token=57141b33b664412b3254cd69853edc57
 https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
 https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
