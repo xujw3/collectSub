@@ -1,15 +1,17 @@
 -- play_list --
 
-可用流量: 426.49 GB http://sub.crosswall.org/s/b4fe22c84802df62e0e66049947ec320
-可用流量: 26.69 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-可用流量: 999.7 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 917.68 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 647.56 GB https://sub.coo.ga/api/v1/client/subscribe?token=03c5bb6ef19816430e077f5f800411d1
+可用流量: 90.13 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
+可用流量: 915.57 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
 可用流量: 19.61 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+可用流量: 6374.64 GB https://www.roc-taiwan.taipei/link/6vY3rvkzoG0S5jAU?clash=1
+可用流量: 26.69 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
 
 -- sub_list --
 
-http://sub.crosswall.org/s/b4fe22c84802df62e0e66049947ec320
-https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+https://sub.coo.ga/api/v1/client/subscribe?token=03c5bb6ef19816430e077f5f800411d1
+https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
 https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
 https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+https://www.roc-taiwan.taipei/link/6vY3rvkzoG0S5jAU?clash=1
+https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
