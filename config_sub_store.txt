@@ -1,21 +1,21 @@
 -- play_list --
 
-可用流量: 26.24 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-可用流量: 253.97 GB https://45.137.181.197/api/v1/client/subscribe?token=57141b33b664412b3254cd69853edc57
+可用流量: 2.38 GB https://tzapi.yingmaox.cc/sub/client/subscribe?token=5343237ede3d3a5f5a9898f7a953e51c
+可用流量: 26.22 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
+可用流量: 225.85 GB https://45.137.181.197/api/v1/client/subscribe?token=57141b33b664412b3254cd69853edc57
 可用流量: 19.55 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+可用流量: 460.76 GB http://sub.crosswall.org/s/021b85643def8ae6b8ec4e2c8de11425
+可用流量: 749.99 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
 可用流量: 999.25 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 2.35 GB http://sub.crosswall.org/s/b4fe22c84802df62e0e66049947ec320
-可用流量: 756.8 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 3.83 GB https://tzapi.yingmaox.cc/sub/client/subscribe?token=5343237ede3d3a5f5a9898f7a953e51c
-可用流量: 71.61 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
+可用流量: 71.49 GB https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
 
 -- sub_list --
 
+https://tzapi.yingmaox.cc/sub/client/subscribe?token=5343237ede3d3a5f5a9898f7a953e51c
 https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
 https://45.137.181.197/api/v1/client/subscribe?token=57141b33b664412b3254cd69853edc57
 https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-http://sub.crosswall.org/s/b4fe22c84802df62e0e66049947ec320
+http://sub.crosswall.org/s/021b85643def8ae6b8ec4e2c8de11425
 https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-https://tzapi.yingmaox.cc/sub/client/subscribe?token=5343237ede3d3a5f5a9898f7a953e51c
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 https://xn--9kqx21a0sv.com/api/bpyun?token=a7f5ba0020ebd5c0f97eb6c2d40e2265
