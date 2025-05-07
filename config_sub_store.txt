@@ -1,13 +1,11 @@
 -- play_list --
 
-可用流量: 25.97 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-可用流量: 710.08 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 999.19 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 321.88 GB http://sub.crosswall.org/s/021b85643def8ae6b8ec4e2c8de11425
 可用流量: 19.55 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+可用流量: 705.84 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
 
 -- sub_list --
 
-https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+http://sub.crosswall.org/s/021b85643def8ae6b8ec4e2c8de11425
 https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
