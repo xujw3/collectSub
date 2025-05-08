@@ -1,9 +1,7 @@
 -- play_list --
 
 可用流量: 19.55 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 586.69 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
 
 -- sub_list --
 
 https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
