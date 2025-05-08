@@ -1,11 +1,9 @@
 -- play_list --
 
-可用流量: 0.0 GB https://bh.jiedianxielou.workers.dev/
-可用流量: 982.04 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 419.96 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 96.54 GB https://mogufan.com/s/a3a8a937c1d47106d451019cd35980bd
+可用流量: 19.47 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
 
 -- sub_list --
 
-https://bh.jiedianxielou.workers.dev/
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+https://mogufan.com/s/a3a8a937c1d47106d451019cd35980bd
+https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
