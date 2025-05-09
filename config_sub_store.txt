@@ -1,29 +1,21 @@
 -- play_list --
 
-可用流量: 956.07 GB http://sub.crosswall.org/s/cc4bef9184721d364ac6493c5a9c02fb
-可用流量: 3.17 GB https://v1.foxtiming.com/sub/db2f21f6174dcc1c7fddac2e495befdb
-可用流量: 979.5 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 21.58 GB https://mogufan.com/s/a3a8a937c1d47106d451019cd35980bd
-可用流量: 0.0 GB https://bh.jiedianxielou.workers.dev/
-可用流量: 9699.42 GB http://103.35.189.118:7001/s/d106e8f068afaacbc11482ba764b7833
-可用流量: 9628.33 GB http://103.35.189.118:7001/s/6c58d603a19bbae74ab761b584294cb5
-可用流量: 128.25 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 9944.11 GB http://103.35.189.118:7001/s/4231089c43e6ff4392e21aaccb8a9409
-可用流量: 9845.38 GB http://103.35.189.118:7001/s/d3b16d39e1fd862613c8ac312bf79b2a
+可用流量: 9943.27 GB http://103.35.189.118:7001/s/4231089c43e6ff4392e21aaccb8a9409
+可用流量: 9843.1 GB http://103.35.189.118:7001/s/d3b16d39e1fd862613c8ac312bf79b2a
+可用流量: 12.3 GB https://mogufan.com/s/a3a8a937c1d47106d451019cd35980bd
 可用流量: 19.46 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 785.13 GB http://sub.crosswall.org/s/79e5a9b5841e44a8b0fd6c97a6293b24
+可用流量: 116.28 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 0.0 GB https://bh.jiedianxielou.workers.dev/
+可用流量: 9618.0 GB http://103.35.189.118:7001/s/6c58d603a19bbae74ab761b584294cb5
+可用流量: 9690.26 GB http://103.35.189.118:7001/s/d106e8f068afaacbc11482ba764b7833
 
 -- sub_list --
 
-http://sub.crosswall.org/s/cc4bef9184721d364ac6493c5a9c02fb
-https://v1.foxtiming.com/sub/db2f21f6174dcc1c7fddac2e495befdb
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://mogufan.com/s/a3a8a937c1d47106d451019cd35980bd
-https://bh.jiedianxielou.workers.dev/
-http://103.35.189.118:7001/s/d106e8f068afaacbc11482ba764b7833
-http://103.35.189.118:7001/s/6c58d603a19bbae74ab761b584294cb5
-https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
 http://103.35.189.118:7001/s/4231089c43e6ff4392e21aaccb8a9409
 http://103.35.189.118:7001/s/d3b16d39e1fd862613c8ac312bf79b2a
+https://mogufan.com/s/a3a8a937c1d47106d451019cd35980bd
 https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-http://sub.crosswall.org/s/79e5a9b5841e44a8b0fd6c97a6293b24
+https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+https://bh.jiedianxielou.workers.dev/
+http://103.35.189.118:7001/s/6c58d603a19bbae74ab761b584294cb5
+http://103.35.189.118:7001/s/d106e8f068afaacbc11482ba764b7833
