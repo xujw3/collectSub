@@ -1,21 +1,27 @@
 -- play_list --
 
-可用流量: 9943.27 GB http://103.35.189.118:7001/s/4231089c43e6ff4392e21aaccb8a9409
-可用流量: 9843.1 GB http://103.35.189.118:7001/s/d3b16d39e1fd862613c8ac312bf79b2a
-可用流量: 12.3 GB https://mogufan.com/s/a3a8a937c1d47106d451019cd35980bd
-可用流量: 19.46 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 116.28 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 9942.22 GB http://103.35.189.118:7001/s/4231089c43e6ff4392e21aaccb8a9409
+可用流量: 109.74 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 750.44 GB http://sub.crosswall.org/s/8c11f4e723a29a8ec0b8a958a1ef4709
+可用流量: 6.15 GB https://mogufan.com/s/a3a8a937c1d47106d451019cd35980bd
 可用流量: 0.0 GB https://bh.jiedianxielou.workers.dev/
-可用流量: 9618.0 GB http://103.35.189.118:7001/s/6c58d603a19bbae74ab761b584294cb5
-可用流量: 9690.26 GB http://103.35.189.118:7001/s/d106e8f068afaacbc11482ba764b7833
+可用流量: 772.89 GB http://sub.crosswall.org/s/79e5a9b5841e44a8b0fd6c97a6293b24
+可用流量: 9678.05 GB http://103.35.189.118:7001/s/d106e8f068afaacbc11482ba764b7833
+可用流量: 9609.07 GB http://103.35.189.118:7001/s/6c58d603a19bbae74ab761b584294cb5
+可用流量: 9841.06 GB http://103.35.189.118:7001/s/d3b16d39e1fd862613c8ac312bf79b2a
+可用流量: 946.49 GB http://sub.crosswall.org/s/cc4bef9184721d364ac6493c5a9c02fb
+可用流量: 19.46 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
 
 -- sub_list --
 
 http://103.35.189.118:7001/s/4231089c43e6ff4392e21aaccb8a9409
-http://103.35.189.118:7001/s/d3b16d39e1fd862613c8ac312bf79b2a
-https://mogufan.com/s/a3a8a937c1d47106d451019cd35980bd
-https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
 https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+http://sub.crosswall.org/s/8c11f4e723a29a8ec0b8a958a1ef4709
+https://mogufan.com/s/a3a8a937c1d47106d451019cd35980bd
 https://bh.jiedianxielou.workers.dev/
-http://103.35.189.118:7001/s/6c58d603a19bbae74ab761b584294cb5
+http://sub.crosswall.org/s/79e5a9b5841e44a8b0fd6c97a6293b24
 http://103.35.189.118:7001/s/d106e8f068afaacbc11482ba764b7833
+http://103.35.189.118:7001/s/6c58d603a19bbae74ab761b584294cb5
+http://103.35.189.118:7001/s/d3b16d39e1fd862613c8ac312bf79b2a
+http://sub.crosswall.org/s/cc4bef9184721d364ac6493c5a9c02fb
+https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
