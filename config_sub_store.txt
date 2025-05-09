@@ -1,23 +1,21 @@
 -- play_list --
 
-可用流量: 999.78 GB https://yfjc.xyz/api/v1/client/subscribe?token=f3a0db6cd51c72ca8927124d4cc6721b
-可用流量: 30.7 GB https://mogufan.com/s/a3a8a937c1d47106d451019cd35980bd
-可用流量: 9472.0 GB http://103.35.189.118:7001/s/6c58d603a19bbae74ab761b584294cb5
-可用流量: 9883.1 GB http://103.35.189.118:7001/s/4231089c43e6ff4392e21aaccb8a9409
-可用流量: 19.42 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+可用流量: 9878.72 GB http://103.35.189.118:7001/s/4231089c43e6ff4392e21aaccb8a9409
+可用流量: 29.56 GB https://mogufan.com/s/a3a8a937c1d47106d451019cd35980bd
 可用流量: 0.0 GB https://bh.jiedianxielou.workers.dev/
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 9755.52 GB http://103.35.189.118:7001/s/d3b16d39e1fd862613c8ac312bf79b2a
-可用流量: 9610.41 GB http://103.35.189.118:7001/s/d106e8f068afaacbc11482ba764b7833
+可用流量: 979.44 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 9465.35 GB http://103.35.189.118:7001/s/6c58d603a19bbae74ab761b584294cb5
+可用流量: 9749.44 GB http://103.35.189.118:7001/s/d3b16d39e1fd862613c8ac312bf79b2a
+可用流量: 9603.47 GB http://103.35.189.118:7001/s/d106e8f068afaacbc11482ba764b7833
+可用流量: 19.42 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
 
 -- sub_list --
 
-https://yfjc.xyz/api/v1/client/subscribe?token=f3a0db6cd51c72ca8927124d4cc6721b
-https://mogufan.com/s/a3a8a937c1d47106d451019cd35980bd
-http://103.35.189.118:7001/s/6c58d603a19bbae74ab761b584294cb5
 http://103.35.189.118:7001/s/4231089c43e6ff4392e21aaccb8a9409
-https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+https://mogufan.com/s/a3a8a937c1d47106d451019cd35980bd
 https://bh.jiedianxielou.workers.dev/
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+http://103.35.189.118:7001/s/6c58d603a19bbae74ab761b584294cb5
 http://103.35.189.118:7001/s/d3b16d39e1fd862613c8ac312bf79b2a
 http://103.35.189.118:7001/s/d106e8f068afaacbc11482ba764b7833
+https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
