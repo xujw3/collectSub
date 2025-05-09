@@ -1,31 +1,27 @@
 -- play_list --
 
-可用流量: 149.66 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 814.62 GB http://sub.crosswall.org/s/79e5a9b5841e44a8b0fd6c97a6293b24
-可用流量: 7.13 GB https://v1.foxtiming.com/sub/db2f21f6174dcc1c7fddac2e495befdb
-可用流量: 8.07 GB https://v1.foxtiming.com/sub/001640c429271e8e0b630659757737d3
-可用流量: 55.66 GB https://mogufan.com/s/a3a8a937c1d47106d451019cd35980bd
-可用流量: 9743.63 GB http://103.35.189.118:7001/s/d106e8f068afaacbc11482ba764b7833
-可用流量: 9860.23 GB http://103.35.189.118:7001/s/d3b16d39e1fd862613c8ac312bf79b2a
-可用流量: 19.46 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 9955.81 GB http://103.35.189.118:7001/s/4231089c43e6ff4392e21aaccb8a9409
+可用流量: 9953.26 GB http://103.35.189.118:7001/s/4231089c43e6ff4392e21aaccb8a9409
+可用流量: 49.03 GB https://mogufan.com/s/a3a8a937c1d47106d451019cd35980bd
 可用流量: 0.0 GB https://bh.jiedianxielou.workers.dev/
-可用流量: 9667.26 GB http://103.35.189.118:7001/s/6c58d603a19bbae74ab761b584294cb5
-可用流量: 405.87 GB http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
-可用流量: 979.53 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 979.52 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 19.46 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+可用流量: 9658.46 GB http://103.35.189.118:7001/s/6c58d603a19bbae74ab761b584294cb5
+可用流量: 143.32 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 9734.61 GB http://103.35.189.118:7001/s/d106e8f068afaacbc11482ba764b7833
+可用流量: 9857.41 GB http://103.35.189.118:7001/s/d3b16d39e1fd862613c8ac312bf79b2a
+可用流量: 6.32 GB https://v1.foxtiming.com/sub/001640c429271e8e0b630659757737d3
+可用流量: 5.33 GB https://v1.foxtiming.com/sub/db2f21f6174dcc1c7fddac2e495befdb
 
 -- sub_list --
 
-https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-http://sub.crosswall.org/s/79e5a9b5841e44a8b0fd6c97a6293b24
-https://v1.foxtiming.com/sub/db2f21f6174dcc1c7fddac2e495befdb
-https://v1.foxtiming.com/sub/001640c429271e8e0b630659757737d3
+http://103.35.189.118:7001/s/4231089c43e6ff4392e21aaccb8a9409
 https://mogufan.com/s/a3a8a937c1d47106d451019cd35980bd
+https://bh.jiedianxielou.workers.dev/
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+http://103.35.189.118:7001/s/6c58d603a19bbae74ab761b584294cb5
+https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
 http://103.35.189.118:7001/s/d106e8f068afaacbc11482ba764b7833
 http://103.35.189.118:7001/s/d3b16d39e1fd862613c8ac312bf79b2a
-https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-http://103.35.189.118:7001/s/4231089c43e6ff4392e21aaccb8a9409
-https://bh.jiedianxielou.workers.dev/
-http://103.35.189.118:7001/s/6c58d603a19bbae74ab761b584294cb5
-http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+https://v1.foxtiming.com/sub/001640c429271e8e0b630659757737d3
+https://v1.foxtiming.com/sub/db2f21f6174dcc1c7fddac2e495befdb
