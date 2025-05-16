@@ -1,35 +1,25 @@
 -- play_list --
 
-可用流量: 959.15 GB http://103.35.189.118:7001/s/a650e9ab9ff6e0b42ac040756ef70fe0
-可用流量: 373.52 GB http://103.35.189.118:7001/s/43f59338cb1bfc67131f9fb9ca28aa71
-可用流量: 917.21 GB http://103.35.189.118:7001/s/68a95aaf8a22330847c0507d28147292
-可用流量: 995.41 GB http://103.35.189.118:7001/s/33d98abad65a62b5f1b3c5673456b911
-可用流量: 523.09 GB http://sub.crosswall.org/s/44b688c5860116b000a8c0d12e76db92
-可用流量: 99.26 GB https://xqsub.e54.site/api/v1/client/subscribe?token=4c2e33a9fc6db1d18c199df39e2bd71d
-可用流量: 976.98 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 833.0 GB http://103.35.189.118:7001/s/237c3a4e0bd0ceedb4a9bad04e112177
-可用流量: 17.24 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 811.46 GB http://sub.crosswall.org/s/7a699fc296b3f810b7f822fda09248e9
-可用流量: 99.26 GB https://xqsub.e54.site/api/v1/client/subscribe?token=4c2e33a9fc6db1d18c199df39e2bd71d#/
-可用流量: 973.32 GB http://103.35.189.118:7001/s/f29d2cc079412537ba8f4b56503cce8c
-可用流量: 973.85 GB http://103.35.189.118:7001/s/9eb57c94b00d574ee5e59899ba87e167
-可用流量: 971.95 GB http://103.35.189.118:7001/s/73610e4b1fa568a410e20ea8c1c005d1
-可用流量: 471.5 GB http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
+可用流量: 850.87 GB https://abjc.xyz/api/abjc?token=0a4c7aed4e467f7bf1959098b566a763
+可用流量: 885.51 GB https://abjc.xyz/api/abjc?token=61cfbe1fe61ff66412fa17d3691622d3
+可用流量: 517.39 GB http://sub.crosswall.org/s/44b688c5860116b000a8c0d12e76db92
+可用流量: 99.13 GB https://xqsub.e54.site/api/v1/client/subscribe?token=4c2e33a9fc6db1d18c199df39e2bd71d
+可用流量: 17.21 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+可用流量: 500.0 GB https://sub.tsjc.shop/api/t/e147f5c6a6f0acb7419a688ac99fc73d
+可用流量: 917.14 GB http://103.35.189.118:7001/s/68a95aaf8a22330847c0507d28147292
+可用流量: 970.7 GB http://103.35.189.118:7001/s/73610e4b1fa568a410e20ea8c1c005d1
+可用流量: 99.13 GB https://xqsub.e54.site/api/v1/client/subscribe?token=4c2e33a9fc6db1d18c199df39e2bd71d#/
+可用流量: 491.01 GB https://abjc.xyz/api/abjc?token=fbfb6980f331577e9e1990b262cd5113
 
 -- sub_list --
 
-http://103.35.189.118:7001/s/a650e9ab9ff6e0b42ac040756ef70fe0
-http://103.35.189.118:7001/s/43f59338cb1bfc67131f9fb9ca28aa71
-http://103.35.189.118:7001/s/68a95aaf8a22330847c0507d28147292
-http://103.35.189.118:7001/s/33d98abad65a62b5f1b3c5673456b911
+https://abjc.xyz/api/abjc?token=0a4c7aed4e467f7bf1959098b566a763
+https://abjc.xyz/api/abjc?token=61cfbe1fe61ff66412fa17d3691622d3
 http://sub.crosswall.org/s/44b688c5860116b000a8c0d12e76db92
 https://xqsub.e54.site/api/v1/client/subscribe?token=4c2e33a9fc6db1d18c199df39e2bd71d
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-http://103.35.189.118:7001/s/237c3a4e0bd0ceedb4a9bad04e112177
 https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-http://sub.crosswall.org/s/7a699fc296b3f810b7f822fda09248e9
-https://xqsub.e54.site/api/v1/client/subscribe?token=4c2e33a9fc6db1d18c199df39e2bd71d#/
-http://103.35.189.118:7001/s/f29d2cc079412537ba8f4b56503cce8c
-http://103.35.189.118:7001/s/9eb57c94b00d574ee5e59899ba87e167
+https://sub.tsjc.shop/api/t/e147f5c6a6f0acb7419a688ac99fc73d
+http://103.35.189.118:7001/s/68a95aaf8a22330847c0507d28147292
 http://103.35.189.118:7001/s/73610e4b1fa568a410e20ea8c1c005d1
-http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
+https://xqsub.e54.site/api/v1/client/subscribe?token=4c2e33a9fc6db1d18c199df39e2bd71d#/
+https://abjc.xyz/api/abjc?token=fbfb6980f331577e9e1990b262cd5113
