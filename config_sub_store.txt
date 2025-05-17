@@ -1,25 +1,17 @@
 -- play_list --
 
-可用流量: 530.41 GB http://sub.crosswall.org/s/18caa3e59e6a7a0e3c42a5a817b1b05a
-可用流量: 904.9 GB http://103.35.189.118:7001/s/68a95aaf8a22330847c0507d28147292
-可用流量: 311.31 GB http://103.35.189.118:7001/s/43f59338cb1bfc67131f9fb9ca28aa71
-可用流量: 37.57 GB http://sub.crosswall.org/s/9a0696f5f4bfb0689da236bb24e3f2c9
-可用流量: 968.68 GB http://103.35.189.118:7001/s/33d98abad65a62b5f1b3c5673456b911
-可用流量: 967.69 GB http://103.35.189.118:7001/s/73610e4b1fa568a410e20ea8c1c005d1
-可用流量: 503.28 GB http://103.35.189.118:7001/s/237c3a4e0bd0ceedb4a9bad04e112177
-可用流量: 392.7 GB http://sub.crosswall.org/s/44b688c5860116b000a8c0d12e76db92
-可用流量: 17.06 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 976.29 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 967.63 GB http://103.35.189.118:7001/s/73610e4b1fa568a410e20ea8c1c005d1
+可用流量: 904.85 GB http://103.35.189.118:7001/s/68a95aaf8a22330847c0507d28147292
+可用流量: 121.45 GB http://sub.crosswall.org/s/60d9af538a10dd1d301c5161cdf0134e
+可用流量: 522.68 GB http://sub.crosswall.org/s/57533917049b57b373aca67e44ddbdba
+可用流量: 976.28 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 613.08 GB http://sub.crosswall.org/s/373681ea07fc1282a9fdb718176554db
 
 -- sub_list --
 
-http://sub.crosswall.org/s/18caa3e59e6a7a0e3c42a5a817b1b05a
-http://103.35.189.118:7001/s/68a95aaf8a22330847c0507d28147292
-http://103.35.189.118:7001/s/43f59338cb1bfc67131f9fb9ca28aa71
-http://sub.crosswall.org/s/9a0696f5f4bfb0689da236bb24e3f2c9
-http://103.35.189.118:7001/s/33d98abad65a62b5f1b3c5673456b911
 http://103.35.189.118:7001/s/73610e4b1fa568a410e20ea8c1c005d1
-http://103.35.189.118:7001/s/237c3a4e0bd0ceedb4a9bad04e112177
-http://sub.crosswall.org/s/44b688c5860116b000a8c0d12e76db92
-https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+http://103.35.189.118:7001/s/68a95aaf8a22330847c0507d28147292
+http://sub.crosswall.org/s/60d9af538a10dd1d301c5161cdf0134e
+http://sub.crosswall.org/s/57533917049b57b373aca67e44ddbdba
 https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+http://sub.crosswall.org/s/373681ea07fc1282a9fdb718176554db
