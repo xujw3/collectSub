@@ -1,15 +1,13 @@
 -- play_list --
 
-可用流量: 489.23 GB http://103.35.189.118:7001/s/237c3a4e0bd0ceedb4a9bad04e112177
-可用流量: 519.53 GB http://sub.crosswall.org/s/18caa3e59e6a7a0e3c42a5a817b1b05a
-可用流量: 384.81 GB http://sub.crosswall.org/s/44b688c5860116b000a8c0d12e76db92
+可用流量: 483.64 GB http://103.35.189.118:7001/s/237c3a4e0bd0ceedb4a9bad04e112177
+可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+可用流量: 12.37 GB http://sub.crosswall.org/s/9a0696f5f4bfb0689da236bb24e3f2c9
 可用流量: 17.06 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 4.94 GB https://api.ymvpnpro.cc:8700/7air2vr7ikiqzgvxz/api/v1/client/subscribe?token=ceeafd4700723068269ed705718040ac
 
 -- sub_list --
 
 http://103.35.189.118:7001/s/237c3a4e0bd0ceedb4a9bad04e112177
-http://sub.crosswall.org/s/18caa3e59e6a7a0e3c42a5a817b1b05a
-http://sub.crosswall.org/s/44b688c5860116b000a8c0d12e76db92
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+http://sub.crosswall.org/s/9a0696f5f4bfb0689da236bb24e3f2c9
 https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-https://api.ymvpnpro.cc:8700/7air2vr7ikiqzgvxz/api/v1/client/subscribe?token=ceeafd4700723068269ed705718040ac
