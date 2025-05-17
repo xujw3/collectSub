@@ -1,25 +1,15 @@
 -- play_list --
 
-可用流量: 357.55 GB http://103.35.189.118:7001/s/237c3a4e0bd0ceedb4a9bad04e112177
-可用流量: 755.15 GB http://sub1.127665.xyz/s/021b85643def8ae6b8ec4e2c8de11425
-可用流量: 976.07 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 552.22 GB http://sub.crosswall.org/s/63dd7ea0b19cdd35c922f3f31e5d25a7
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 17.03 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 485.28 GB http://sub.crosswall.org/s/18caa3e59e6a7a0e3c42a5a817b1b05a
-可用流量: 31.86 GB http://sub.crosswall.org/s/60d9af538a10dd1d301c5161cdf0134e
-可用流量: 70.17 GB https://tc.qy1357.top/api/v1/client/subscribe?token=b10dbe4f88b2ee5d856de99991a95a39
-可用流量: 343.6 GB http://sub.crosswall.org/s/44b688c5860116b000a8c0d12e76db92
+可用流量: 599.84 GB http://sub.crosswall.org/s/373681ea07fc1282a9fdb718176554db
+可用流量: 355.5 GB http://103.35.189.118:7001/s/237c3a4e0bd0ceedb4a9bad04e112177
+可用流量: 743.33 GB http://sub1.127665.xyz/s/021b85643def8ae6b8ec4e2c8de11425
+可用流量: 69.9 GB https://tc.qy1357.top/api/v1/client/subscribe?token=b10dbe4f88b2ee5d856de99991a95a39
+可用流量: 720.56 GB http://sub.crosswall.org/s/7a699fc296b3f810b7f822fda09248e9
 
 -- sub_list --
 
+http://sub.crosswall.org/s/373681ea07fc1282a9fdb718176554db
 http://103.35.189.118:7001/s/237c3a4e0bd0ceedb4a9bad04e112177
 http://sub1.127665.xyz/s/021b85643def8ae6b8ec4e2c8de11425
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-http://sub.crosswall.org/s/63dd7ea0b19cdd35c922f3f31e5d25a7
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-http://sub.crosswall.org/s/18caa3e59e6a7a0e3c42a5a817b1b05a
-http://sub.crosswall.org/s/60d9af538a10dd1d301c5161cdf0134e
 https://tc.qy1357.top/api/v1/client/subscribe?token=b10dbe4f88b2ee5d856de99991a95a39
-http://sub.crosswall.org/s/44b688c5860116b000a8c0d12e76db92
+http://sub.crosswall.org/s/7a699fc296b3f810b7f822fda09248e9
