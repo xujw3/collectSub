@@ -1,23 +1,23 @@
 -- play_list --
 
-可用流量: 731.72 GB http://sub1.127665.xyz/s/021b85643def8ae6b8ec4e2c8de11425
-可用流量: 28.32 GB http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
-可用流量: 349.14 GB http://103.35.189.118:7001/s/237c3a4e0bd0ceedb4a9bad04e112177
-可用流量: 17.03 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 720.38 GB http://sub.crosswall.org/s/7a699fc296b3f810b7f822fda09248e9
+可用流量: 599.2 GB http://sub.crosswall.org/s/373681ea07fc1282a9fdb718176554db
 可用流量: 976.04 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 336.85 GB http://sub.crosswall.org/s/44b688c5860116b000a8c0d12e76db92
+可用流量: 68.78 GB https://tc.qy1357.top/api/v1/client/subscribe?token=b10dbe4f88b2ee5d856de99991a95a39
 可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 69.64 GB https://tc.qy1357.top/api/v1/client/subscribe?token=b10dbe4f88b2ee5d856de99991a95a39
+可用流量: 343.56 GB http://103.35.189.118:7001/s/237c3a4e0bd0ceedb4a9bad04e112177
+可用流量: 479.46 GB http://sub.crosswall.org/s/18caa3e59e6a7a0e3c42a5a817b1b05a
+可用流量: 720.11 GB http://sub.crosswall.org/s/7a699fc296b3f810b7f822fda09248e9
+可用流量: 720.94 GB http://sub.crosswall.org/s/021b85643def8ae6b8ec4e2c8de11425
+可用流量: 17.03 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
 
 -- sub_list --
 
-http://sub1.127665.xyz/s/021b85643def8ae6b8ec4e2c8de11425
-http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
-http://103.35.189.118:7001/s/237c3a4e0bd0ceedb4a9bad04e112177
-https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-http://sub.crosswall.org/s/7a699fc296b3f810b7f822fda09248e9
+http://sub.crosswall.org/s/373681ea07fc1282a9fdb718176554db
 https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-http://sub.crosswall.org/s/44b688c5860116b000a8c0d12e76db92
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
 https://tc.qy1357.top/api/v1/client/subscribe?token=b10dbe4f88b2ee5d856de99991a95a39
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+http://103.35.189.118:7001/s/237c3a4e0bd0ceedb4a9bad04e112177
+http://sub.crosswall.org/s/18caa3e59e6a7a0e3c42a5a817b1b05a
+http://sub.crosswall.org/s/7a699fc296b3f810b7f822fda09248e9
+http://sub.crosswall.org/s/021b85643def8ae6b8ec4e2c8de11425
+https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
