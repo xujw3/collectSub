@@ -1,19 +1,11 @@
 -- play_list --
 
-可用流量: 725.69 GB http://sub1.127665.xyz/s/9a0696f5f4bfb0689da236bb24e3f2c9
-可用流量: 165.42 GB http://sub.crosswall.org/s/57533917049b57b373aca67e44ddbdba
-可用流量: 17.01 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 230.97 GB http://sub.crosswall.org/s/63dd7ea0b19cdd35c922f3f31e5d25a7
-可用流量: 783.04 GB http://sub1.127665.xyz/s/79e5a9b5841e44a8b0fd6c97a6293b24
-可用流量: 287.16 GB http://sub1.127665.xyz/s/d31a1cdacc3559d3feb6f5f10f431d28
-可用流量: 592.15 GB http://sub.crosswall.org/s/3a7eb1a548d4f667b18ecbc9ed4ba051
+可用流量: 722.51 GB http://sub1.127665.xyz/s/9a0696f5f4bfb0689da236bb24e3f2c9
+可用流量: 974.55 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 780.7 GB http://sub1.127665.xyz/s/79e5a9b5841e44a8b0fd6c97a6293b24
 
 -- sub_list --
 
 http://sub1.127665.xyz/s/9a0696f5f4bfb0689da236bb24e3f2c9
-http://sub.crosswall.org/s/57533917049b57b373aca67e44ddbdba
-https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-http://sub.crosswall.org/s/63dd7ea0b19cdd35c922f3f31e5d25a7
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 http://sub1.127665.xyz/s/79e5a9b5841e44a8b0fd6c97a6293b24
-http://sub1.127665.xyz/s/d31a1cdacc3559d3feb6f5f10f431d28
-http://sub.crosswall.org/s/3a7eb1a548d4f667b18ecbc9ed4ba051
