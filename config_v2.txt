@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
+https://github.com/ssrsub/ssr/raw/master/ssrsub
