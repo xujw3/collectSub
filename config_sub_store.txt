@@ -1,15 +1,13 @@
 -- play_list --
 
-可用流量: 975.2 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 57.42 GB https://api.0903243242.kl886.cn/kl-isis?token=0683e6c764159d2e3595caa892e23f00
-可用流量: 637.25 GB http://sub.crosswall.org/s/3a7eb1a548d4f667b18ecbc9ed4ba051
-可用流量: 859.72 GB http://sub1.127665.xyz/s/79e5a9b5841e44a8b0fd6c97a6293b24
+可用流量: 100.0 GB https://tiamocloud.us.kg/s/9904125d0bbbb8508a8aca17b07320ae
+可用流量: 56.04 GB https://api.0903243242.kl886.cn/kl-isis?token=0683e6c764159d2e3595caa892e23f00
 可用流量: 17.01 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+可用流量: 494.69 GB http://sub1.127665.xyz/s/d31a1cdacc3559d3feb6f5f10f431d28
 
 -- sub_list --
 
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+https://tiamocloud.us.kg/s/9904125d0bbbb8508a8aca17b07320ae
 https://api.0903243242.kl886.cn/kl-isis?token=0683e6c764159d2e3595caa892e23f00
-http://sub.crosswall.org/s/3a7eb1a548d4f667b18ecbc9ed4ba051
-http://sub1.127665.xyz/s/79e5a9b5841e44a8b0fd6c97a6293b24
 https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+http://sub1.127665.xyz/s/d31a1cdacc3559d3feb6f5f10f431d28
