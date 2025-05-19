@@ -1,19 +1,19 @@
 -- play_list --
 
+可用流量: 246.71 GB http://sub.crosswall.org/s/57533917049b57b373aca67e44ddbdba
+可用流量: 884.02 GB http://sub1.127665.xyz/s/79e5a9b5841e44a8b0fd6c97a6293b24
+可用流量: 182.31 GB https://sc.starbla.de/rss/subscribe?token=edcd5adcd79ae689a111aa0c414e6a2f
+可用流量: 331.0 GB http://sub.crosswall.org/s/63dd7ea0b19cdd35c922f3f31e5d25a7
+可用流量: 82.43 GB https://api.0903243242.kl886.cn/kl-isis?token=0683e6c764159d2e3595caa892e23f00
 可用流量: 17.01 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 87.77 GB https://api.0903243242.kl886.cn/kl-isis?token=0683e6c764159d2e3595caa892e23f00
-可用流量: 644.45 GB http://sub.crosswall.org/s/3a7eb1a548d4f667b18ecbc9ed4ba051
-可用流量: 975.27 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 193.61 GB https://sc.starbla.de/rss/subscribe?token=edcd5adcd79ae689a111aa0c414e6a2f
-可用流量: 247.8 GB http://sub.crosswall.org/s/57533917049b57b373aca67e44ddbdba
-可用流量: 894.65 GB http://sub1.127665.xyz/s/79e5a9b5841e44a8b0fd6c97a6293b24
+可用流量: 556.49 GB http://sub1.127665.xyz/s/d31a1cdacc3559d3feb6f5f10f431d28
 
 -- sub_list --
 
-https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-https://api.0903243242.kl886.cn/kl-isis?token=0683e6c764159d2e3595caa892e23f00
-http://sub.crosswall.org/s/3a7eb1a548d4f667b18ecbc9ed4ba051
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://sc.starbla.de/rss/subscribe?token=edcd5adcd79ae689a111aa0c414e6a2f
 http://sub.crosswall.org/s/57533917049b57b373aca67e44ddbdba
 http://sub1.127665.xyz/s/79e5a9b5841e44a8b0fd6c97a6293b24
+https://sc.starbla.de/rss/subscribe?token=edcd5adcd79ae689a111aa0c414e6a2f
+http://sub.crosswall.org/s/63dd7ea0b19cdd35c922f3f31e5d25a7
+https://api.0903243242.kl886.cn/kl-isis?token=0683e6c764159d2e3595caa892e23f00
+https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+http://sub1.127665.xyz/s/d31a1cdacc3559d3feb6f5f10f431d28
