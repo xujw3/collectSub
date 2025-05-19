@@ -1,17 +1,11 @@
 -- play_list --
 
-可用流量: 975.18 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 17.01 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 100.0 GB https://tiamocloud.us.kg/s/9904125d0bbbb8508a8aca17b07320ae
-可用流量: 636.01 GB http://sub.crosswall.org/s/3a7eb1a548d4f667b18ecbc9ed4ba051
-可用流量: 55.39 GB https://api.0903243242.kl886.cn/kl-isis?token=0683e6c764159d2e3595caa892e23f00
+可用流量: 98.72 GB https://tiamocloud.us.kg/s/9904125d0bbbb8508a8aca17b07320ae
+可用流量: 51.94 GB https://api.0903243242.kl886.cn/kl-isis?token=0683e6c764159d2e3595caa892e23f00
+可用流量: 975.16 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 
 -- sub_list --
 
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
 https://tiamocloud.us.kg/s/9904125d0bbbb8508a8aca17b07320ae
-http://sub.crosswall.org/s/3a7eb1a548d4f667b18ecbc9ed4ba051
 https://api.0903243242.kl886.cn/kl-isis?token=0683e6c764159d2e3595caa892e23f00
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
