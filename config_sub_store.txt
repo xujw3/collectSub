@@ -1,15 +1,9 @@
 -- play_list --
 
-可用流量: 678.17 GB http://sub1.127665.xyz/s/79e5a9b5841e44a8b0fd6c97a6293b24
-可用流量: 29.07 GB https://za.zuoandingyue.com/za/bbdabc9b2a7ab99ef2d052a3212ba951
-可用流量: 974.33 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 可用流量: 17.01 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 30.39 GB http://sub1.127665.xyz/s/d31a1cdacc3559d3feb6f5f10f431d28
+可用流量: 168.67 GB http://sub.crosswall.org/s/63dd7ea0b19cdd35c922f3f31e5d25a7
 
 -- sub_list --
 
-http://sub1.127665.xyz/s/79e5a9b5841e44a8b0fd6c97a6293b24
-https://za.zuoandingyue.com/za/bbdabc9b2a7ab99ef2d052a3212ba951
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-http://sub1.127665.xyz/s/d31a1cdacc3559d3feb6f5f10f431d28
+http://sub.crosswall.org/s/63dd7ea0b19cdd35c922f3f31e5d25a7
