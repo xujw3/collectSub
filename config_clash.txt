@@ -1,4 +1,5 @@
-https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
+https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://za.zuoandingyue.com/za/bbdabc9b2a7ab99ef2d052a3212ba951
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-http://sub1.127665.xyz/s/021b85643def8ae6b8ec4e2c8de11425
+https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
+http://sub1.127665.xyz/s/9a0696f5f4bfb0689da236bb24e3f2c9
+https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
