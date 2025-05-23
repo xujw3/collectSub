@@ -1,17 +1,27 @@
 -- play_list --
 
-可用流量: 1805.48 GB http://sub2.127665.xyz/s/9a0696f5f4bfb0689da236bb24e3f2c9
-可用流量: 1956.44 GB http://sub2.127665.xyz/s/63dd7ea0b19cdd35c922f3f31e5d25a7
-可用流量: 1805.48 GB http://sub1.127665.xyz/s/9a0696f5f4bfb0689da236bb24e3f2c9
-可用流量: 3294.96 GB http://sub1.127665.xyz/s/d0f071d7c75780f240a93045ae81a4a0
+可用流量: 155.52 GB http://sub1.127665.xyz/s/79e5a9b5841e44a8b0fd6c97a6293b24
+可用流量: 10.26 GB https://sc.starbla.de/rss/subscribe?token=83e1f406ec6bd4f89700d9e667142e22
+可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+可用流量: 3292.08 GB http://sub1.127665.xyz/s/d0f071d7c75780f240a93045ae81a4a0
+可用流量: 78.31 GB https://yume.cyou/s/0826362be7791f7f1a94b9098ba31ecd
+可用流量: 974.03 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 1799.57 GB http://sub1.127665.xyz/s/9a0696f5f4bfb0689da236bb24e3f2c9
 可用流量: 17.01 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 549.79 GB https://QMc4xh9l.subxly.cfd:8443/api/v1/client/c328f3633f4e12704d10d7741ac048ce
+可用流量: 789.05 GB https://1.811200.xyz/api/v1/client/subscribe?token=df43e83a38918a3b7b186ab00e642e48
+可用流量: 33.84 GB https://nuyjtdhrjuykjm.xn--mnqu23e2hf.xyz/2cny2cny/06150c268b62e9267e3eb18cc97bdc9c
+可用流量: 970.51 GB https://user7588.eyudy.one/api/v1/client/subscribe?token=64aef9e2b551b427214bf2e4b94d2d0b
 
 -- sub_list --
 
-http://sub2.127665.xyz/s/9a0696f5f4bfb0689da236bb24e3f2c9
-http://sub2.127665.xyz/s/63dd7ea0b19cdd35c922f3f31e5d25a7
-http://sub1.127665.xyz/s/9a0696f5f4bfb0689da236bb24e3f2c9
+http://sub1.127665.xyz/s/79e5a9b5841e44a8b0fd6c97a6293b24
+https://sc.starbla.de/rss/subscribe?token=83e1f406ec6bd4f89700d9e667142e22
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
 http://sub1.127665.xyz/s/d0f071d7c75780f240a93045ae81a4a0
+https://yume.cyou/s/0826362be7791f7f1a94b9098ba31ecd
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+http://sub1.127665.xyz/s/9a0696f5f4bfb0689da236bb24e3f2c9
 https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-https://QMc4xh9l.subxly.cfd:8443/api/v1/client/c328f3633f4e12704d10d7741ac048ce
+https://1.811200.xyz/api/v1/client/subscribe?token=df43e83a38918a3b7b186ab00e642e48
+https://nuyjtdhrjuykjm.xn--mnqu23e2hf.xyz/2cny2cny/06150c268b62e9267e3eb18cc97bdc9c
+https://user7588.eyudy.one/api/v1/client/subscribe?token=64aef9e2b551b427214bf2e4b94d2d0b
