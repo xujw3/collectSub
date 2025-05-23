@@ -1,13 +1,19 @@
 -- play_list --
 
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 3186.23 GB http://sub1.127665.xyz/s/d0f071d7c75780f240a93045ae81a4a0
 可用流量: 17.01 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 3820.98 GB http://sub1.127665.xyz/s/4943682883f3f9f63d3964f844285d51
+可用流量: 3179.34 GB http://sub1.127665.xyz/s/d0f071d7c75780f240a93045ae81a4a0
+可用流量: 973.98 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 184.83 GB http://yuean.aiguardcloud.tech/s/9b3519d9ad373b79633d902e746cb308
+可用流量: 1655.21 GB http://sub1.127665.xyz/s/9a0696f5f4bfb0689da236bb24e3f2c9
+可用流量: 1655.2 GB http://sub2.127665.xyz/s/9a0696f5f4bfb0689da236bb24e3f2c9
+可用流量: 1985.59 GB http://sub2.127665.xyz/s/57533917049b57b373aca67e44ddbdba
 
 -- sub_list --
 
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-http://sub1.127665.xyz/s/d0f071d7c75780f240a93045ae81a4a0
 https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-http://sub1.127665.xyz/s/4943682883f3f9f63d3964f844285d51
+http://sub1.127665.xyz/s/d0f071d7c75780f240a93045ae81a4a0
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+http://yuean.aiguardcloud.tech/s/9b3519d9ad373b79633d902e746cb308
+http://sub1.127665.xyz/s/9a0696f5f4bfb0689da236bb24e3f2c9
+http://sub2.127665.xyz/s/9a0696f5f4bfb0689da236bb24e3f2c9
+http://sub2.127665.xyz/s/57533917049b57b373aca67e44ddbdba
