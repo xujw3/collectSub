@@ -1,15 +1,25 @@
 -- play_list --
 
-可用流量: 3755.72 GB http://sub1.127665.xyz/s/4943682883f3f9f63d3964f844285d51
+可用流量: 255.45 GB http://sub2.127665.xyz/s/44b688c5860116b000a8c0d12e76db92
+可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+可用流量: 43.22 GB http://yuean.aiguardcloud.tech/s/3a208faba589b46dc28566cf759f268e
+可用流量: 150.27 GB http://yuean.aiguardcloud.tech/s/3b4ec99bb116b1f661286716eecc0702
+可用流量: 104.39 GB http://yuean.aiguardcloud.tech/s/4d96a2c6ff756ec40c072787baee8294
+可用流量: 1303.12 GB http://sub2.127665.xyz/s/9a0696f5f4bfb0689da236bb24e3f2c9
 可用流量: 973.83 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 1559.02 GB http://sub2.127665.xyz/s/63dd7ea0b19cdd35c922f3f31e5d25a7
-可用流量: 1914.59 GB http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
-可用流量: 261.92 GB http://sub2.127665.xyz/s/44b688c5860116b000a8c0d12e76db92
+可用流量: 1905.76 GB http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
+可用流量: 1905.76 GB http://sub2.127665.xyz/s/07d1e5fd9a58f89c08b6116eb151aaad
+可用流量: 17.01 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
 
 -- sub_list --
 
-http://sub1.127665.xyz/s/4943682883f3f9f63d3964f844285d51
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-http://sub2.127665.xyz/s/63dd7ea0b19cdd35c922f3f31e5d25a7
-http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
 http://sub2.127665.xyz/s/44b688c5860116b000a8c0d12e76db92
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+http://yuean.aiguardcloud.tech/s/3a208faba589b46dc28566cf759f268e
+http://yuean.aiguardcloud.tech/s/3b4ec99bb116b1f661286716eecc0702
+http://yuean.aiguardcloud.tech/s/4d96a2c6ff756ec40c072787baee8294
+http://sub2.127665.xyz/s/9a0696f5f4bfb0689da236bb24e3f2c9
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
+http://sub2.127665.xyz/s/07d1e5fd9a58f89c08b6116eb151aaad
+https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
