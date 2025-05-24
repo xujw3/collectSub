@@ -1,21 +1,23 @@
 -- play_list --
 
-可用流量: 1895.09 GB http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
-可用流量: 17.01 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+可用流量: 973.82 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 34.82 GB http://yuean.aiguardcloud.tech/s/3a208faba589b46dc28566cf759f268e
 可用流量: 149.38 GB http://yuean.aiguardcloud.tech/s/3b4ec99bb116b1f661286716eecc0702
-可用流量: 102.43 GB http://yuean.aiguardcloud.tech/s/4d96a2c6ff756ec40c072787baee8294
-可用流量: 1549.06 GB http://sub2.127665.xyz/s/63dd7ea0b19cdd35c922f3f31e5d25a7
-可用流量: 39.16 GB http://yuean.aiguardcloud.tech/s/3a208faba589b46dc28566cf759f268e
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 1294.63 GB http://sub2.127665.xyz/s/9a0696f5f4bfb0689da236bb24e3f2c9
+可用流量: 102.2 GB http://yuean.aiguardcloud.tech/s/4d96a2c6ff756ec40c072787baee8294
+可用流量: 1284.82 GB http://sub2.127665.xyz/s/9a0696f5f4bfb0689da236bb24e3f2c9
+可用流量: 17.01 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+可用流量: 1880.81 GB http://sub2.127665.xyz/s/07d1e5fd9a58f89c08b6116eb151aaad
+可用流量: 1545.27 GB http://sub2.127665.xyz/s/63dd7ea0b19cdd35c922f3f31e5d25a7
+可用流量: 1880.69 GB http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
 
 -- sub_list --
 
-http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
-https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+http://yuean.aiguardcloud.tech/s/3a208faba589b46dc28566cf759f268e
 http://yuean.aiguardcloud.tech/s/3b4ec99bb116b1f661286716eecc0702
 http://yuean.aiguardcloud.tech/s/4d96a2c6ff756ec40c072787baee8294
-http://sub2.127665.xyz/s/63dd7ea0b19cdd35c922f3f31e5d25a7
-http://yuean.aiguardcloud.tech/s/3a208faba589b46dc28566cf759f268e
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
 http://sub2.127665.xyz/s/9a0696f5f4bfb0689da236bb24e3f2c9
+https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+http://sub2.127665.xyz/s/07d1e5fd9a58f89c08b6116eb151aaad
+http://sub2.127665.xyz/s/63dd7ea0b19cdd35c922f3f31e5d25a7
+http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
