@@ -1,13 +1,17 @@
 -- play_list --
 
-可用流量: 3488.77 GB http://sub2.127665.xyz/s/4943682883f3f9f63d3964f844285d51
-可用流量: 16.63 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 49.51 GB https://user7588.eyudy.one/api/v1/client/subscribe?token=64aef9e2b551b427214bf2e4b94d2d0b
+可用流量: 1499.59 GB http://sub2.127665.xyz/s/07d1e5fd9a58f89c08b6116eb151aaad
+可用流量: 1499.59 GB http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
+可用流量: 1488.81 GB http://sub2.127665.xyz/s/57533917049b57b373aca67e44ddbdba
+可用流量: 973.57 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 16.45 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+可用流量: 122.87 GB https://wow.dogss-host.store/api/v1/client/subscribe?token=ee8b59bbeadff28029d6aaa444e7f41f
 
 -- sub_list --
 
-http://sub2.127665.xyz/s/4943682883f3f9f63d3964f844285d51
+http://sub2.127665.xyz/s/07d1e5fd9a58f89c08b6116eb151aaad
+http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
+http://sub2.127665.xyz/s/57533917049b57b373aca67e44ddbdba
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-https://user7588.eyudy.one/api/v1/client/subscribe?token=64aef9e2b551b427214bf2e4b94d2d0b
+https://wow.dogss-host.store/api/v1/client/subscribe?token=ee8b59bbeadff28029d6aaa444e7f41f
