@@ -1,23 +1,25 @@
 -- play_list --
 
-可用流量: 1805.64 GB http://sub2.127665.xyz/s/60d9af538a10dd1d301c5161cdf0134e
-可用流量: 919.32 GB https://xn--mesr8b36x.com/api/v1/client/subscribe?token=5cc4ff5fa786a267776d959444006609
-可用流量: 1999.77 GB http://sub3.127665.xyz/s/9693780692be02eead828786afd5b88f
-可用流量: 973.39 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 3046.97 GB http://sub2.127665.xyz/s/4943682883f3f9f63d3964f844285d51
-可用流量: 82.66 GB https://yuanbao.yuanbaojc.store/s/9e95a23c29d905a6e1dda972ec1ca71d
-可用流量: 359.45 GB http://sub2.127665.xyz/s/7a699fc296b3f810b7f822fda09248e9
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
 可用流量: 2.79 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+可用流量: 351.37 GB http://sub2.127665.xyz/s/7a699fc296b3f810b7f822fda09248e9
+可用流量: 1994.51 GB http://sub3.127665.xyz/s/9693780692be02eead828786afd5b88f
+可用流量: 100.0 GB https://a.545437.xyz/jiji?token=e6131819bcf560b8f3e28180339efe44
+可用流量: 72.92 GB https://yyds.xueshan.shop/s/9e3bd83ee60bdd978d400a4206f0ab2c
+可用流量: 81.48 GB https://yuanbao.yuanbaojc.store/s/9e95a23c29d905a6e1dda972ec1ca71d
+可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+可用流量: 916.7 GB https://xn--mesr8b36x.com/api/v1/client/subscribe?token=5cc4ff5fa786a267776d959444006609
+可用流量: 73.07 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
+可用流量: 1799.53 GB http://sub2.127665.xyz/s/60d9af538a10dd1d301c5161cdf0134e
 
 -- sub_list --
 
-http://sub2.127665.xyz/s/60d9af538a10dd1d301c5161cdf0134e
-https://xn--mesr8b36x.com/api/v1/client/subscribe?token=5cc4ff5fa786a267776d959444006609
-http://sub3.127665.xyz/s/9693780692be02eead828786afd5b88f
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-http://sub2.127665.xyz/s/4943682883f3f9f63d3964f844285d51
-https://yuanbao.yuanbaojc.store/s/9e95a23c29d905a6e1dda972ec1ca71d
-http://sub2.127665.xyz/s/7a699fc296b3f810b7f822fda09248e9
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
 https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+http://sub2.127665.xyz/s/7a699fc296b3f810b7f822fda09248e9
+http://sub3.127665.xyz/s/9693780692be02eead828786afd5b88f
+https://a.545437.xyz/jiji?token=e6131819bcf560b8f3e28180339efe44
+https://yyds.xueshan.shop/s/9e3bd83ee60bdd978d400a4206f0ab2c
+https://yuanbao.yuanbaojc.store/s/9e95a23c29d905a6e1dda972ec1ca71d
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+https://xn--mesr8b36x.com/api/v1/client/subscribe?token=5cc4ff5fa786a267776d959444006609
+https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
+http://sub2.127665.xyz/s/60d9af538a10dd1d301c5161cdf0134e
