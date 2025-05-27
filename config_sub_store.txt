@@ -1,25 +1,17 @@
 -- play_list --
 
-可用流量: 1624.63 GB http://sub3.127665.xyz/s/9693780692be02eead828786afd5b88f
-可用流量: 772.81 GB https://ktmcloud.net/api/v1/client/subscribe?token=7a9e11e40de495f7281244c21fa96eba
-可用流量: 972.76 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 912.22 GB https://xn--mesr8b36x.com/api/v1/client/subscribe?token=5cc4ff5fa786a267776d959444006609
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 58.54 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-可用流量: 100.0 GB https://a.545437.xyz/jiji?token=e6131819bcf560b8f3e28180339efe44
 可用流量: 2.76 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 1735.4 GB http://sub2.127665.xyz/s/60d9af538a10dd1d301c5161cdf0134e
-可用流量: 975.24 GB http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
+可用流量: 1612.82 GB http://sub3.127665.xyz/s/9693780692be02eead828786afd5b88f
+可用流量: 732.26 GB https://ktmcloud.net/api/v1/client/subscribe?token=7a9e11e40de495f7281244c21fa96eba
+可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+可用流量: 58.51 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
+可用流量: 912.21 GB https://xn--mesr8b36x.com/api/v1/client/subscribe?token=5cc4ff5fa786a267776d959444006609
 
 -- sub_list --
 
+https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
 http://sub3.127665.xyz/s/9693780692be02eead828786afd5b88f
 https://ktmcloud.net/api/v1/client/subscribe?token=7a9e11e40de495f7281244c21fa96eba
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://xn--mesr8b36x.com/api/v1/client/subscribe?token=5cc4ff5fa786a267776d959444006609
 https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
 https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-https://a.545437.xyz/jiji?token=e6131819bcf560b8f3e28180339efe44
-https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-http://sub2.127665.xyz/s/60d9af538a10dd1d301c5161cdf0134e
-http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
+https://xn--mesr8b36x.com/api/v1/client/subscribe?token=5cc4ff5fa786a267776d959444006609
