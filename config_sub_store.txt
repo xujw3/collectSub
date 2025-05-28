@@ -1,23 +1,17 @@
 -- play_list --
 
-可用流量: 104.48 GB http://sub2.127665.xyz/s/7a699fc296b3f810b7f822fda09248e9
-可用流量: 58.19 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-可用流量: 2.76 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 972.43 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 876.52 GB http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
+可用流量: 1275.75 GB http://sub3.127665.xyz/s/9693780692be02eead828786afd5b88f
+可用流量: 8589934463.3 GB https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
+可用流量: 872.28 GB http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
 可用流量: 100.0 GB https://a.545437.xyz/jiji?token=e6131819bcf560b8f3e28180339efe44
-可用流量: 8589934453.36 GB https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
-可用流量: 974.91 GB http://sub3.127665.xyz/s/a61b509bfcd8488b8b3ee055b3e36096
-可用流量: 909.04 GB https://xn--mesr8b36x.com/api/v1/client/subscribe?token=5cc4ff5fa786a267776d959444006609
+可用流量: 2.76 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+可用流量: 908.88 GB https://xn--mesr8b36x.com/api/v1/client/subscribe?token=5cc4ff5fa786a267776d959444006609
 
 -- sub_list --
 
-http://sub2.127665.xyz/s/7a699fc296b3f810b7f822fda09248e9
-https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+http://sub3.127665.xyz/s/9693780692be02eead828786afd5b88f
+https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
 http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
 https://a.545437.xyz/jiji?token=e6131819bcf560b8f3e28180339efe44
-https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
-http://sub3.127665.xyz/s/a61b509bfcd8488b8b3ee055b3e36096
+https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
 https://xn--mesr8b36x.com/api/v1/client/subscribe?token=5cc4ff5fa786a267776d959444006609
