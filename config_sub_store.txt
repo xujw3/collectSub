@@ -1,19 +1,23 @@
 -- play_list --
 
-可用流量: 910.73 GB https://xn--mesr8b36x.com/api/v1/client/subscribe?token=5cc4ff5fa786a267776d959444006609
-可用流量: 58.31 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
+可用流量: 933.67 GB http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
+可用流量: 39.26 GB https://eyu2878.eyujichang.com/api/v1/client/subscribe?token=eb00fcef9a7eebd20589735ec043c1af
+可用流量: 910.62 GB https://xn--mesr8b36x.com/api/v1/client/subscribe?token=5cc4ff5fa786a267776d959444006609
+可用流量: 1485.54 GB http://sub3.127665.xyz/s/9693780692be02eead828786afd5b88f
 可用流量: 2.76 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
-可用流量: 941.67 GB http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
-可用流量: 61.08 GB https://eyu2878.eyujichang.com/api/v1/client/subscribe?token=eb00fcef9a7eebd20589735ec043c1af
-可用流量: 100.0 GB https://a.545437.xyz/jiji?token=e6131819bcf560b8f3e28180339efe44
-可用流量: 1506.89 GB http://sub3.127665.xyz/s/9693780692be02eead828786afd5b88f
+可用流量: 1697.44 GB http://sub2.127665.xyz/s/60d9af538a10dd1d301c5161cdf0134e
+可用流量: 180.92 GB http://sub2.127665.xyz/s/7a699fc296b3f810b7f822fda09248e9
+可用流量: 972.64 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 58.31 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
 
 -- sub_list --
 
-https://xn--mesr8b36x.com/api/v1/client/subscribe?token=5cc4ff5fa786a267776d959444006609
-https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
 http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
 https://eyu2878.eyujichang.com/api/v1/client/subscribe?token=eb00fcef9a7eebd20589735ec043c1af
-https://a.545437.xyz/jiji?token=e6131819bcf560b8f3e28180339efe44
+https://xn--mesr8b36x.com/api/v1/client/subscribe?token=5cc4ff5fa786a267776d959444006609
 http://sub3.127665.xyz/s/9693780692be02eead828786afd5b88f
+https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058
+http://sub2.127665.xyz/s/60d9af538a10dd1d301c5161cdf0134e
+http://sub2.127665.xyz/s/7a699fc296b3f810b7f822fda09248e9
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
