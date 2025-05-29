@@ -1,23 +1,23 @@
 -- play_list --
 
-可用流量: 3906.65 GB https://sub.372372.xyz/api/v1/client/subscribe?token=87fd1239fa2282b2a01661ba42e28a87
-可用流量: 646.44 GB https://sub2038.kaochangsubscribe.xyz/api/v1/client/subscribe?token=17b1421ce4bfcf49f9faac6b9ace6379
-可用流量: 699.2 GB https://mojie.best/api/v1/client/subscribe?token=00bdc52d4c4171c4f7bd09532319c69a
-可用流量: 53.76 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 30.43 GB http://sub2.127665.xyz/s/7a699fc296b3f810b7f822fda09248e9
+可用流量: 959.29 GB http://sub3.127665.xyz/s/9693780692be02eead828786afd5b88f
+可用流量: 852.22 GB http://sub3.127665.xyz/s/44b688c5860116b000a8c0d12e76db92
+可用流量: 449.77 GB https://service-a4rgovvz-202402.lycoris.asia/api/v1/client/subscribe?token=3995516e750d224cec0461bdcec2a389
+可用流量: 29.43 GB http://sub2.127665.xyz/s/7a699fc296b3f810b7f822fda09248e9
+可用流量: 636.82 GB https://sub2038.kaochangsubscribe.xyz/api/v1/client/subscribe?token=17b1421ce4bfcf49f9faac6b9ace6379
 可用流量: 100.0 GB https://a.545437.xyz/jiji?token=e6131819bcf560b8f3e28180339efe44
-可用流量: 487.58 GB https://service-a4rgovvz-202402.lycoris.asia/api/v1/client/subscribe?token=3995516e750d224cec0461bdcec2a389
-可用流量: 8589934490.7 GB https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
+可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+可用流量: 3906.46 GB https://sub.372372.xyz/api/v1/client/subscribe?token=87fd1239fa2282b2a01661ba42e28a87
+可用流量: 53.76 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
 
 -- sub_list --
 
-https://sub.372372.xyz/api/v1/client/subscribe?token=87fd1239fa2282b2a01661ba42e28a87
-https://sub2038.kaochangsubscribe.xyz/api/v1/client/subscribe?token=17b1421ce4bfcf49f9faac6b9ace6379
-https://mojie.best/api/v1/client/subscribe?token=00bdc52d4c4171c4f7bd09532319c69a
-https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-http://sub2.127665.xyz/s/7a699fc296b3f810b7f822fda09248e9
-https://a.545437.xyz/jiji?token=e6131819bcf560b8f3e28180339efe44
+http://sub3.127665.xyz/s/9693780692be02eead828786afd5b88f
+http://sub3.127665.xyz/s/44b688c5860116b000a8c0d12e76db92
 https://service-a4rgovvz-202402.lycoris.asia/api/v1/client/subscribe?token=3995516e750d224cec0461bdcec2a389
-https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
+http://sub2.127665.xyz/s/7a699fc296b3f810b7f822fda09248e9
+https://sub2038.kaochangsubscribe.xyz/api/v1/client/subscribe?token=17b1421ce4bfcf49f9faac6b9ace6379
+https://a.545437.xyz/jiji?token=e6131819bcf560b8f3e28180339efe44
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+https://sub.372372.xyz/api/v1/client/subscribe?token=87fd1239fa2282b2a01661ba42e28a87
+https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
