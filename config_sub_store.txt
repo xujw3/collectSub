@@ -1,11 +1,13 @@
 -- play_list --
 
+可用流量: 3897.69 GB https://sub.372372.xyz/api/v1/client/subscribe?token=87fd1239fa2282b2a01661ba42e28a87
+可用流量: 676.3 GB http://sub3.127665.xyz/s/44b688c5860116b000a8c0d12e76db92
+可用流量: 569.54 GB http://sub3.127665.xyz/s/a61b509bfcd8488b8b3ee055b3e36096
 可用流量: 100.0 GB https://a.545437.xyz/jiji?token=e6131819bcf560b8f3e28180339efe44
-可用流量: 590.77 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
-可用流量: 3898.0 GB https://sub.372372.xyz/api/v1/client/subscribe?token=87fd1239fa2282b2a01661ba42e28a87
 
 -- sub_list --
 
-https://a.545437.xyz/jiji?token=e6131819bcf560b8f3e28180339efe44
-https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
 https://sub.372372.xyz/api/v1/client/subscribe?token=87fd1239fa2282b2a01661ba42e28a87
+http://sub3.127665.xyz/s/44b688c5860116b000a8c0d12e76db92
+http://sub3.127665.xyz/s/a61b509bfcd8488b8b3ee055b3e36096
+https://a.545437.xyz/jiji?token=e6131819bcf560b8f3e28180339efe44
