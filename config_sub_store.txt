@@ -1,21 +1,23 @@
 -- play_list --
 
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+可用流量: 442.66 GB http://sub3.127665.xyz/s/a61b509bfcd8488b8b3ee055b3e36096
+可用流量: 8589934490.34 GB https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
+可用流量: 566.32 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
 可用流量: 970.79 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 449.23 GB http://sub3.127665.xyz/s/a61b509bfcd8488b8b3ee055b3e36096
-可用流量: 519.46 GB http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
-可用流量: 8589934490.1 GB https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
-可用流量: 450.71 GB http://sub3.127665.xyz/s/44b688c5860116b000a8c0d12e76db92
-可用流量: 3890.69 GB https://sub.372372.xyz/api/v1/client/subscribe?token=87fd1239fa2282b2a01661ba42e28a87
+可用流量: 512.48 GB http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
+可用流量: 558.49 GB http://sub3.127665.xyz/s/9693780692be02eead828786afd5b88f
 可用流量: 49.33 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
+可用流量: 442.38 GB http://sub3.127665.xyz/s/44b688c5860116b000a8c0d12e76db92
+可用流量: 3890.55 GB https://sub.372372.xyz/api/v1/client/subscribe?token=87fd1239fa2282b2a01661ba42e28a87
 
 -- sub_list --
 
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 http://sub3.127665.xyz/s/a61b509bfcd8488b8b3ee055b3e36096
-http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
 https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
+https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
+http://sub3.127665.xyz/s/9693780692be02eead828786afd5b88f
+https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
 http://sub3.127665.xyz/s/44b688c5860116b000a8c0d12e76db92
 https://sub.372372.xyz/api/v1/client/subscribe?token=87fd1239fa2282b2a01661ba42e28a87
-https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
