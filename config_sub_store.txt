@@ -1,17 +1,25 @@
 -- play_list --
 
-可用流量: 8589934413.03 GB https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
-可用流量: 3893.17 GB https://sub.372372.xyz/api/v1/client/subscribe?token=87fd1239fa2282b2a01661ba42e28a87
-可用流量: 559.49 GB http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
-可用流量: 568.16 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
-可用流量: 91.64 GB https://sub.tsjc.shop/api/t/f7fbaf48b3eb03a72f59268ebd320026
 可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+可用流量: 491.65 GB http://sub3.127665.xyz/s/a61b509bfcd8488b8b3ee055b3e36096
+可用流量: 970.9 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 100.0 GB https://a.545437.xyz/jiji?token=e6131819bcf560b8f3e28180339efe44
+可用流量: 568.11 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+可用流量: 491.76 GB http://sub3.127665.xyz/s/44b688c5860116b000a8c0d12e76db92
+可用流量: 49.58 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
+可用流量: 8589934509.47 GB https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
+可用流量: 90.92 GB https://sub.tsjc.shop/api/t/f7fbaf48b3eb03a72f59268ebd320026
+可用流量: 3892.74 GB https://sub.372372.xyz/api/v1/client/subscribe?token=87fd1239fa2282b2a01661ba42e28a87
 
 -- sub_list --
 
-https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
-https://sub.372372.xyz/api/v1/client/subscribe?token=87fd1239fa2282b2a01661ba42e28a87
-http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
-https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
-https://sub.tsjc.shop/api/t/f7fbaf48b3eb03a72f59268ebd320026
 https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+http://sub3.127665.xyz/s/a61b509bfcd8488b8b3ee055b3e36096
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+https://a.545437.xyz/jiji?token=e6131819bcf560b8f3e28180339efe44
+https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+http://sub3.127665.xyz/s/44b688c5860116b000a8c0d12e76db92
+https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
+https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
+https://sub.tsjc.shop/api/t/f7fbaf48b3eb03a72f59268ebd320026
+https://sub.372372.xyz/api/v1/client/subscribe?token=87fd1239fa2282b2a01661ba42e28a87
