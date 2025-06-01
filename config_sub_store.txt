@@ -1,13 +1,17 @@
 -- play_list --
 
-可用流量: 494.39 GB http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
-可用流量: 422.86 GB http://sub3.127665.xyz/s/a61b509bfcd8488b8b3ee055b3e36096
-可用流量: 8589934518.58 GB https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
-可用流量: 566.31 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+可用流量: 464.96 GB http://sub3.127665.xyz/s/660c87e3a551202bc6efe678b23a859d
+可用流量: 3.81 GB http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
+可用流量: 999999283.41 GB https://sub.xn--z4q48lcvpsq0c.com/s/96bef41f22a5ea039ae261d18d21f2bc
+可用流量: 538.18 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+可用流量: 176.78 GB http://sub3.127665.xyz/s/3a7eb1a548d4f667b18ecbc9ed4ba051
+可用流量: 43.09 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
 
 -- sub_list --
 
+http://sub3.127665.xyz/s/660c87e3a551202bc6efe678b23a859d
 http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
-http://sub3.127665.xyz/s/a61b509bfcd8488b8b3ee055b3e36096
-https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
+https://sub.xn--z4q48lcvpsq0c.com/s/96bef41f22a5ea039ae261d18d21f2bc
 https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+http://sub3.127665.xyz/s/3a7eb1a548d4f667b18ecbc9ed4ba051
+https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
