@@ -1,17 +1,19 @@
 -- play_list --
 
-可用流量: 534.57 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+可用流量: 999.76 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 49.63 GB https://getinfo.bigwatermelon.org/s?token=be2fd2a3d4ff1a568c9126c579b81df0
+可用流量: 459.57 GB http://sub3.127665.xyz/s/660c87e3a551202bc6efe678b23a859d
+可用流量: 999999270.42 GB https://sub.xn--z4q48lcvpsq0c.com/s/96bef41f22a5ea039ae261d18d21f2bc
 可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 8589934491.47 GB https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
-可用流量: 2921.47 GB https://yx1.281968.xyz/api/v1/client/subscribe?token=6b118824094f41726991c896c900d756
-可用流量: 55.1 GB https://getinfo.bigwatermelon.org/s?token=be2fd2a3d4ff1a568c9126c579b81df0
-可用流量: 999999276.78 GB https://sub.xn--z4q48lcvpsq0c.com/s/96bef41f22a5ea039ae261d18d21f2bc
+可用流量: 8589934541.69 GB https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
+可用流量: 156.97 GB http://sub3.127665.xyz/s/3a7eb1a548d4f667b18ecbc9ed4ba051
 
 -- sub_list --
 
-https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+https://getinfo.bigwatermelon.org/s?token=be2fd2a3d4ff1a568c9126c579b81df0
+http://sub3.127665.xyz/s/660c87e3a551202bc6efe678b23a859d
+https://sub.xn--z4q48lcvpsq0c.com/s/96bef41f22a5ea039ae261d18d21f2bc
 https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
 https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
-https://yx1.281968.xyz/api/v1/client/subscribe?token=6b118824094f41726991c896c900d756
-https://getinfo.bigwatermelon.org/s?token=be2fd2a3d4ff1a568c9126c579b81df0
-https://sub.xn--z4q48lcvpsq0c.com/s/96bef41f22a5ea039ae261d18d21f2bc
+http://sub3.127665.xyz/s/3a7eb1a548d4f667b18ecbc9ed4ba051
