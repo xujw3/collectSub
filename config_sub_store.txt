@@ -1,19 +1,17 @@
 -- play_list --
 
-可用流量: 537.01 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
-可用流量: 999.8 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 174.64 GB http://sub3.127665.xyz/s/3a7eb1a548d4f667b18ecbc9ed4ba051
-可用流量: 59.27 GB https://getinfo.bigwatermelon.org/s?token=be2fd2a3d4ff1a568c9126c579b81df0
-可用流量: 999999280.4 GB https://sub.xn--z4q48lcvpsq0c.com/s/96bef41f22a5ea039ae261d18d21f2bc
-可用流量: 43.09 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
+可用流量: 462.6 GB http://sub3.127665.xyz/s/660c87e3a551202bc6efe678b23a859d
+可用流量: 57.47 GB https://getinfo.bigwatermelon.org/s?token=be2fd2a3d4ff1a568c9126c579b81df0
+可用流量: 999.79 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 0.61 GB http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
+可用流量: 43.07 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
+可用流量: 999999277.92 GB https://sub.xn--z4q48lcvpsq0c.com/s/96bef41f22a5ea039ae261d18d21f2bc
 
 -- sub_list --
 
-https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-http://sub3.127665.xyz/s/3a7eb1a548d4f667b18ecbc9ed4ba051
+http://sub3.127665.xyz/s/660c87e3a551202bc6efe678b23a859d
 https://getinfo.bigwatermelon.org/s?token=be2fd2a3d4ff1a568c9126c579b81df0
-https://sub.xn--z4q48lcvpsq0c.com/s/96bef41f22a5ea039ae261d18d21f2bc
+https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+http://sub.crosswall.org/s/07d1e5fd9a58f89c08b6116eb151aaad
 https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
+https://sub.xn--z4q48lcvpsq0c.com/s/96bef41f22a5ea039ae261d18d21f2bc
