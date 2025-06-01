@@ -1,21 +1,23 @@
 -- play_list --
 
-可用流量: 453.18 GB http://sub3.127665.xyz/s/660c87e3a551202bc6efe678b23a859d
-可用流量: 43.05 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-可用流量: 8589934569.17 GB https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
-可用流量: 2806.53 GB https://yx1.281968.xyz/api/v1/client/subscribe?token=6b118824094f41726991c896c900d756
-可用流量: 42.39 GB https://getinfo.bigwatermelon.org/s?token=be2fd2a3d4ff1a568c9126c579b81df0
-可用流量: 999999250.63 GB https://sub.xn--z4q48lcvpsq0c.com/s/96bef41f22a5ea039ae261d18d21f2bc
-可用流量: 534.21 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+可用流量: 123.47 GB http://sub3.127665.xyz/s/3a7eb1a548d4f667b18ecbc9ed4ba051
 可用流量: 999.75 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+可用流量: 8589934530.08 GB https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
+可用流量: 40.3 GB https://getinfo.bigwatermelon.org/s?token=be2fd2a3d4ff1a568c9126c579b81df0
+可用流量: 534.11 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+可用流量: 999999239.33 GB https://sub.xn--z4q48lcvpsq0c.com/s/96bef41f22a5ea039ae261d18d21f2bc
+可用流量: 448.48 GB http://sub3.127665.xyz/s/660c87e3a551202bc6efe678b23a859d
+可用流量: 2781.65 GB https://yx1.281968.xyz/api/v1/client/subscribe?token=6b118824094f41726991c896c900d756
+可用流量: 43.05 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
 
 -- sub_list --
 
-http://sub3.127665.xyz/s/660c87e3a551202bc6efe678b23a859d
-https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
-https://yx1.281968.xyz/api/v1/client/subscribe?token=6b118824094f41726991c896c900d756
-https://getinfo.bigwatermelon.org/s?token=be2fd2a3d4ff1a568c9126c579b81df0
-https://sub.xn--z4q48lcvpsq0c.com/s/96bef41f22a5ea039ae261d18d21f2bc
-https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+http://sub3.127665.xyz/s/3a7eb1a548d4f667b18ecbc9ed4ba051
 https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
+https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
+https://getinfo.bigwatermelon.org/s?token=be2fd2a3d4ff1a568c9126c579b81df0
+https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+https://sub.xn--z4q48lcvpsq0c.com/s/96bef41f22a5ea039ae261d18d21f2bc
+http://sub3.127665.xyz/s/660c87e3a551202bc6efe678b23a859d
+https://yx1.281968.xyz/api/v1/client/subscribe?token=6b118824094f41726991c896c900d756
+https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
