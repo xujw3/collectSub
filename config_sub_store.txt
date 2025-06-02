@@ -1,23 +1,17 @@
 -- play_list --
 
-可用流量: 999895.92 GB http://13.248.254.117/sub/295c1a32b309293c/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-可用流量: 8589934560.3 GB https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
 可用流量: 50.0 GB https://aac.wzai.top/api/v1/client/subscribe?token=412849dc4423a69d00e7e9600be8e62a
-可用流量: 999998861.09 GB https://img.xn--z4q48lcvpsq0c.com/static/96bef41f22a5ea039ae261d18d21f2bc
-可用流量: 999.63 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-可用流量: 5898.61 GB https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=5ff2c5ce71d1b68af9a39691adf71a64
-可用流量: 42.0 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-可用流量: 68.23 GB https://xingze.54264944.xyz/api/v1/client/subscribe?token=c3f371afd8a015c20fc14c3544c83728
-可用流量: 516.19 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+可用流量: 61.16 GB https://xingze.54264944.xyz/api/v1/client/subscribe?token=c3f371afd8a015c20fc14c3544c83728
+可用流量: 999894.37 GB http://13.248.254.117/sub/295c1a32b309293c/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+可用流量: 41.77 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
+可用流量: 5863.3 GB https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=5ff2c5ce71d1b68af9a39691adf71a64
+可用流量: 515.39 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
 
 -- sub_list --
 
-http://13.248.254.117/sub/295c1a32b309293c/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
 https://aac.wzai.top/api/v1/client/subscribe?token=412849dc4423a69d00e7e9600be8e62a
-https://img.xn--z4q48lcvpsq0c.com/static/96bef41f22a5ea039ae261d18d21f2bc
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
-https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=5ff2c5ce71d1b68af9a39691adf71a64
-https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
 https://xingze.54264944.xyz/api/v1/client/subscribe?token=c3f371afd8a015c20fc14c3544c83728
+http://13.248.254.117/sub/295c1a32b309293c/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
+https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=5ff2c5ce71d1b68af9a39691adf71a64
 https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
