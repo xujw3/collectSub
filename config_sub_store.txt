@@ -1,21 +1,17 @@
 -- play_list --
 
-可用流量: 514.95 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
-可用流量: 999885.07 GB http://13.248.254.117/sub/295c1a32b309293c/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-可用流量: 5813.37 GB https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=5ff2c5ce71d1b68af9a39691adf71a64
+可用流量: 45.59 GB https://xingze.54264944.xyz/api/v1/client/subscribe?token=c3f371afd8a015c20fc14c3544c83728
+可用流量: 5721.87 GB https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=5ff2c5ce71d1b68af9a39691adf71a64
+可用流量: 999882.92 GB http://13.248.254.117/sub/295c1a32b309293c/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
 可用流量: 41.76 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-可用流量: 48.41 GB https://xingze.54264944.xyz/api/v1/client/subscribe?token=c3f371afd8a015c20fc14c3544c83728
-可用流量: 8589934513.24 GB https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 999998837.1 GB https://img.xn--z4q48lcvpsq0c.com/static/96bef41f22a5ea039ae261d18d21f2bc
+可用流量: 50.0 GB https://aac.wzai.top/api/v1/client/subscribe?token=412849dc4423a69d00e7e9600be8e62a
+可用流量: 8589934570.57 GB https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
 
 -- sub_list --
 
-https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
-http://13.248.254.117/sub/295c1a32b309293c/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=5ff2c5ce71d1b68af9a39691adf71a64
-https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
 https://xingze.54264944.xyz/api/v1/client/subscribe?token=c3f371afd8a015c20fc14c3544c83728
+https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=5ff2c5ce71d1b68af9a39691adf71a64
+http://13.248.254.117/sub/295c1a32b309293c/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
+https://aac.wzai.top/api/v1/client/subscribe?token=412849dc4423a69d00e7e9600be8e62a
 https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-https://img.xn--z4q48lcvpsq0c.com/static/96bef41f22a5ea039ae261d18d21f2bc
