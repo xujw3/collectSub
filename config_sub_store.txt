@@ -1,21 +1,17 @@
 -- play_list --
 
-可用流量: 999.42 GB https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 可用流量: 40.14 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-可用流量: 8589934522.49 GB https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
-可用流量: 299.09 GB https://install.sdconfig.pro/api/v1/client/subscribe?token=014b9c21c22028aea68e811a164a71eb
-可用流量: 999825.18 GB http://13.248.254.117/sub/295c1a32b309293c/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-可用流量: 310.11 GB https://fanhua.qeayr.cn/api/v1/client/subscribe?token=35e6dd26671caa107b295a78593ce764
-可用流量: 356.7 GB https://xn--cp3a08l.com/api/v1/client/subscribe?token=a7656239eada0b1c0986683948d14372
-可用流量: 50.0 GB https://aac.wzai.top/api/v1/client/subscribe?token=412849dc4423a69d00e7e9600be8e62a
+可用流量: 494.77 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+可用流量: 999824.28 GB http://13.248.254.117/sub/295c1a32b309293c/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+可用流量: 226.93 GB https://xn--cp3a08l.com/api/v1/client/subscribe?token=a7656239eada0b1c0986683948d14372
+可用流量: 293.92 GB https://install.sdconfig.pro/api/v1/client/subscribe?token=014b9c21c22028aea68e811a164a71eb
+可用流量: 8589934432.55 GB https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
 
 -- sub_list --
 
-https://ch.cukug.website/api/v1/client/subscribe?token=3e4ad9ef197db68d199e5d1a4e27eee3
 https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
-https://install.sdconfig.pro/api/v1/client/subscribe?token=014b9c21c22028aea68e811a164a71eb
+https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
 http://13.248.254.117/sub/295c1a32b309293c/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-https://fanhua.qeayr.cn/api/v1/client/subscribe?token=35e6dd26671caa107b295a78593ce764
 https://xn--cp3a08l.com/api/v1/client/subscribe?token=a7656239eada0b1c0986683948d14372
-https://aac.wzai.top/api/v1/client/subscribe?token=412849dc4423a69d00e7e9600be8e62a
+https://install.sdconfig.pro/api/v1/client/subscribe?token=014b9c21c22028aea68e811a164a71eb
+https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
