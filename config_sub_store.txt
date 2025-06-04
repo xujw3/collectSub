@@ -1,21 +1,25 @@
 -- play_list --
 
-可用流量: 999753.82 GB http://13.248.254.117/sub/295c1a32b309293c/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
-可用流量: 467.16 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 86.65 GB http://103.35.189.118:7001/s/33d98abad65a62b5f1b3c5673456b911
-可用流量: 8589934515.42 GB https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
+可用流量: 439.77 GB https://sub.tsjc.shop/api/t/9d8cdf21310221fda83cdc45b0a56ccb
+可用流量: 466.62 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+可用流量: 999751.75 GB http://13.248.254.117/sub/295c1a32b309293c/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+可用流量: 278.02 GB https://sub.tsjc.shop/api/t/e147f5c6a6f0acb7419a688ac99fc73d
+可用流量: 77.95 GB http://103.35.189.118:7001/s/33d98abad65a62b5f1b3c5673456b911
+可用流量: 35.94 GB http://103.35.189.118:7001/s/73610e4b1fa568a410e20ea8c1c005d1
+可用流量: 611.89 GB https://www.dabai.in/link/O4SwmMZ1eEaBoH1O?clash=1
 可用流量: 38.0 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-可用流量: 614.06 GB https://www.dabai.in/link/O4SwmMZ1eEaBoH1O?clash=1
-可用流量: 278.14 GB https://sub.tsjc.shop/api/t/e147f5c6a6f0acb7419a688ac99fc73d
+可用流量: 50.0 GB https://aac.wzai.top/api/v1/client/subscribe?token=412849dc4423a69d00e7e9600be8e62a
+可用流量: 405.63 GB https://sub.tsjc.shop/api/t/22070f69507303456411ae804b86999f
 
 -- sub_list --
 
-http://13.248.254.117/sub/295c1a32b309293c/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+https://sub.tsjc.shop/api/t/9d8cdf21310221fda83cdc45b0a56ccb
 https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-http://103.35.189.118:7001/s/33d98abad65a62b5f1b3c5673456b911
-https://sub.dafei.de/share/sub/%E5%85%B3%E6%B3%A8TG%40dafei_di?token=dafei_di
-https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-https://www.dabai.in/link/O4SwmMZ1eEaBoH1O?clash=1
+http://13.248.254.117/sub/295c1a32b309293c/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
 https://sub.tsjc.shop/api/t/e147f5c6a6f0acb7419a688ac99fc73d
+http://103.35.189.118:7001/s/33d98abad65a62b5f1b3c5673456b911
+http://103.35.189.118:7001/s/73610e4b1fa568a410e20ea8c1c005d1
+https://www.dabai.in/link/O4SwmMZ1eEaBoH1O?clash=1
+https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
+https://aac.wzai.top/api/v1/client/subscribe?token=412849dc4423a69d00e7e9600be8e62a
+https://sub.tsjc.shop/api/t/22070f69507303456411ae804b86999f
