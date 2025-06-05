@@ -1,1 +1,1 @@
-https://paste.c-net.org/WeaveConsumer
+https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
