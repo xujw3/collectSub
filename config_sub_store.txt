@@ -1,17 +1,23 @@
 -- play_list --
 
-可用流量: 1517.46 GB https://e.db01.in/link/7nOpKBwclgYbweua?clash=1
-可用流量: 8999984.65 GB https://xb.inekokkk.com/amei/54194127b8bc20294f3fc8e96e3a2c66
-可用流量: 9369.84 GB https://mikuyo.bpd67081tsq.ddns-ip.net/xe3K5Bi0FsU2VxAb5aXi
-可用流量: 9369.43 GB https://oty.myto.ip-ddns.com/jJh3s4xu97d5eNPi7e0T
-可用流量: 36.07 GB https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
-可用流量: 9368.66 GB https://mot.gike.dpdns.org/N49o8kZF0qp0447j3kyc
+可用流量: 266.96 GB https://sub.tsjc.shop/api/t/22070f69507303456411ae804b86999f
+可用流量: 4835.23 GB http://162.19.79.201:81/s/e6e55e604068e3fa29d5471863126890
+可用流量: 1505.74 GB https://e.db01.in/link/7nOpKBwclgYbweua?clash=1
+可用流量: 8589934526.11 GB https://sub.dafei.de/share/sub/%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%3Assrsub.de?token=%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%3Assrsub.de
+可用流量: 390.36 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 999630.26 GB http://13.248.254.117/sub/295c1a32b309293c/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
+可用流量: 8911.94 GB https://oty.myto.ip-ddns.com/jJh3s4xu97d5eNPi7e0T
+可用流量: 8911.41 GB https://mot.gike.dpdns.org/N49o8kZF0qp0447j3kyc
 
 -- sub_list --
 
+https://sub.tsjc.shop/api/t/22070f69507303456411ae804b86999f
+http://162.19.79.201:81/s/e6e55e604068e3fa29d5471863126890
 https://e.db01.in/link/7nOpKBwclgYbweua?clash=1
-https://xb.inekokkk.com/amei/54194127b8bc20294f3fc8e96e3a2c66
-https://mikuyo.bpd67081tsq.ddns-ip.net/xe3K5Bi0FsU2VxAb5aXi
+https://sub.dafei.de/share/sub/%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%3Assrsub.de?token=%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%3Assrsub.de
+https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+http://13.248.254.117/sub/295c1a32b309293c/clash/%E9%A3%9E%E9%B8%9F%E5%8A%A0%E9%80%9F?route=0
 https://oty.myto.ip-ddns.com/jJh3s4xu97d5eNPi7e0T
-https://xqsub.e54.site/api/v1/client/subscribe?token=a056fbe6192c7924a176468c9be0c5e6
 https://mot.gike.dpdns.org/N49o8kZF0qp0447j3kyc
