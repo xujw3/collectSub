@@ -1,7 +1,5 @@
-https://plana.ilu-subscription.com/s/a0025e054b642979ebc9afd8ddc68947
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
+https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yaml
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
-https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/Clash.yaml
-https://sub.yiliujichang.com/s/64a6c89e5673c6cf206526ab8bcf2cca
-https://sub.yiliujichang.com/s/28062f8f46198f67ef693fb2ba5c77bf
+http://103.35.189.118:7001/s/73610e4b1fa568a410e20ea8c1c005d1
 http://103.35.189.118:7001/s/33d98abad65a62b5f1b3c5673456b911
