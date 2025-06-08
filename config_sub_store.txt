@@ -1,17 +1,11 @@
 -- play_list --
 
-可用流量: 348.47 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+可用流量: 710.34 GB https://e.db01.in/link/7nOpKBwclgYbweua?clash=1
 可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 8999966.21 GB https://xb.inekokkk.com/amei/54194127b8bc20294f3fc8e96e3a2c66
-可用流量: 732.38 GB https://e.db01.in/link/7nOpKBwclgYbweua?clash=1
-可用流量: 8589934456.46 GB https://sub.dafei.de/share/sub/%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%3Assrsub.de?token=%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%3Assrsub.de
-可用流量: 95825.79 GB http://sub3.127665.xyz/s/c172ca1bf5616320b20cdc1cb4fec7c1
+可用流量: 8999966.03 GB https://xb.inekokkk.com/amei/54194127b8bc20294f3fc8e96e3a2c66
 
 -- sub_list --
 
-https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+https://e.db01.in/link/7nOpKBwclgYbweua?clash=1
 https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
 https://xb.inekokkk.com/amei/54194127b8bc20294f3fc8e96e3a2c66
-https://e.db01.in/link/7nOpKBwclgYbweua?clash=1
-https://sub.dafei.de/share/sub/%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%3Assrsub.de?token=%E4%B8%80%E5%85%83%E6%9C%BA%E5%9C%BA%3Assrsub.de
-http://sub3.127665.xyz/s/c172ca1bf5616320b20cdc1cb4fec7c1
