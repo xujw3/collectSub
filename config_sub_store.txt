@@ -1,9 +1,9 @@
 -- play_list --
 
-可用流量: 316.09 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
-可用流量: 157.59 GB https://weile.myyfqh.tech/gogo/c8ed236847c1bffed8a41f24d2f0f40b
+可用流量: 8999954.61 GB https://xb.inekokkk.com/amei/54194127b8bc20294f3fc8e96e3a2c66
+可用流量: 315.36 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
 
 -- sub_list --
 
+https://xb.inekokkk.com/amei/54194127b8bc20294f3fc8e96e3a2c66
 https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
-https://weile.myyfqh.tech/gogo/c8ed236847c1bffed8a41f24d2f0f40b

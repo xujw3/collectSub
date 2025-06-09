@@ -1,4 +1,5 @@
-https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
+https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
+https://sub.yiliujichang.com/s/7e50a0fd3fb8e629df48604ae6362511
+https://sub.yiliujichang.com/s/708cebad42d5c3b4a25a03daf196c5c1
 http://sub3.127665.xyz/s/3a7eb1a548d4f667b18ecbc9ed4ba051
 http://43.164.132.121:50/s/85bcb702f54dcce7a5794fcdad031001
-https://img.xn--mesv8bx6xmtl.com/static/c649455815ae4bc5087798983a740feb
