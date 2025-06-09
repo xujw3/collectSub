@@ -1,9 +1,11 @@
 -- play_list --
 
+可用流量: 147.75 GB https://weile.myyfqh.tech/gogo/c8ed236847c1bffed8a41f24d2f0f40b
+可用流量: 93158.52 GB http://sub3.127665.xyz/s/c172ca1bf5616320b20cdc1cb4fec7c1
 可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 315.07 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
 
 -- sub_list --
 
+https://weile.myyfqh.tech/gogo/c8ed236847c1bffed8a41f24d2f0f40b
+http://sub3.127665.xyz/s/c172ca1bf5616320b20cdc1cb4fec7c1
 https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
