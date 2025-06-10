@@ -1,19 +1,13 @@
 -- play_list --
 
-可用流量: 308.72 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 8999954.49 GB https://xb.inekokkk.com/amei/54194127b8bc20294f3fc8e96e3a2c66
 可用流量: 98.64 GB https://yyds.xueshan.shop/s/509f4c4224975aa87d8f96cb2d544f0c
-可用流量: 92905.6 GB http://sub3.127665.xyz/s/c172ca1bf5616320b20cdc1cb4fec7c1
-可用流量: 111.26 GB https://weile.myyfqh.tech/gogo/c8ed236847c1bffed8a41f24d2f0f40b
+可用流量: 308.6 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
 可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 8999954.49 GB https://xb.inekokkk.com/amei/54194127b8bc20294f3fc8e96e3a2c66
 
 -- sub_list --
 
-https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-https://xb.inekokkk.com/amei/54194127b8bc20294f3fc8e96e3a2c66
 https://yyds.xueshan.shop/s/509f4c4224975aa87d8f96cb2d544f0c
-http://sub3.127665.xyz/s/c172ca1bf5616320b20cdc1cb4fec7c1
-https://weile.myyfqh.tech/gogo/c8ed236847c1bffed8a41f24d2f0f40b
+https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
 https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+https://xb.inekokkk.com/amei/54194127b8bc20294f3fc8e96e3a2c66
