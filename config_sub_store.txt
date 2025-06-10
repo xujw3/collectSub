@@ -1,15 +1,9 @@
 -- play_list --
 
+可用流量: 302.7 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
 可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 28.4 GB https://weile.myyfqh.tech/gogo/c8ed236847c1bffed8a41f24d2f0f40b
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 304.56 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
-可用流量: 8999954.29 GB https://xb.inekokkk.com/amei/54194127b8bc20294f3fc8e96e3a2c66
 
 -- sub_list --
 
-https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-https://weile.myyfqh.tech/gogo/c8ed236847c1bffed8a41f24d2f0f40b
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
 https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
-https://xb.inekokkk.com/amei/54194127b8bc20294f3fc8e96e3a2c66
+https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
