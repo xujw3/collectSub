@@ -1,7 +1,3 @@
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
-https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
-https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yaml
-https://sub.yiliujichang.com/s/6b86e6dd5e352a55dea8d95079296f1c
-https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
+http://43.164.132.121:50/s/85bcb702f54dcce7a5794fcdad031001
