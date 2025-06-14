@@ -1,10 +1,6 @@
-https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-https://sub.wendingjichang.com/s/705d20c82c59eef0e8519a8a1a57c8bf
-https://sub.wendingjichang.com/s/e4de3ccefd74fecf220746789d90cc0c
-https://sub.yiliujichang.com/s/7e50a0fd3fb8e629df48604ae6362511
-https://tiamocloud.top/s/5ad6709122c938a83b1ce74590a65c84#dingyue_Center
-https://sub.wendingjichang.com/s/e5953ad2730d2a9bd7da22034554b699
+https://sub.yiliujichang.com/s/6b86e6dd5e352a55dea8d95079296f1c
+http://sub3.127665.xyz/s/3a7eb1a548d4f667b18ecbc9ed4ba051
 https://sub.yiliujichang.com/s/64a6c89e5673c6cf206526ab8bcf2cca
-https://sub.wendingjichang.com/s/78d71bc85ad4b99ebcac020760900b3d
-https://sub.yiliujichang.com/s/708cebad42d5c3b4a25a03daf196c5c1
+https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
+https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yaml
+https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
