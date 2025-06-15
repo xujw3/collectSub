@@ -1,29 +1,25 @@
 -- play_list --
 
-可用流量: 165.12 GB https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=db8f691dbae4050ab22e5fe68351befb
-可用流量: 253.95 GB https://hs.huasuan666.top/api/v1/client/subscribe?token=39fd8e901d4da2b6c0bf56add49b4dca
-可用流量: 229.63 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
 可用流量: 498.79 GB https://sub.tsjc.shop/api/t/9d8cdf21310221fda83cdc45b0a56ccb
-可用流量: 342.27 GB https://vpn.huasuan666.top/api/v1/client/subscribe?token=ef8b67b92eb9927e21195397b3d04a03
-可用流量: 77.2 GB http://admin.vip.edu.kg/s/9d737828aacdf7d8c0894fc89b49010f
-可用流量: 319.42 GB https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=67ad098e7e4f784d5df85120820c6385
-可用流量: 839.52 GB https://api.bppp.shop/api/sub/921af3220df0280315f9c45c14622e6a
-可用流量: 978.65 GB https://api.bppp.shop/api/sub/4a2931dffdd3c7e532599c576da04640
-可用流量: 35.07 GB https://tiamocloud.top/s/26034c19ded29b0b7fc19d91456cd81a
-可用流量: 998978.28 GB https://xfm.xz61.cn/api/v1/feima/subscribe?token=0b6749e140262b3d6b3d981d5b6cf042
+可用流量: 60.84 GB http://admin.vip.edu.kg/s/52339f39237a1ddc9b27927e283283c6
+可用流量: 75.83 GB https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
+可用流量: 229.52 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+可用流量: 139.37 GB https://jc.huasuan666.top/api/v1/client/subscribe?token=b10f75a290433b946d009600b05368a5
 可用流量: 8999900.24 GB https://xb.inekokkk.com/amei/54194127b8bc20294f3fc8e96e3a2c66
+可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 253.23 GB https://hs.huasuan666.top/api/v1/client/subscribe?token=39fd8e901d4da2b6c0bf56add49b4dca
+可用流量: 254.04 GB https://hs.huasuan666.top/api/v1/client/subscribe?token=02817e08b4676029b91d612843be9b1a
+可用流量: 272.75 GB https://jc.huasuan666.top/api/v1/client/subscribe?token=5810a6ae993d64cedc6f8ec5ebac043a
 
 -- sub_list --
 
-https://b3b0549e-160e-495a-a528-cccf5148bc48.372372.xyz/api/v1/client/subscribe?token=db8f691dbae4050ab22e5fe68351befb
-https://hs.huasuan666.top/api/v1/client/subscribe?token=39fd8e901d4da2b6c0bf56add49b4dca
-https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
 https://sub.tsjc.shop/api/t/9d8cdf21310221fda83cdc45b0a56ccb
-https://vpn.huasuan666.top/api/v1/client/subscribe?token=ef8b67b92eb9927e21195397b3d04a03
-http://admin.vip.edu.kg/s/9d737828aacdf7d8c0894fc89b49010f
-https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=67ad098e7e4f784d5df85120820c6385
-https://api.bppp.shop/api/sub/921af3220df0280315f9c45c14622e6a
-https://api.bppp.shop/api/sub/4a2931dffdd3c7e532599c576da04640
-https://tiamocloud.top/s/26034c19ded29b0b7fc19d91456cd81a
-https://xfm.xz61.cn/api/v1/feima/subscribe?token=0b6749e140262b3d6b3d981d5b6cf042
+http://admin.vip.edu.kg/s/52339f39237a1ddc9b27927e283283c6
+https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
+https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
+https://jc.huasuan666.top/api/v1/client/subscribe?token=b10f75a290433b946d009600b05368a5
 https://xb.inekokkk.com/amei/54194127b8bc20294f3fc8e96e3a2c66
+https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+https://hs.huasuan666.top/api/v1/client/subscribe?token=39fd8e901d4da2b6c0bf56add49b4dca
+https://hs.huasuan666.top/api/v1/client/subscribe?token=02817e08b4676029b91d612843be9b1a
+https://jc.huasuan666.top/api/v1/client/subscribe?token=5810a6ae993d64cedc6f8ec5ebac043a
