@@ -1,7 +1,7 @@
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/Clash.yaml
-http://admin.vip.edu.kg/s/718571ee37fecfa251103aff871378a5
-https://sub.wendingjichang.com/s/e9ba6ffc0664c880cae8d733d834aae9
-https://sub.wendingjichang.com/s/e5953ad2730d2a9bd7da22034554b699
-https://yyds.xueshan.shop/s/197cb46f114ba4413206219b98fa6911
+https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yaml
+https://sub.wendingjichang.com/s/8eb31cd4a0dcd3700b31313f2e9e6b14
+https://sub.yiliujichang.com/s/7e50a0fd3fb8e629df48604ae6362511
+https://sub.yiliujichang.com/s/708cebad42d5c3b4a25a03daf196c5c1
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
