@@ -1,10 +1,8 @@
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
-https://sub.wendingjichang.com/s/78d71bc85ad4b99ebcac020760900b3d
 https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/Clash.yaml
-http://sub3.127665.xyz/s/3a7eb1a548d4f667b18ecbc9ed4ba051
-https://sub.wendingjichang.com/s/e9ba6ffc0664c880cae8d733d834aae9
-https://sub.xn--3bs984e5qg.xyz/s/494f3465401daa2143479a290c53220d
+https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yaml
+https://sub.wendingjichang.com/s/e4de3ccefd74fecf220746789d90cc0c
+https://sub.wendingjichang.com/s/78d71bc85ad4b99ebcac020760900b3d
 https://yyds.xueshan.shop/s/197cb46f114ba4413206219b98fa6911
-https://ylks.tt2000.sbs/2025/F4/s17/c.yaml
-https://img.xn--mesv8bx6xmtl.com/static/945e1987d94c4ac2ee62e7cbd7cc480f
+http://sub3.127665.xyz/s/3a7eb1a548d4f667b18ecbc9ed4ba051
+https://sub.wendingjichang.com/s/e5953ad2730d2a9bd7da22034554b699
+https://sub.wendingjichang.com/s/e9ba6ffc0664c880cae8d733d834aae9
