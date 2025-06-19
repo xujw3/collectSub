@@ -1,23 +1,19 @@
 -- play_list --
 
 可用流量: 48.47 GB https://panel.ditie.space/sub?token=4b875b886fdcec96922d953144ccba9d
-可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 157.93 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
-可用流量: 283.92 GB https://sub.xn--mes358awwugpa.com/sub?token=9afab9bfa02539fdaf51365a8a7806f3
-可用流量: 157.06 GB https://vpn.huasuan666.top/api/v1/client/subscribe?token=ef8b67b92eb9927e21195397b3d04a03
 可用流量: 8999900.24 GB https://xb.inekokkk.com/amei/54194127b8bc20294f3fc8e96e3a2c66
-可用流量: 114.96 GB https://jc.huasuan666.top/api/v1/client/subscribe?token=5810a6ae993d64cedc6f8ec5ebac043a
+可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
 可用流量: 64.76 GB https://api-jx.02000.net/api/v1/jiuxiang/subscribe?token=7e8a7f1e80fe3ab8836fccd00e7ab4e4
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+可用流量: 112.07 GB https://jc.huasuan666.top/api/v1/client/subscribe?token=5810a6ae993d64cedc6f8ec5ebac043a
+可用流量: 149.54 GB https://vpn.huasuan666.top/api/v1/client/subscribe?token=ef8b67b92eb9927e21195397b3d04a03
+可用流量: 156.79 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
 
 -- sub_list --
 
 https://panel.ditie.space/sub?token=4b875b886fdcec96922d953144ccba9d
-https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
-https://sub.xn--mes358awwugpa.com/sub?token=9afab9bfa02539fdaf51365a8a7806f3
-https://vpn.huasuan666.top/api/v1/client/subscribe?token=ef8b67b92eb9927e21195397b3d04a03
 https://xb.inekokkk.com/amei/54194127b8bc20294f3fc8e96e3a2c66
-https://jc.huasuan666.top/api/v1/client/subscribe?token=5810a6ae993d64cedc6f8ec5ebac043a
+https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
 https://api-jx.02000.net/api/v1/jiuxiang/subscribe?token=7e8a7f1e80fe3ab8836fccd00e7ab4e4
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+https://jc.huasuan666.top/api/v1/client/subscribe?token=5810a6ae993d64cedc6f8ec5ebac043a
+https://vpn.huasuan666.top/api/v1/client/subscribe?token=ef8b67b92eb9927e21195397b3d04a03
+https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed
