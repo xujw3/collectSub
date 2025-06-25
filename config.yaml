@@ -12,6 +12,7 @@ clash订阅:
 - http://124.71.40.178/api/v1/client/subscribe?token=406010749cf80c6015826ee29f7d1d08
 - http://124.71.40.178/api/v1/client/subscribe?token=a0a93254121b09c665839f4650253568
 - http://124.71.40.178/api/v1/client/subscribe?token=bff7bab69e2414b01b25563da129665d
+- http://199.245.100.163:49850/clash/proxies?c=CN,HK,TW,SG,JP,KR,VN&amp;speed=1,50&amp;filter=r,p&amp;type=ss
 - http://23.145.248.218:3389/api/v1/client/subscribe?token=2d9220aa3a858719fc03d6910ac5b9f0
 - http://23.145.248.218:3389/api/v1/client/subscribe?token=b248fd5a74963c377a8fa88eac51cefa
 - http://38.59.246.49:38295/api/v1/client/subscribe?token=cbd309eb57fcb97940b90764e493b425
@@ -4111,6 +4112,7 @@ v2订阅:
 - '可用流量: 17.35 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058'
 - '可用流量: 17.36 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058'
 - '可用流量: 17.38 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058'
+- '可用流量: 17.4 GB https://di5.di5ji.lat/api/v1/client/subscribe?token=85f98cc02e66e4894b22cba2fb9971ed'
 - '可用流量: 17.44 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058'
 - '可用流量: 17.45 GB https://abjc.xyz/api/abjc?token=13e912e41de590b33ec39690bf8eb058'
 - '可用流量: 17.45 GB https://sub.mogufan.com/s/224878231a8a55e73d7e1bacef80129d'
@@ -8763,6 +8765,7 @@ v2订阅:
 - '可用流量: 283.58 GB https://sub.xn--4gqvd492adjr.com/s/a172761f290eac08cac8195a70c76e7f'
 - '可用流量: 283.65 GB https://666676666.xyz/api/v1/client/subscribe?token=45d4a6d5581d24b01e390da627b860d6'
 - '可用流量: 283.69 GB https://dfjc.xyz/api/doufu?token=acdc8fd7a43727080dc296e1c91408dd'
+- '可用流量: 283.76 GB https://img.xn--mesv8bx6xmtl.com/static/675ec43628d61332ca92df0c29eb0265'
 - '可用流量: 283.8 GB http://nuxyun.v2rayflash.top/api/v1/client/subscribe?token=be30e81980997f794f9b4660ed1bbd5d#/2.2mb/s'
 - '可用流量: 283.8 GB https://sub.xn--4gqvd492adjr.com/s/a172761f290eac08cac8195a70c76e7f'
 - '可用流量: 283.88 GB https://x2.ziyouniao.site/s/429c7ab2b970ea3bd5dc6a31681eb00e'
@@ -15324,6 +15327,7 @@ v2订阅:
 - '可用流量: 463.18 GB https://sub.yiliujichang.com/s/28062f8f46198f67ef693fb2ba5c77bf'
 - '可用流量: 463.18 GB https://xn--9kqx21a0sv.com/api/bpyun?token=eb8fcc2fb3a2a979df1d7fe5bd6c7419'
 - '可用流量: 463.23 GB https://xn--9kqx21a0sv.com/api/bpyun?token=eb8fcc2fb3a2a979df1d7fe5bd6c7419'
+- '可用流量: 463.26 GB https://img.xn--mesv8bx6xmtl.com/static/639771a015e9df6e7c8a7d27f460a544'
 - '可用流量: 463.31 GB https://sub.yiliujichang.com/s/28062f8f46198f67ef693fb2ba5c77bf'
 - '可用流量: 463.32 GB https://sub.yiliujichang.com/s/9d66a6c5f55ef28669d0bd5e074592f1'
 - '可用流量: 463.34 GB https://sub.yiliujichang.com/s/9d66a6c5f55ef28669d0bd5e074592f1'
