@@ -1,13 +1,11 @@
 -- play_list --
 
 可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 9999393.79 GB http://47.107.142.52:88/api/v1/client/subscribe?token=d688513b1852bd92fc1d96124c36723f
-可用流量: 28.05 GB https://img.xn--mesv8bx6xmtl.com/static/639771a015e9df6e7c8a7d27f460a544
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+可用流量: 9999381.57 GB http://47.107.142.52:88/api/v1/client/subscribe?token=d688513b1852bd92fc1d96124c36723f
+可用流量: 43269.93 GB https://ooooooo.vvvv.ee/O
 
 -- sub_list --
 
 https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
 http://47.107.142.52:88/api/v1/client/subscribe?token=d688513b1852bd92fc1d96124c36723f
-https://img.xn--mesv8bx6xmtl.com/static/639771a015e9df6e7c8a7d27f460a544
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+https://ooooooo.vvvv.ee/O
