@@ -1,3 +1,2 @@
-https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
-https://ooooooo.vvvv.ee/O
 https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
+https://ooooooo.vvvv.ee/O
