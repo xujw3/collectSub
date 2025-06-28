@@ -1,59 +1,55 @@
 -- play_list --
 
-可用流量: 98.76 GB https://sub.cloudtaste.xyz/tastegood/a6b554d08caaeeba75b1c5d614a49012
-可用流量: 97.99 GB https://sub.cloudtaste.xyz/tastegood/699ce0c2b5a84b5b07d8858e3f397d2b
-可用流量: 94.44 GB https://sub.cloudtaste.xyz/tastegood/6982eed7229171f51bf31e23eda6ddee
-可用流量: 99.1 GB https://sub.cloudtaste.xyz/tastegood/67900f726a822ac2fa57a0a17f364177
-可用流量: 99.04 GB https://sub.cloudtaste.xyz/tastegood/82940f6d014f2bd3c887e3087300be4a
-可用流量: 97.85 GB https://sub.cloudtaste.xyz/tastegood/eccf1087c1d615c288815c27418e91d4
-可用流量: 98.77 GB https://sub.cloudtaste.xyz/tastegood/b5d629e316f11b7e4bfe46e8dbd9f444
-可用流量: 23.07 GB https://sub.cloudtaste.xyz/tastegood/333d9a706e3c5a37d1469b433a755ca3
+可用流量: 251.3 GB https://tc.ztcloud.xyz/api/v1/client/subscribe?token=3550c988f606049cd74a4fb5cfdbb80b
+可用流量: 39.89 GB https://sub.cloudtaste.xyz/tastegood/93b0e9443bb1bc1946b8373ccd1eb037
+可用流量: 82.19 GB https://sub.cloudtaste.xyz/tastegood/77a858b0d52f50b92c075da56aa75d4c
+可用流量: 96.15 GB https://sub.cloudtaste.xyz/tastegood/dd5ee3dd3dfc3a934bbb7d3badc3ab34
+可用流量: 60.68 GB https://sub.cloudtaste.xyz/tastegood/adc50c3504619ad132bcacbe7616b69b
+可用流量: 88.24 GB https://sub.cloudtaste.xyz/tastegood/c00ee604f93ce85e0032ab4ae1072ec1
+可用流量: 53.46 GB https://sub.cloudtaste.xyz/tastegood/6438ed2c23e2069c591092b59fa049de
+可用流量: 98.76 GB https://sub.cloudtaste.xyz/tastegood/9309f2d591bd9a9534478aca2f363a37
+可用流量: 99.2 GB https://sub.cloudtaste.xyz/tastegood/695cafcb77e9f63ad51477bdb7d4c131
+可用流量: 76.13 GB https://sub.cloudtaste.xyz/tastegood/a356a7f300be56a3c92792fcdcc7dbc8
+可用流量: 99.49 GB https://sub.cloudtaste.xyz/tastegood/e6986b85fae55db1768522a47375cef9
+可用流量: 96.77 GB https://sub.cloudtaste.xyz/tastegood/6ad842fde948727fafa51d62d08068a3
 可用流量: 86.66 GB https://sub.cloudtaste.xyz/tastegood/d554e2ae445c8529c22e6c0029a72f98
-可用流量: 90.19 GB https://sub.cloudtaste.xyz/tastegood/d61a878fc3878e023170f657c434560c
-可用流量: 92.38 GB https://sub.cloudtaste.xyz/tastegood/f1d9211925a7106e11811106e9e9c2f5
-可用流量: 61.45 GB https://sub.cloudtaste.xyz/tastegood/86f394dcc6e57583cf0cf96db84adc90
-可用流量: 98.43 GB https://sub.cloudtaste.xyz/tastegood/76f581719d729d45477fc59330c048d8
-可用流量: 109.45 GB https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=d80acfd6e77a27f923afb63130335df6
-可用流量: 99.27 GB https://sub.cloudtaste.xyz/tastegood/eecb63de9239484773a264ef0f84a9a3
-可用流量: 99.72 GB https://sub.cloudtaste.xyz/tastegood/14061448c8634f939ca6b935d2629608
+可用流量: 48.14 GB https://sub.cloudtaste.xyz/tastegood/9d853c1ec5a76acd49c1cb018f5d7ed3
+可用流量: 37.89 GB https://tc.ztcloud.xyz/api/v1/client/subscribe?token=26cec3bda11795769be5d18126c4b354
 可用流量: 89.08 GB https://sub.cloudtaste.xyz/tastegood/629c5b6466ce1aaeadd2ccee9ccbe8c6
-可用流量: 4884.57 GB https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
+可用流量: 186.44 GB https://gw.ztcloud.xyz/api/v1/client/subscribe?token=08713ee2fbce559606a3a44027e882c6
+可用流量: 207.7 GB https://tc.ztcloud.xyz/api/v1/client/subscribe?token=306a110108f8023ac36da0fc46cdfe51
+可用流量: 162.65 GB https://gw.ztcloud.xyz/api/v1/client/subscribe?token=15b50bc1649a8e7eeed63517b6e74e05
+可用流量: 224.52 GB https://tc.ztcloud.xyz/api/v1/client/subscribe?token=42dd0e1fc9709413c821ce79fb2e701c
 可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 2827.03 GB https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=44d630622d921db99f73216300e45020
-可用流量: 98.83 GB https://sub.cloudtaste.xyz/tastegood/207d5c0bf3c43e56e3091a0d5d9aaf75
-可用流量: 266.64 GB https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=7b74dc814799449675239d0d3157a9f0
-可用流量: 69.93 GB https://gw.ztcloud.xyz/api/v1/client/subscribe?token=704233cd6999885589a8c23dbcfbf58f
-可用流量: 166.24 GB https://gw.ztcloud.xyz/api/v1/client/subscribe?token=15b50bc1649a8e7eeed63517b6e74e05
 可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 99.55 GB https://sub.cloudtaste.xyz/tastegood/2a67f8114538990094bf18c03fc58796
-可用流量: 99.14 GB https://sub.cloudtaste.xyz/tastegood/45957d1b5a4206f6a35ca3c0cbb3c954
+可用流量: 4850.09 GB https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
+可用流量: 68.86 GB https://gw.ztcloud.xyz/api/v1/client/subscribe?token=704233cd6999885589a8c23dbcfbf58f
+可用流量: 98.32 GB https://sub.cloudtaste.xyz/tastegood/114bbe55ed12c8539204b53a4408fdeb
 
 -- sub_list --
 
-https://sub.cloudtaste.xyz/tastegood/a6b554d08caaeeba75b1c5d614a49012
-https://sub.cloudtaste.xyz/tastegood/699ce0c2b5a84b5b07d8858e3f397d2b
-https://sub.cloudtaste.xyz/tastegood/6982eed7229171f51bf31e23eda6ddee
-https://sub.cloudtaste.xyz/tastegood/67900f726a822ac2fa57a0a17f364177
-https://sub.cloudtaste.xyz/tastegood/82940f6d014f2bd3c887e3087300be4a
-https://sub.cloudtaste.xyz/tastegood/eccf1087c1d615c288815c27418e91d4
-https://sub.cloudtaste.xyz/tastegood/b5d629e316f11b7e4bfe46e8dbd9f444
-https://sub.cloudtaste.xyz/tastegood/333d9a706e3c5a37d1469b433a755ca3
+https://tc.ztcloud.xyz/api/v1/client/subscribe?token=3550c988f606049cd74a4fb5cfdbb80b
+https://sub.cloudtaste.xyz/tastegood/93b0e9443bb1bc1946b8373ccd1eb037
+https://sub.cloudtaste.xyz/tastegood/77a858b0d52f50b92c075da56aa75d4c
+https://sub.cloudtaste.xyz/tastegood/dd5ee3dd3dfc3a934bbb7d3badc3ab34
+https://sub.cloudtaste.xyz/tastegood/adc50c3504619ad132bcacbe7616b69b
+https://sub.cloudtaste.xyz/tastegood/c00ee604f93ce85e0032ab4ae1072ec1
+https://sub.cloudtaste.xyz/tastegood/6438ed2c23e2069c591092b59fa049de
+https://sub.cloudtaste.xyz/tastegood/9309f2d591bd9a9534478aca2f363a37
+https://sub.cloudtaste.xyz/tastegood/695cafcb77e9f63ad51477bdb7d4c131
+https://sub.cloudtaste.xyz/tastegood/a356a7f300be56a3c92792fcdcc7dbc8
+https://sub.cloudtaste.xyz/tastegood/e6986b85fae55db1768522a47375cef9
+https://sub.cloudtaste.xyz/tastegood/6ad842fde948727fafa51d62d08068a3
 https://sub.cloudtaste.xyz/tastegood/d554e2ae445c8529c22e6c0029a72f98
-https://sub.cloudtaste.xyz/tastegood/d61a878fc3878e023170f657c434560c
-https://sub.cloudtaste.xyz/tastegood/f1d9211925a7106e11811106e9e9c2f5
-https://sub.cloudtaste.xyz/tastegood/86f394dcc6e57583cf0cf96db84adc90
-https://sub.cloudtaste.xyz/tastegood/76f581719d729d45477fc59330c048d8
-https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=d80acfd6e77a27f923afb63130335df6
-https://sub.cloudtaste.xyz/tastegood/eecb63de9239484773a264ef0f84a9a3
-https://sub.cloudtaste.xyz/tastegood/14061448c8634f939ca6b935d2629608
+https://sub.cloudtaste.xyz/tastegood/9d853c1ec5a76acd49c1cb018f5d7ed3
+https://tc.ztcloud.xyz/api/v1/client/subscribe?token=26cec3bda11795769be5d18126c4b354
 https://sub.cloudtaste.xyz/tastegood/629c5b6466ce1aaeadd2ccee9ccbe8c6
-https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
-https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-https://dy11.baipiaoyes.com/api/v1/client/subscribe?token=44d630622d921db99f73216300e45020
-https://sub.cloudtaste.xyz/tastegood/207d5c0bf3c43e56e3091a0d5d9aaf75
-https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=7b74dc814799449675239d0d3157a9f0
-https://gw.ztcloud.xyz/api/v1/client/subscribe?token=704233cd6999885589a8c23dbcfbf58f
+https://gw.ztcloud.xyz/api/v1/client/subscribe?token=08713ee2fbce559606a3a44027e882c6
+https://tc.ztcloud.xyz/api/v1/client/subscribe?token=306a110108f8023ac36da0fc46cdfe51
 https://gw.ztcloud.xyz/api/v1/client/subscribe?token=15b50bc1649a8e7eeed63517b6e74e05
+https://tc.ztcloud.xyz/api/v1/client/subscribe?token=42dd0e1fc9709413c821ce79fb2e701c
+https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
 https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-https://sub.cloudtaste.xyz/tastegood/2a67f8114538990094bf18c03fc58796
-https://sub.cloudtaste.xyz/tastegood/45957d1b5a4206f6a35ca3c0cbb3c954
+https://www.flyintpro05.com/api/v1/client/subscribe?token=62be89e4bc828cdfd0c62bfb44746312
+https://gw.ztcloud.xyz/api/v1/client/subscribe?token=704233cd6999885589a8c23dbcfbf58f
+https://sub.cloudtaste.xyz/tastegood/114bbe55ed12c8539204b53a4408fdeb
