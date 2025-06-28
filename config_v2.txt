@@ -1,2 +1,0 @@
-https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
-https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
