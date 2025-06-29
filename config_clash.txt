@@ -1,7 +1,5 @@
-https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-http://sub3.127665.xyz/s/3a7eb1a548d4f667b18ecbc9ed4ba051
-https://sub.xn--vpn-3f0h822m.com/s/365795e7eb498d8e9f26a266e4a1aaa2
-https://sub.cloudtaste.xyz/tastegood/3afb30f75a466d5d8d09837db66e77ae
+https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/Clash.yaml
+https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yaml
+https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
 https://sub.xn--vpn-3f0h822m.com/s/3223b61b29b05def15e50223a3322a0b
-https://sub.cloudtaste.xyz/tastegood/65417f449e49d18aff365de9f70a4657
+https://sub.xn--vpn-3f0h822m.com/s/365795e7eb498d8e9f26a266e4a1aaa2
