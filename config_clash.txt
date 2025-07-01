@@ -1,8 +1,5 @@
-https://token4.bailiqun.top/s/6ec33e079d3725b24400c2388c5a9064
-https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
-https://sub.xn--vpn-3f0h822m.com/s/3223b61b29b05def15e50223a3322a0b
-https://sub.xn--vpn-3f0h822m.com/s/365795e7eb498d8e9f26a266e4a1aaa2
+https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yaml
 https://tt.vg/ss
-https://tt.vg/trojan
+https://token4.bailiqun.top/s/6ec33e079d3725b24400c2388c5a9064
+https://sub.xn--vpn-3f0h822m.com/s/365795e7eb498d8e9f26a266e4a1aaa2
+https://sub.xn--vpn-3f0h822m.com/s/3223b61b29b05def15e50223a3322a0b
