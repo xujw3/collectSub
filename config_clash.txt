@@ -1,4 +1,2 @@
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
-http://sub3.127665.xyz/s/3a7eb1a548d4f667b18ecbc9ed4ba051
+https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://token4.bailiqun.top/s/6ec33e079d3725b24400c2388c5a9064
