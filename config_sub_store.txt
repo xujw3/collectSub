@@ -1,11 +1,21 @@
 -- play_list --
 
-可用流量: 67.35 GB https://sub.cloudtaste.xyz/tastegood/bbf001f0c6ba32af4855c1bee077726d
-可用流量: 19.78 GB https://sub.cloudtaste.xyz/tastegood/309b3202272694862302f8a95b515e0c
-可用流量: 42.09 GB https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
+可用流量: 67.26 GB https://sub.cloudtaste.xyz/tastegood/bbf001f0c6ba32af4855c1bee077726d
+可用流量: 19.25 GB https://sub.cloudtaste.xyz/tastegood/309b3202272694862302f8a95b515e0c
+可用流量: 30.68 GB https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
+可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+可用流量: 751.24 GB https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
+可用流量: 60.88 GB https://kurominetwork.dpdns.org/api/5ba8b7532f35b890faf89e1f7bedffe7
+可用流量: 91.79 GB https://sub.cloudtaste.xyz/tastegood/76f581719d729d45477fc59330c048d8
+可用流量: 2.6 GB https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=c1719afa23a5a5e915948a669e4231ce
 
 -- sub_list --
 
 https://sub.cloudtaste.xyz/tastegood/bbf001f0c6ba32af4855c1bee077726d
 https://sub.cloudtaste.xyz/tastegood/309b3202272694862302f8a95b515e0c
 https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
+https://kurominetwork.dpdns.org/api/5ba8b7532f35b890faf89e1f7bedffe7
+https://sub.cloudtaste.xyz/tastegood/76f581719d729d45477fc59330c048d8
+https://w258963147.ztcloud.xyz/api/v1/client/subscribe?token=c1719afa23a5a5e915948a669e4231ce
