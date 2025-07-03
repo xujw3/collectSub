@@ -1,13 +1,15 @@
 -- play_list --
 
-可用流量: 52.75 GB https://soonlink.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=b70b058dbb065e824b3c92f878a68b1a
-可用流量: 12310.86 GB https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
-可用流量: 52.92 GB https://sub.cloudtaste.xyz/tastegood/76f581719d729d45477fc59330c048d8
-可用流量: 67.4 GB https://subscription.sukiaira.com/api/v1/client/subscribe?token=e16641c87a7b9b3210ca374aae84e6aa
+可用流量: 97.47 GB https://CkPVk.subxly.cfd:8443/api/v1/client/9057015b34263a6f66df8e075a3ebbf1
+可用流量: 43.08 GB https://sub.cloudtaste.xyz/tastegood/bbf001f0c6ba32af4855c1bee077726d
+可用流量: 731.18 GB https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
+可用流量: 65.5 GB https://subscription.sukiaira.com/api/v1/client/subscribe?token=e16641c87a7b9b3210ca374aae84e6aa
+可用流量: 52.33 GB https://sub.cloudtaste.xyz/tastegood/76f581719d729d45477fc59330c048d8
 
 -- sub_list --
 
-https://soonlink.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=b70b058dbb065e824b3c92f878a68b1a
-https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
-https://sub.cloudtaste.xyz/tastegood/76f581719d729d45477fc59330c048d8
+https://CkPVk.subxly.cfd:8443/api/v1/client/9057015b34263a6f66df8e075a3ebbf1
+https://sub.cloudtaste.xyz/tastegood/bbf001f0c6ba32af4855c1bee077726d
+https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
 https://subscription.sukiaira.com/api/v1/client/subscribe?token=e16641c87a7b9b3210ca374aae84e6aa
+https://sub.cloudtaste.xyz/tastegood/76f581719d729d45477fc59330c048d8
