@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/soroushmirzaei/telegram-configs-collector/main/subscribe/protocols/vmess
+https://raw.githubusercontent.com/ssrsub/ssr/master/V2Ray
