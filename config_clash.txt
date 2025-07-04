@@ -1,8 +1,6 @@
-https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
-http://sub3.127665.xyz/s/3a7eb1a548d4f667b18ecbc9ed4ba051
-https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
+https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-https://sub.xn--vpn-3f0h822m.com/s/365795e7eb498d8e9f26a266e4a1aaa2
+https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
 https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/Clash.yaml
-https://raw.githubusercontent.com/ssrsub/ssr/master/Clash.yaml
+http://sub3.127665.xyz/s/3a7eb1a548d4f667b18ecbc9ed4ba051
 https://lzjgy.zone.id/token=lzjnb
