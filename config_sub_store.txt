@@ -1,13 +1,9 @@
 -- play_list --
 
-可用流量: 1752.83 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=3ded4b61891f969f694c1292aadae2f2
-可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 14.48 GB https://sub.cloudtaste.xyz/tastegood/76f581719d729d45477fc59330c048d8
-可用流量: 11388.94 GB https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
+可用流量: 41.34 GB https://sub.cloudtaste.xyz/tastegood/bbf001f0c6ba32af4855c1bee077726d
+可用流量: 11345.17 GB https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
 
 -- sub_list --
 
-https://mly1.543412546.xyz/api/v1/client/subscribe?token=3ded4b61891f969f694c1292aadae2f2
-https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-https://sub.cloudtaste.xyz/tastegood/76f581719d729d45477fc59330c048d8
+https://sub.cloudtaste.xyz/tastegood/bbf001f0c6ba32af4855c1bee077726d
 https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
