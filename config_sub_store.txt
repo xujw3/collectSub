@@ -1,21 +1,15 @@
 -- play_list --
 
-可用流量: 1701.96 GB https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
-可用流量: 975.96 GB https://soonlink.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=b70b058dbb065e824b3c92f878a68b1a
-可用流量: 434.69 GB https://1122.yunjijd.xyz/api/v1/client/subscribe?token=44866289e789a00fa89bfc82c05ce528
-可用流量: 328.65 GB https://jc.huasuan666.top/api/v1/client/subscribe?token=8d2aad710064e5deb7b38b79d5e6b142
-可用流量: 1606.27 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=3ded4b61891f969f694c1292aadae2f2
+可用流量: 902.76 GB https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
 可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 722.17 GB https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
-可用流量: 584.3 GB https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=5a2a4633b68b272970eb6f325285b41e
+可用流量: 968.91 GB https://soonlink.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=b70b058dbb065e824b3c92f878a68b1a
+可用流量: 583.17 GB https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=5a2a4633b68b272970eb6f325285b41e
+可用流量: 434.63 GB https://1122.yunjijd.xyz/api/v1/client/subscribe?token=44866289e789a00fa89bfc82c05ce528
 
 -- sub_list --
 
-https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
-https://soonlink.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=b70b058dbb065e824b3c92f878a68b1a
-https://1122.yunjijd.xyz/api/v1/client/subscribe?token=44866289e789a00fa89bfc82c05ce528
-https://jc.huasuan666.top/api/v1/client/subscribe?token=8d2aad710064e5deb7b38b79d5e6b142
-https://mly1.543412546.xyz/api/v1/client/subscribe?token=3ded4b61891f969f694c1292aadae2f2
+https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
 https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
+https://soonlink.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=b70b058dbb065e824b3c92f878a68b1a
 https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=5a2a4633b68b272970eb6f325285b41e
+https://1122.yunjijd.xyz/api/v1/client/subscribe?token=44866289e789a00fa89bfc82c05ce528

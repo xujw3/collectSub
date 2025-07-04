@@ -1,4 +1,4 @@
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
+https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
 https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/Clash.yaml
+https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
 https://lzjgy.zone.id/token=lzjnb
