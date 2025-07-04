@@ -1,1 +1,2 @@
 https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
+https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
