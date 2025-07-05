@@ -1,33 +1,19 @@
 -- play_list --
 
-可用流量: 558.36 GB https://1122.yunjijd.xyz/api/v1/client/subscribe?token=13343394fd788ed97031b3883a81df00
-可用流量: 862.17 GB https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
-可用流量: 700.18 GB https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
-可用流量: 320.83 GB https://jc.huasuan666.top/api/v1/client/subscribe?token=8d2aad710064e5deb7b38b79d5e6b142
-可用流量: 455.77 GB http://suburl.tkrjc.xyz/suburl?token=2f17591a3c8e5e9cdd1258fa08b5d996
-可用流量: 462.49 GB http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
-可用流量: 416.83 GB https://1122.yunjijd.xyz/api/v1/client/subscribe?token=44866289e789a00fa89bfc82c05ce528
-可用流量: 474.2 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=566a3e6f70e6684ea566b4b2c667d9f9
-可用流量: 31.27 GB https://sub.cloudtaste.xyz/tastegood/bbf001f0c6ba32af4855c1bee077726d
-可用流量: 97.49 GB https://sub.cloudtaste.xyz/tastegood/2f4986bc015322231d5a8b242fbbcf66
-可用流量: 866.93 GB https://img.xn--mesv8bx6xmtl.com/static/294f2c6f662197c4fcfb8eb54466fbcd
-可用流量: 737.01 GB https://soonlink.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=b70b058dbb065e824b3c92f878a68b1a
-可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 91.92 GB https://sub.cloudtaste.xyz/tastegood/8025ae63d5f3634a9effac6ffc6924c1
+可用流量: 3277.07 GB https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
+可用流量: 866.73 GB https://img.xn--mesv8bx6xmtl.com/static/294f2c6f662197c4fcfb8eb54466fbcd
+可用流量: 474.18 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=566a3e6f70e6684ea566b4b2c667d9f9
+可用流量: 730.91 GB https://soonlink.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=b70b058dbb065e824b3c92f878a68b1a
+可用流量: 91.87 GB https://sub.cloudtaste.xyz/tastegood/8025ae63d5f3634a9effac6ffc6924c1
+可用流量: 454.7 GB http://suburl.tkrjc.xyz/suburl?token=2f17591a3c8e5e9cdd1258fa08b5d996
+可用流量: 558.34 GB https://1122.yunjijd.xyz/api/v1/client/subscribe?token=13343394fd788ed97031b3883a81df00
 
 -- sub_list --
 
-https://1122.yunjijd.xyz/api/v1/client/subscribe?token=13343394fd788ed97031b3883a81df00
-https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
-https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
-https://jc.huasuan666.top/api/v1/client/subscribe?token=8d2aad710064e5deb7b38b79d5e6b142
-http://suburl.tkrjc.xyz/suburl?token=2f17591a3c8e5e9cdd1258fa08b5d996
-http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
-https://1122.yunjijd.xyz/api/v1/client/subscribe?token=44866289e789a00fa89bfc82c05ce528
-https://mly1.543412546.xyz/api/v1/client/subscribe?token=566a3e6f70e6684ea566b4b2c667d9f9
-https://sub.cloudtaste.xyz/tastegood/bbf001f0c6ba32af4855c1bee077726d
-https://sub.cloudtaste.xyz/tastegood/2f4986bc015322231d5a8b242fbbcf66
+https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
 https://img.xn--mesv8bx6xmtl.com/static/294f2c6f662197c4fcfb8eb54466fbcd
+https://mly1.543412546.xyz/api/v1/client/subscribe?token=566a3e6f70e6684ea566b4b2c667d9f9
 https://soonlink.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=b70b058dbb065e824b3c92f878a68b1a
-https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
 https://sub.cloudtaste.xyz/tastegood/8025ae63d5f3634a9effac6ffc6924c1
+http://suburl.tkrjc.xyz/suburl?token=2f17591a3c8e5e9cdd1258fa08b5d996
+https://1122.yunjijd.xyz/api/v1/client/subscribe?token=13343394fd788ed97031b3883a81df00
