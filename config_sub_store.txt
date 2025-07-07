@@ -1,13 +1,17 @@
 -- play_list --
 
+可用流量: 461.55 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=566a3e6f70e6684ea566b4b2c667d9f9
 可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 407.85 GB http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
-可用流量: 675.93 GB https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
-可用流量: 799.59 GB https://soonlink.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=b70b058dbb065e824b3c92f878a68b1a
+可用流量: 70.96 GB http://admin.vip.edu.kg/s/ac69f17b1535df5478fddf2374613200
+可用流量: 407.73 GB http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
+可用流量: 270.44 GB https://vpn.huasuan666.top/api/v1/client/subscribe?token=dcd19439aa9d94d08253a71cdfcf6506
+可用流量: 377.88 GB http://suburl.tkrjc.xyz/suburl?token=632dfdacc9d7a8efa0fb4dd6a13a3a89
 
 -- sub_list --
 
+https://mly1.543412546.xyz/api/v1/client/subscribe?token=566a3e6f70e6684ea566b4b2c667d9f9
 https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+http://admin.vip.edu.kg/s/ac69f17b1535df5478fddf2374613200
 http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
-https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
-https://soonlink.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=b70b058dbb065e824b3c92f878a68b1a
+https://vpn.huasuan666.top/api/v1/client/subscribe?token=dcd19439aa9d94d08253a71cdfcf6506
+http://suburl.tkrjc.xyz/suburl?token=632dfdacc9d7a8efa0fb4dd6a13a3a89
