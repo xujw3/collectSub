@@ -1,19 +1,13 @@
 -- play_list --
 
-可用流量: 403.14 GB http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
-可用流量: 376.47 GB http://suburl.tkrjc.xyz/suburl?token=632dfdacc9d7a8efa0fb4dd6a13a3a89
-可用流量: 595.99 GB https://1122.yunjijd.xyz/api/v1/client/subscribe?token=7cddd7e67973c641f424f31dd5be2359
-可用流量: 551.68 GB https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=93ed978a85e1c8e5427d2ab4a7201464
-可用流量: 667.1 GB https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
-可用流量: 7344.89 GB https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
+可用流量: 551.67 GB https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=93ed978a85e1c8e5427d2ab4a7201464
 可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 1000.0 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+可用流量: 595.99 GB https://1122.yunjijd.xyz/api/v1/client/subscribe?token=7cddd7e67973c641f424f31dd5be2359
 
 -- sub_list --
 
-http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
-http://suburl.tkrjc.xyz/suburl?token=632dfdacc9d7a8efa0fb4dd6a13a3a89
-https://1122.yunjijd.xyz/api/v1/client/subscribe?token=7cddd7e67973c641f424f31dd5be2359
 https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=93ed978a85e1c8e5427d2ab4a7201464
-https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
-https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
 https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+https://1122.yunjijd.xyz/api/v1/client/subscribe?token=7cddd7e67973c641f424f31dd5be2359
