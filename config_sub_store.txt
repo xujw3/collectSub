@@ -1,23 +1,17 @@
 -- play_list --
 
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 550.54 GB https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=93ed978a85e1c8e5427d2ab4a7201464
-可用流量: 600.78 GB https://hutaod.com/link/inUzqOtZjbbgdQK4?sub=3
-可用流量: 1770.55 GB https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
-可用流量: 375.21 GB http://suburl.tkrjc.xyz/suburl?token=632dfdacc9d7a8efa0fb4dd6a13a3a89
+可用流量: 375.13 GB http://suburl.tkrjc.xyz/suburl?token=632dfdacc9d7a8efa0fb4dd6a13a3a89
+可用流量: 401.2 GB http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
+可用流量: 591.77 GB https://hutaod.com/link/inUzqOtZjbbgdQK4?sub=3
+可用流量: 1725.7 GB https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
+可用流量: 660.5 GB https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
 可用流量: 1000.0 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-可用流量: 401.22 GB http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
-可用流量: 593.02 GB https://1122.yunjijd.xyz/api/v1/client/subscribe?token=7cddd7e67973c641f424f31dd5be2359
 
 -- sub_list --
 
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=93ed978a85e1c8e5427d2ab4a7201464
+http://suburl.tkrjc.xyz/suburl?token=632dfdacc9d7a8efa0fb4dd6a13a3a89
+http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
 https://hutaod.com/link/inUzqOtZjbbgdQK4?sub=3
 https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
-http://suburl.tkrjc.xyz/suburl?token=632dfdacc9d7a8efa0fb4dd6a13a3a89
+https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
 https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
-https://1122.yunjijd.xyz/api/v1/client/subscribe?token=7cddd7e67973c641f424f31dd5be2359
