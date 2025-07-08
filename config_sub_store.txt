@@ -1,23 +1,19 @@
 -- play_list --
 
-可用流量: 1000.0 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=4997d5747db18c67ebe9010bf194d8f6
-可用流量: 1000.0 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-可用流量: 40221.38 GB https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
-可用流量: 396.24 GB http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
-可用流量: 299.0 GB https://sub.cloxy.io/cloxy?token=b28d0c8d2f53e1987de5599a7f7b5ccd
-可用流量: 518.7 GB https://hutaod.com/link/inUzqOtZjbbgdQK4?sub=3
-可用流量: 1000.0 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=e798eeb421744e88ec0e862b37d5e1b2
 可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 583.14 GB https://1122.yunjijd.xyz/api/v1/client/subscribe?token=0df88f1330313b6a03e26e106ef60c7c
+可用流量: 1000.0 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=4997d5747db18c67ebe9010bf194d8f6
+可用流量: 40159.5 GB https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
+可用流量: 658.0 GB https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
+可用流量: 580.9 GB https://1122.yunjijd.xyz/api/v1/client/subscribe?token=0df88f1330313b6a03e26e106ef60c7c
+可用流量: 504.8 GB https://hutaod.com/link/inUzqOtZjbbgdQK4?sub=3
+可用流量: 498.1 GB https://soonlink.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=b70b058dbb065e824b3c92f878a68b1a
 
 -- sub_list --
 
-https://aaa.flylink.cyou/api/v1/client/subscribe?token=4997d5747db18c67ebe9010bf194d8f6
-https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
-http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
-https://sub.cloxy.io/cloxy?token=b28d0c8d2f53e1987de5599a7f7b5ccd
-https://hutaod.com/link/inUzqOtZjbbgdQK4?sub=3
-https://aaa.flylink.cyou/api/v1/client/subscribe?token=e798eeb421744e88ec0e862b37d5e1b2
 https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+https://aaa.flylink.cyou/api/v1/client/subscribe?token=4997d5747db18c67ebe9010bf194d8f6
+https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
+https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
 https://1122.yunjijd.xyz/api/v1/client/subscribe?token=0df88f1330313b6a03e26e106ef60c7c
+https://hutaod.com/link/inUzqOtZjbbgdQK4?sub=3
+https://soonlink.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=b70b058dbb065e824b3c92f878a68b1a
