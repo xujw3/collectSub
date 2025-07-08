@@ -1,21 +1,19 @@
 -- play_list --
 
-可用流量: 1000.0 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=4997d5747db18c67ebe9010bf194d8f6
+可用流量: 293.55 GB https://sub.cloxy.io/cloxy?token=b28d0c8d2f53e1987de5599a7f7b5ccd
 可用流量: 1000.0 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-可用流量: 382.17 GB http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
-可用流量: 1000.0 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=e798eeb421744e88ec0e862b37d5e1b2
-可用流量: 293.59 GB https://sub.cloxy.io/cloxy?token=b28d0c8d2f53e1987de5599a7f7b5ccd
-可用流量: 39622.02 GB https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
-可用流量: 577.29 GB https://1122.yunjijd.xyz/api/v1/client/subscribe?token=0df88f1330313b6a03e26e106ef60c7c
+可用流量: 39547.84 GB https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
 可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 1000.0 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=e798eeb421744e88ec0e862b37d5e1b2
+可用流量: 1000.0 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=4997d5747db18c67ebe9010bf194d8f6
+可用流量: 382.15 GB http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
 
 -- sub_list --
 
-https://aaa.flylink.cyou/api/v1/client/subscribe?token=4997d5747db18c67ebe9010bf194d8f6
-https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
-https://aaa.flylink.cyou/api/v1/client/subscribe?token=e798eeb421744e88ec0e862b37d5e1b2
 https://sub.cloxy.io/cloxy?token=b28d0c8d2f53e1987de5599a7f7b5ccd
+https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
 https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
-https://1122.yunjijd.xyz/api/v1/client/subscribe?token=0df88f1330313b6a03e26e106ef60c7c
 https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+https://aaa.flylink.cyou/api/v1/client/subscribe?token=e798eeb421744e88ec0e862b37d5e1b2
+https://aaa.flylink.cyou/api/v1/client/subscribe?token=4997d5747db18c67ebe9010bf194d8f6
+http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
