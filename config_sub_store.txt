@@ -1,19 +1,19 @@
 -- play_list --
 
-可用流量: 252.37 GB https://soonlink.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=b70b058dbb065e824b3c92f878a68b1a
-可用流量: 377.06 GB http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
+可用流量: 88.74 GB https://156.224.78.44:10086/api/v1/client/subscribe?token=e33b82c7ebc3d56a0a9fe9b735c99e4e
+可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
 可用流量: 1000.0 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-可用流量: 1000.0 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=4997d5747db18c67ebe9010bf194d8f6
-可用流量: 38484.25 GB https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
-可用流量: 502.02 GB https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
-可用流量: 95.03 GB https://156.224.78.44:10086/api/v1/client/subscribe?token=e33b82c7ebc3d56a0a9fe9b735c99e4e
+可用流量: 377.02 GB http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
+可用流量: 264.84 GB https://hutaod.com/link/inUzqOtZjbbgdQK4?sub=3
+可用流量: 649.79 GB https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
+可用流量: 523.05 GB https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=d117266c7d3ec61989bc6069fc6f8f24
 
 -- sub_list --
 
-https://soonlink.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=b70b058dbb065e824b3c92f878a68b1a
-http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
-https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-https://aaa.flylink.cyou/api/v1/client/subscribe?token=4997d5747db18c67ebe9010bf194d8f6
-https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
-https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
 https://156.224.78.44:10086/api/v1/client/subscribe?token=e33b82c7ebc3d56a0a9fe9b735c99e4e
+https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
+https://hutaod.com/link/inUzqOtZjbbgdQK4?sub=3
+https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
+https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=d117266c7d3ec61989bc6069fc6f8f24
