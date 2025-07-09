@@ -1,27 +1,19 @@
 -- play_list --
 
-可用流量: 38589.35 GB https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
-可用流量: 576.28 GB https://1122.yunjijd.xyz/api/v1/client/subscribe?token=0df88f1330313b6a03e26e106ef60c7c
-可用流量: 97.98 GB https://156.224.78.44:10086/api/v1/client/subscribe?token=e33b82c7ebc3d56a0a9fe9b735c99e4e
-可用流量: 278.95 GB https://sub.cloxy.io/cloxy?token=fb96dd6ba36d6726e53109bd2e9907b7
-可用流量: 291.14 GB https://sub.cloxy.io/cloxy?token=b28d0c8d2f53e1987de5599a7f7b5ccd
-可用流量: 377.69 GB http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
+可用流量: 252.37 GB https://soonlink.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=b70b058dbb065e824b3c92f878a68b1a
+可用流量: 377.06 GB http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
 可用流量: 1000.0 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-可用流量: 9.97 GB https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
-可用流量: 1000.0 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=e798eeb421744e88ec0e862b37d5e1b2
 可用流量: 1000.0 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=4997d5747db18c67ebe9010bf194d8f6
-可用流量: 17.71 GB https://bbq.mcwy.xyz/api/v1/client/subscribe?token=PdJ8xNRMTarL2mIZ
+可用流量: 38484.25 GB https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
+可用流量: 502.02 GB https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
+可用流量: 95.03 GB https://156.224.78.44:10086/api/v1/client/subscribe?token=e33b82c7ebc3d56a0a9fe9b735c99e4e
 
 -- sub_list --
 
-https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
-https://1122.yunjijd.xyz/api/v1/client/subscribe?token=0df88f1330313b6a03e26e106ef60c7c
-https://156.224.78.44:10086/api/v1/client/subscribe?token=e33b82c7ebc3d56a0a9fe9b735c99e4e
-https://sub.cloxy.io/cloxy?token=fb96dd6ba36d6726e53109bd2e9907b7
-https://sub.cloxy.io/cloxy?token=b28d0c8d2f53e1987de5599a7f7b5ccd
+https://soonlink.xn--wqr30o34q.xn--io0a7i/api/v1/client/subscribe?token=b70b058dbb065e824b3c92f878a68b1a
 http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
 https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
-https://aaa.flylink.cyou/api/v1/client/subscribe?token=e798eeb421744e88ec0e862b37d5e1b2
 https://aaa.flylink.cyou/api/v1/client/subscribe?token=4997d5747db18c67ebe9010bf194d8f6
-https://bbq.mcwy.xyz/api/v1/client/subscribe?token=PdJ8xNRMTarL2mIZ
+https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
+https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
+https://156.224.78.44:10086/api/v1/client/subscribe?token=e33b82c7ebc3d56a0a9fe9b735c99e4e
