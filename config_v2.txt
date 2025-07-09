@@ -1,2 +1,0 @@
-https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/v2ray
-https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/trojan.txt
