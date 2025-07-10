@@ -1,25 +1,21 @@
 -- play_list --
 
-可用流量: 894.73 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-可用流量: 985.69 GB https://x0z68.xiaoqingwa.xyz/link/vjHNF28hBgCnTEQv?list=shadowrocket
-可用流量: 985.69 GB https://x0z68.xiaoqingwa.xyz/link/vjHNF28hBgCnTEQv?clash=1
-可用流量: 591.87 GB https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=97688d1bfd46029c2551833bffc56217
-可用流量: 155.11 GB https://slimy-janine-lirtpass-0136632c.koyeb.app/share/sub/dingyueCenter20250710post.yaml?token=WLa9_Kov5yi8XBjW8IHn3
-可用流量: 83.93 GB https://156.224.78.44:10086/api/v1/client/subscribe?token=1cb4af8dcdf3ce98cdc587fa5b9609e8
-可用流量: 284.79 GB https://sub.cloxy.io/cloxy?token=b28d0c8d2f53e1987de5599a7f7b5ccd
+可用流量: 583.41 GB https://1122.yunjijd.xyz/api/v1/client/subscribe?token=2a64cf7e7a6e1465abbade3a3ed32ff3
+可用流量: 894.47 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+可用流量: 591.83 GB https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=97688d1bfd46029c2551833bffc56217
+可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 412.11 GB https://1122.yunjijd.xyz/api/v1/client/subscribe?token=13343394fd788ed97031b3883a81df00
+可用流量: 484.13 GB https://sub.xn--vpn-3f0h822m.com/s/175c73526711f7a539e47e6e9efe3b39
+可用流量: 973.56 GB https://x0z68.xiaoqingwa.xyz/link/vjHNF28hBgCnTEQv?sub=3
 可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 985.69 GB https://x0z68.xiaoqingwa.xyz/link/vjHNF28hBgCnTEQv?sub=3
-可用流量: 195.84 GB https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
 
 -- sub_list --
 
+https://1122.yunjijd.xyz/api/v1/client/subscribe?token=2a64cf7e7a6e1465abbade3a3ed32ff3
 https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-https://x0z68.xiaoqingwa.xyz/link/vjHNF28hBgCnTEQv?list=shadowrocket
-https://x0z68.xiaoqingwa.xyz/link/vjHNF28hBgCnTEQv?clash=1
 https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=97688d1bfd46029c2551833bffc56217
-https://slimy-janine-lirtpass-0136632c.koyeb.app/share/sub/dingyueCenter20250710post.yaml?token=WLa9_Kov5yi8XBjW8IHn3
-https://156.224.78.44:10086/api/v1/client/subscribe?token=1cb4af8dcdf3ce98cdc587fa5b9609e8
-https://sub.cloxy.io/cloxy?token=b28d0c8d2f53e1987de5599a7f7b5ccd
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+https://1122.yunjijd.xyz/api/v1/client/subscribe?token=13343394fd788ed97031b3883a81df00
+https://sub.xn--vpn-3f0h822m.com/s/175c73526711f7a539e47e6e9efe3b39
 https://x0z68.xiaoqingwa.xyz/link/vjHNF28hBgCnTEQv?sub=3
-https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
