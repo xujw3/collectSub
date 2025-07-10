@@ -1,3 +1,1 @@
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
-https://zzixnr-jdpvkg-8299.app.cloudstudio.work/sub/mihomo.yaml
