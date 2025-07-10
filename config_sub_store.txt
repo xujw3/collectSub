@@ -1,27 +1,29 @@
 -- play_list --
 
-可用流量: 514.77 GB https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=97688d1bfd46029c2551833bffc56217
+可用流量: 887.11 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+可用流量: 194.56 GB https://img.xn--9kq279fa.xyz/static/159a15017deb1ecee49a4b6f9fe8a780
 可用流量: 502.02 GB https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
-可用流量: 194.73 GB https://img.xn--9kq279fa.xyz/static/159a15017deb1ecee49a4b6f9fe8a780
-可用流量: 81.46 GB https://sub.cloudtaste.xyz/tastegood/dd5ee3dd3dfc3a934bbb7d3badc3ab34
-可用流量: 887.41 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-可用流量: 791.42 GB https://x0z68.xiaoqingwa.xyz/link/vjHNF28hBgCnTEQv?sub=3
-可用流量: 195.84 GB https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
-可用流量: 791.42 GB https://x0z68.xiaoqingwa.xyz/link/vjHNF28hBgCnTEQv?list=shadowrocket
-可用流量: 105.4 GB https://sub.xn--vpn-3f0h822m.com/s/175c73526711f7a539e47e6e9efe3b39
-可用流量: 791.42 GB https://x0z68.xiaoqingwa.xyz/link/vjHNF28hBgCnTEQv?clash=1
-可用流量: 50.53 GB https://86d5c6e1-4154-4799-a63d-6970e15167e8.abyssvpn.xyz/Abyss/0bcde090d8dfd7c8f891c342962efefd
+可用流量: 782.0 GB https://x0z68.xiaoqingwa.xyz/link/vjHNF28hBgCnTEQv?clash=1
+可用流量: 281.05 GB https://sub.cloxy.io/cloxy?token=b28d0c8d2f53e1987de5599a7f7b5ccd
+可用流量: 65.25 GB https://156.224.78.44:10086/api/v1/client/subscribe?token=1cb4af8dcdf3ce98cdc587fa5b9609e8
+可用流量: 782.0 GB https://x0z68.xiaoqingwa.xyz/link/vjHNF28hBgCnTEQv?list=shadowrocket
+可用流量: 782.0 GB https://x0z68.xiaoqingwa.xyz/link/vjHNF28hBgCnTEQv?sub=3
+可用流量: 87.1 GB https://sub.xn--vpn-3f0h822m.com/s/175c73526711f7a539e47e6e9efe3b39
+可用流量: 610.56 GB https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
+可用流量: 38.8 GB https://86d5c6e1-4154-4799-a63d-6970e15167e8.abyssvpn.xyz/Abyss/0bcde090d8dfd7c8f891c342962efefd
+可用流量: 81.07 GB https://sub.cloudtaste.xyz/tastegood/dd5ee3dd3dfc3a934bbb7d3badc3ab34
 
 -- sub_list --
 
-https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=97688d1bfd46029c2551833bffc56217
-https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
-https://img.xn--9kq279fa.xyz/static/159a15017deb1ecee49a4b6f9fe8a780
-https://sub.cloudtaste.xyz/tastegood/dd5ee3dd3dfc3a934bbb7d3badc3ab34
 https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-https://x0z68.xiaoqingwa.xyz/link/vjHNF28hBgCnTEQv?sub=3
-https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
-https://x0z68.xiaoqingwa.xyz/link/vjHNF28hBgCnTEQv?list=shadowrocket
-https://sub.xn--vpn-3f0h822m.com/s/175c73526711f7a539e47e6e9efe3b39
+https://img.xn--9kq279fa.xyz/static/159a15017deb1ecee49a4b6f9fe8a780
+https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
 https://x0z68.xiaoqingwa.xyz/link/vjHNF28hBgCnTEQv?clash=1
+https://sub.cloxy.io/cloxy?token=b28d0c8d2f53e1987de5599a7f7b5ccd
+https://156.224.78.44:10086/api/v1/client/subscribe?token=1cb4af8dcdf3ce98cdc587fa5b9609e8
+https://x0z68.xiaoqingwa.xyz/link/vjHNF28hBgCnTEQv?list=shadowrocket
+https://x0z68.xiaoqingwa.xyz/link/vjHNF28hBgCnTEQv?sub=3
+https://sub.xn--vpn-3f0h822m.com/s/175c73526711f7a539e47e6e9efe3b39
+https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
 https://86d5c6e1-4154-4799-a63d-6970e15167e8.abyssvpn.xyz/Abyss/0bcde090d8dfd7c8f891c342962efefd
+https://sub.cloudtaste.xyz/tastegood/dd5ee3dd3dfc3a934bbb7d3badc3ab34
