@@ -1,3 +1,2 @@
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
 https://www.gzcloud.shop/api/gzcloud/cd18569a86e083d2853f412dfcf7c0b0
