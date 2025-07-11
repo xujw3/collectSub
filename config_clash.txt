@@ -1,1 +1,2 @@
-https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
+https://raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
+https://86d5c6e1-4154-4799-a63d-6970e15167e8.abyssvpn.xyz/Abyss/0bcde090d8dfd7c8f891c342962efefd
