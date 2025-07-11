@@ -1,17 +1,9 @@
 -- play_list --
 
-可用流量: 163.68 GB https://img.xn--9kq279fa.xyz/static/159a15017deb1ecee49a4b6f9fe8a780
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 991.67 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=b96f2d3ab6bfe0e350ac2ce96fb2da33
+可用流量: 990.87 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=b96f2d3ab6bfe0e350ac2ce96fb2da33
 可用流量: 195.84 GB https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
-可用流量: 95.13 GB https://sub.cloudtaste.xyz/tastegood/67900f726a822ac2fa57a0a17f364177
-可用流量: 878.54 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
 
 -- sub_list --
 
-https://img.xn--9kq279fa.xyz/static/159a15017deb1ecee49a4b6f9fe8a780
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
 https://wy.flylink.cyou/api/v1/client/subscribe?token=b96f2d3ab6bfe0e350ac2ce96fb2da33
 https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
-https://sub.cloudtaste.xyz/tastegood/67900f726a822ac2fa57a0a17f364177
-https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
