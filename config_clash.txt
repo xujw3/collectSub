@@ -1,4 +1,7 @@
+https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
+https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
-https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
+https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
 https://zzixnr-jdpvkg-8299.app.cloudstudio.work/sub/mihomo.yaml
+https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
