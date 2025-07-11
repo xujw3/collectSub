@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
+https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
