@@ -1,11 +1,11 @@
 -- play_list --
 
-可用流量: 827.79 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-可用流量: 195.84 GB https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
 可用流量: 502.02 GB https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
+可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 45.73 GB http://admin.vip.edu.kg/s/963d7d43fa61d7fbf9cd9384b698b2e2
 
 -- sub_list --
 
-https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
 https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
+https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+http://admin.vip.edu.kg/s/963d7d43fa61d7fbf9cd9384b698b2e2
