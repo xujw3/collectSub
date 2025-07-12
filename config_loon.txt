@@ -1,7 +1,2 @@
-https://update.glados-config.com/mihomo/583650/aba6e82/154946/glados.yaml
-https://update.glados-config.com/mihomo/617175/d5af177/185672/glados.yaml
-https://update.glados-config.com/mihomo/598350/34aa7ee/110453/glados.yaml
 https://update.glados-config.com/mihomo/583645/19a6e7d/154942/glados.yaml
-https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
-https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-https://sub.cloudtaste.xyz/tastegood/cae60c19d1964f8e32acc3a2af5d3670
+https://update.glados-config.com/mihomo/583649/e7a6e81/154944/glados.yaml
