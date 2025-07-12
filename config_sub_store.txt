@@ -1,17 +1,27 @@
 -- play_list --
 
-可用流量: 946.75 GB https://user.flylink.cyou/api/v1/client/subscribe?token=d1dee445175ba19cca8e33319e3468e1
-可用流量: 409.98 GB https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
-可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
-可用流量: 831.35 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+可用流量: 195.84 GB https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
+可用流量: 945.07 GB https://user.flylink.cyou/api/v1/client/subscribe?token=d1dee445175ba19cca8e33319e3468e1
+可用流量: 829.77 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
 可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 49.25 GB http://admin.vip.edu.kg/s/dad0a29fa2951eac756ce28038370f12
+可用流量: 69.3 GB http://admin.vip.edu.kg/s/ac823c4b87b0e58702f9f11df6f71184
+可用流量: 90.36 GB http://admin.vip.edu.kg/s/bcea8ea1d6d982c8e644ef1c93f6e93d
+可用流量: 45.84 GB http://admin.vip.edu.kg/s/963d7d43fa61d7fbf9cd9384b698b2e2
 可用流量: 502.02 GB https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
+可用流量: 53.67 GB https://sub.cloudtaste.xyz/tastegood/cae60c19d1964f8e32acc3a2af5d3670
+可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
 
 -- sub_list --
 
+https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
 https://user.flylink.cyou/api/v1/client/subscribe?token=d1dee445175ba19cca8e33319e3468e1
-https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
-https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
 https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
 https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+http://admin.vip.edu.kg/s/dad0a29fa2951eac756ce28038370f12
+http://admin.vip.edu.kg/s/ac823c4b87b0e58702f9f11df6f71184
+http://admin.vip.edu.kg/s/bcea8ea1d6d982c8e644ef1c93f6e93d
+http://admin.vip.edu.kg/s/963d7d43fa61d7fbf9cd9384b698b2e2
 https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
+https://sub.cloudtaste.xyz/tastegood/cae60c19d1964f8e32acc3a2af5d3670
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
