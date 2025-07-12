@@ -1,33 +1,25 @@
 -- play_list --
 
-可用流量: 866.96 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-可用流量: 203.14 GB https://update.glados-config.com/mihomo/617175/d5af177/185672/glados.yaml
-可用流量: 502.02 GB https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
 可用流量: 594.05 GB https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
-可用流量: 96.71 GB http://admin.vip.edu.kg/s/ac823c4b87b0e58702f9f11df6f71184
-可用流量: 412.68 GB https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
-可用流量: 991.14 GB https://user.flylink.cyou/api/v1/client/subscribe?token=d1dee445175ba19cca8e33319e3468e1
-可用流量: 84.58 GB https://sub.cloudtaste.xyz/tastegood/cae60c19d1964f8e32acc3a2af5d3670
-可用流量: 196.02 GB https://update.glados-config.com/mihomo/583651/93a6e83/154948/glados.yaml
-可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 194.92 GB https://update.glados-config.com/mihomo/583645/19a6e7d/154942/glados.yaml
+可用流量: 189.11 GB https://update.glados-config.com/mihomo/583649/e7a6e81/154944/glados.yaml
 可用流量: 195.84 GB https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
-可用流量: 131.24 GB https://update.glados-config.com/mihomo/598350/34aa7ee/110453/glados.yaml
-可用流量: 185.74 GB https://update.glados-config.com/mihomo/581476/5fa6604/141612/glados.yaml
-可用流量: 117.54 GB https://update.glados-config.com/mihomo/583644/6ea6e7c/154938/glados.yaml
+可用流量: 199.01 GB https://update.glados-config.com/mihomo/581472/cda6600/154955/glados.yaml
+可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+可用流量: 84.39 GB https://sub.cloudtaste.xyz/tastegood/cae60c19d1964f8e32acc3a2af5d3670
+可用流量: 502.02 GB https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
+可用流量: 96.71 GB http://admin.vip.edu.kg/s/ac823c4b87b0e58702f9f11df6f71184
+可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
 
 -- sub_list --
 
-https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-https://update.glados-config.com/mihomo/617175/d5af177/185672/glados.yaml
-https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
 https://xqsub.e54.site/api/v1/client/subscribe?token=f9a0e66dc9eef209c217306cfc04d151
-http://admin.vip.edu.kg/s/ac823c4b87b0e58702f9f11df6f71184
-https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
-https://user.flylink.cyou/api/v1/client/subscribe?token=d1dee445175ba19cca8e33319e3468e1
-https://sub.cloudtaste.xyz/tastegood/cae60c19d1964f8e32acc3a2af5d3670
-https://update.glados-config.com/mihomo/583651/93a6e83/154948/glados.yaml
-https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+https://update.glados-config.com/mihomo/583645/19a6e7d/154942/glados.yaml
+https://update.glados-config.com/mihomo/583649/e7a6e81/154944/glados.yaml
 https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
-https://update.glados-config.com/mihomo/598350/34aa7ee/110453/glados.yaml
-https://update.glados-config.com/mihomo/581476/5fa6604/141612/glados.yaml
-https://update.glados-config.com/mihomo/583644/6ea6e7c/154938/glados.yaml
+https://update.glados-config.com/mihomo/581472/cda6600/154955/glados.yaml
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+https://sub.cloudtaste.xyz/tastegood/cae60c19d1964f8e32acc3a2af5d3670
+https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
+http://admin.vip.edu.kg/s/ac823c4b87b0e58702f9f11df6f71184
+https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
