@@ -1,1 +1,2 @@
 https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml
+https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
