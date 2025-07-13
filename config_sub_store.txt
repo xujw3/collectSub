@@ -1,19 +1,31 @@
 -- play_list --
 
-可用流量: 1904.88 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=fa3579bd26bf7d098fda60e2f4311705
-可用流量: 1941.96 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=ba3afee2d4f0d8bfd2f1e869b4fb3786
-可用流量: 940.53 GB https://user.flylink.cyou/api/v1/client/subscribe?token=d1dee445175ba19cca8e33319e3468e1
-可用流量: 89.93 GB http://admin.vip.edu.kg/s/bcea8ea1d6d982c8e644ef1c93f6e93d
-可用流量: 45.31 GB http://admin.vip.edu.kg/s/963d7d43fa61d7fbf9cd9384b698b2e2
-可用流量: 46.32 GB https://sub.cloudtaste.xyz/tastegood/cae60c19d1964f8e32acc3a2af5d3670
-可用流量: 44.44 GB http://admin.vip.edu.kg/s/dad0a29fa2951eac756ce28038370f12
+可用流量: 198.15 GB https://1a.xg-hub.icu/api/v1/client/subscribe?token=e1264f50f2252b9a69d894e2b00b667b
+可用流量: 195.84 GB https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
+可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
+可用流量: 1903.39 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=fa3579bd26bf7d098fda60e2f4311705
+可用流量: 431.41 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=566a3e6f70e6684ea566b4b2c667d9f9
+可用流量: 936.74 GB https://user.flylink.cyou/api/v1/client/subscribe?token=d1dee445175ba19cca8e33319e3468e1
+可用流量: 407.55 GB https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
+可用流量: 43.42 GB http://admin.vip.edu.kg/s/963d7d43fa61d7fbf9cd9384b698b2e2
+可用流量: 43.65 GB http://admin.vip.edu.kg/s/dad0a29fa2951eac756ce28038370f12
+可用流量: 472.21 GB https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=d117266c7d3ec61989bc6069fc6f8f24
+可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 63.01 GB http://admin.vip.edu.kg/s/ac823c4b87b0e58702f9f11df6f71184
+可用流量: 1941.81 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=ba3afee2d4f0d8bfd2f1e869b4fb3786
 
 -- sub_list --
 
+https://1a.xg-hub.icu/api/v1/client/subscribe?token=e1264f50f2252b9a69d894e2b00b667b
+https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
 https://mly1.543412546.xyz/api/v1/client/subscribe?token=fa3579bd26bf7d098fda60e2f4311705
-https://mly1.543412546.xyz/api/v1/client/subscribe?token=ba3afee2d4f0d8bfd2f1e869b4fb3786
+https://mly1.543412546.xyz/api/v1/client/subscribe?token=566a3e6f70e6684ea566b4b2c667d9f9
 https://user.flylink.cyou/api/v1/client/subscribe?token=d1dee445175ba19cca8e33319e3468e1
-http://admin.vip.edu.kg/s/bcea8ea1d6d982c8e644ef1c93f6e93d
+https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
 http://admin.vip.edu.kg/s/963d7d43fa61d7fbf9cd9384b698b2e2
-https://sub.cloudtaste.xyz/tastegood/cae60c19d1964f8e32acc3a2af5d3670
 http://admin.vip.edu.kg/s/dad0a29fa2951eac756ce28038370f12
+https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=d117266c7d3ec61989bc6069fc6f8f24
+https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+http://admin.vip.edu.kg/s/ac823c4b87b0e58702f9f11df6f71184
+https://mly1.543412546.xyz/api/v1/client/subscribe?token=ba3afee2d4f0d8bfd2f1e869b4fb3786
