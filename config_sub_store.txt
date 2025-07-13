@@ -1,25 +1,39 @@
 -- play_list --
 
-可用流量: 1985.36 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=d59585623733c8457e92baa39d300f27
-可用流量: 42.75 GB https://sub.cloudtaste.xyz/tastegood/cae60c19d1964f8e32acc3a2af5d3670
-可用流量: 814.34 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-可用流量: 502.02 GB https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
-可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 197.04 GB https://1a.xg-hub.icu/api/v1/client/subscribe?token=e1264f50f2252b9a69d894e2b00b667b
-可用流量: 328.82 GB https://vpn.huasuan666.top/api/v1/client/subscribe?token=3a53934da27b4d846783b9dd67f44d60
-可用流量: 471.87 GB https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=d117266c7d3ec61989bc6069fc6f8f24
-可用流量: 1858.89 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=94bcb9e5f22f45f0fe3dfe11a2d4bee3
+可用流量: 471.78 GB https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=d117266c7d3ec61989bc6069fc6f8f24
 可用流量: 374.97 GB http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
+可用流量: 502.02 GB https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
+可用流量: 407.25 GB https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
+可用流量: 43.49 GB http://admin.vip.edu.kg/s/dad0a29fa2951eac756ce28038370f12
+可用流量: 89.83 GB http://admin.vip.edu.kg/s/bcea8ea1d6d982c8e644ef1c93f6e93d
+可用流量: 358.82 GB http://suburl.tkrjc.xyz/suburl?token=2f17591a3c8e5e9cdd1258fa08b5d996
+可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 54.44 GB https://sub.cloudtaste.xyz/tastegood/333d9a706e3c5a37d1469b433a755ca3
+可用流量: 42.7 GB https://sub.cloudtaste.xyz/tastegood/cae60c19d1964f8e32acc3a2af5d3670
+可用流量: 37.94 GB http://admin.vip.edu.kg/s/963d7d43fa61d7fbf9cd9384b698b2e2
+可用流量: 194.55 GB https://1a.xg-hub.icu/api/v1/client/subscribe?token=e1264f50f2252b9a69d894e2b00b667b
+可用流量: 195.84 GB https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
+可用流量: 61.85 GB http://admin.vip.edu.kg/s/ac823c4b87b0e58702f9f11df6f71184
+可用流量: 814.14 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+可用流量: 328.66 GB https://vpn.huasuan666.top/api/v1/client/subscribe?token=3a53934da27b4d846783b9dd67f44d60
+可用流量: 935.36 GB https://user.flylink.cyou/api/v1/client/subscribe?token=d1dee445175ba19cca8e33319e3468e1
 
 -- sub_list --
 
-https://mly1.543412546.xyz/api/v1/client/subscribe?token=d59585623733c8457e92baa39d300f27
-https://sub.cloudtaste.xyz/tastegood/cae60c19d1964f8e32acc3a2af5d3670
-https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
-https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
-https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-https://1a.xg-hub.icu/api/v1/client/subscribe?token=e1264f50f2252b9a69d894e2b00b667b
-https://vpn.huasuan666.top/api/v1/client/subscribe?token=3a53934da27b4d846783b9dd67f44d60
 https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=d117266c7d3ec61989bc6069fc6f8f24
-https://mly1.543412546.xyz/api/v1/client/subscribe?token=94bcb9e5f22f45f0fe3dfe11a2d4bee3
 http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
+https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
+https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
+http://admin.vip.edu.kg/s/dad0a29fa2951eac756ce28038370f12
+http://admin.vip.edu.kg/s/bcea8ea1d6d982c8e644ef1c93f6e93d
+http://suburl.tkrjc.xyz/suburl?token=2f17591a3c8e5e9cdd1258fa08b5d996
+https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+https://sub.cloudtaste.xyz/tastegood/333d9a706e3c5a37d1469b433a755ca3
+https://sub.cloudtaste.xyz/tastegood/cae60c19d1964f8e32acc3a2af5d3670
+http://admin.vip.edu.kg/s/963d7d43fa61d7fbf9cd9384b698b2e2
+https://1a.xg-hub.icu/api/v1/client/subscribe?token=e1264f50f2252b9a69d894e2b00b667b
+https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
+http://admin.vip.edu.kg/s/ac823c4b87b0e58702f9f11df6f71184
+https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+https://vpn.huasuan666.top/api/v1/client/subscribe?token=3a53934da27b4d846783b9dd67f44d60
+https://user.flylink.cyou/api/v1/client/subscribe?token=d1dee445175ba19cca8e33319e3468e1
