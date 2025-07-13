@@ -1,33 +1,31 @@
 -- play_list --
 
-可用流量: 1940.91 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=ba3afee2d4f0d8bfd2f1e869b4fb3786
-可用流量: 374.97 GB http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
-可用流量: 42.67 GB http://admin.vip.edu.kg/s/dad0a29fa2951eac756ce28038370f12
+可用流量: 812.45 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+可用流量: 405.92 GB https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
+可用流量: 34.96 GB http://admin.vip.edu.kg/s/963d7d43fa61d7fbf9cd9384b698b2e2
+可用流量: 42.62 GB http://admin.vip.edu.kg/s/dad0a29fa2951eac756ce28038370f12
+可用流量: 3396.92 GB https://www.vanboss.work/api/v1/client/subscribe?token=1d924b05b06162cbdde9c854f439794b
+可用流量: 89.77 GB http://admin.vip.edu.kg/s/bcea8ea1d6d982c8e644ef1c93f6e93d
+可用流量: 928.48 GB https://user.flylink.cyou/api/v1/client/subscribe?token=d1dee445175ba19cca8e33319e3468e1
 可用流量: 931135406.23 GB https://xship.top/v1/subscribe?starlink=6KxKJp_Lrv6V1_zFRrvHXi41
-可用流量: 89.83 GB http://admin.vip.edu.kg/s/bcea8ea1d6d982c8e644ef1c93f6e93d
-可用流量: 50.23 GB https://sub.cloudtaste.xyz/tastegood/333d9a706e3c5a37d1469b433a755ca3
-可用流量: 43.79 GB http://8.138.34.87:3389/saccess/7d59d02565b6e744adc769a586d225ee
-可用流量: 462.15 GB https://fg88.whtjdasha.com/api/v1/client/subscribe?token=22ffc3562c82e17d5e48ac5265f9761b
-可用流量: 234.1 GB https://sub4.yunanyun.xyz/api/v1/client/subscribe?token=ef8558495c94d4e76623d3b9463a9ca4
-可用流量: 45.42 GB http://8.138.34.87:3389/saccess/ec068ec0b5b9e7f515b2a5da6fbb3798
-可用流量: 193.02 GB https://2c.xg-hub.icu/api/v1/client/subscribe?token=d759b0f0aec4ced4118543eb44a41da3
-可用流量: 1966.99 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=d59585623733c8457e92baa39d300f27
-可用流量: 321.81 GB https://vpn.huasuan666.top/api/v1/client/subscribe?token=3a53934da27b4d846783b9dd67f44d60
-可用流量: 1897.28 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=fa3579bd26bf7d098fda60e2f4311705
+可用流量: 502.02 GB https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
+可用流量: 997.36 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=8982d48a7c7833bf8988a758944a4fe2
+可用流量: 38.21 GB http://8.138.34.87:3389/saccess/7d59d02565b6e744adc769a586d225ee
+可用流量: 195.84 GB https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
+可用流量: 445.56 GB https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=d117266c7d3ec61989bc6069fc6f8f24
 
 -- sub_list --
 
-https://mly1.543412546.xyz/api/v1/client/subscribe?token=ba3afee2d4f0d8bfd2f1e869b4fb3786
-http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
+https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+https://sub.372372.xyz/api/v1/client/subscribe?token=024e356371111d8f84b0d93052868143
+http://admin.vip.edu.kg/s/963d7d43fa61d7fbf9cd9384b698b2e2
 http://admin.vip.edu.kg/s/dad0a29fa2951eac756ce28038370f12
-https://xship.top/v1/subscribe?starlink=6KxKJp_Lrv6V1_zFRrvHXi41
+https://www.vanboss.work/api/v1/client/subscribe?token=1d924b05b06162cbdde9c854f439794b
 http://admin.vip.edu.kg/s/bcea8ea1d6d982c8e644ef1c93f6e93d
-https://sub.cloudtaste.xyz/tastegood/333d9a706e3c5a37d1469b433a755ca3
+https://user.flylink.cyou/api/v1/client/subscribe?token=d1dee445175ba19cca8e33319e3468e1
+https://xship.top/v1/subscribe?starlink=6KxKJp_Lrv6V1_zFRrvHXi41
+https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
+https://wy.flylink.cyou/api/v1/client/subscribe?token=8982d48a7c7833bf8988a758944a4fe2
 http://8.138.34.87:3389/saccess/7d59d02565b6e744adc769a586d225ee
-https://fg88.whtjdasha.com/api/v1/client/subscribe?token=22ffc3562c82e17d5e48ac5265f9761b
-https://sub4.yunanyun.xyz/api/v1/client/subscribe?token=ef8558495c94d4e76623d3b9463a9ca4
-http://8.138.34.87:3389/saccess/ec068ec0b5b9e7f515b2a5da6fbb3798
-https://2c.xg-hub.icu/api/v1/client/subscribe?token=d759b0f0aec4ced4118543eb44a41da3
-https://mly1.543412546.xyz/api/v1/client/subscribe?token=d59585623733c8457e92baa39d300f27
-https://vpn.huasuan666.top/api/v1/client/subscribe?token=3a53934da27b4d846783b9dd67f44d60
-https://mly1.543412546.xyz/api/v1/client/subscribe?token=fa3579bd26bf7d098fda60e2f4311705
+https://www.gzcloud.shop/api/gzcloud/a486118147f00d2efd3c6d921536b261
+https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=d117266c7d3ec61989bc6069fc6f8f24
