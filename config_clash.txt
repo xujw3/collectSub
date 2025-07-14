@@ -1,5 +1,3 @@
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml
-https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
-https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
-https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
+https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
+https://sub.cloudtaste.xyz/tastegood/b6713a93d35fe3786c1c535160826aea
