@@ -1,19 +1,15 @@
 -- play_list --
 
-可用流量: 591.77 GB https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=bac52fe68dc27e139a21ea0b91ac14c2
-可用流量: 999.93 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=887f6488515321b34939e1288e8cf708
-可用流量: 199.4 GB https://1a.xg-hub.icu/api/v1/client/subscribe?token=0e40f2eb1aa3ef01cb66d860f8d33aee
-可用流量: 489.49 GB http://ml10.hfhfb.homes/api/v1/client/subscribe?token=9a36feea42c3f0f99f2d4885e300a5c9
-可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-可用流量: 795.89 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+可用流量: 93.43 GB https://loopycloudcfjiasucdn.xx.kg/api/a71888f81c48fed12d9fb1b737464734
 可用流量: 497.32 GB https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
+可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 38.38 GB https://another1.264869.xyz/another/dy?token=58581ec8dbd8ee799482b05bbcc8d16e
+可用流量: 199.32 GB https://2c.xg-hub.icu/api/v1/client/subscribe?token=55c36a9cb5e3a39a8b477acd52a38e66
 
 -- sub_list --
 
-https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=bac52fe68dc27e139a21ea0b91ac14c2
-https://bbb.flylink.cyou/api/v1/client/subscribe?token=887f6488515321b34939e1288e8cf708
-https://1a.xg-hub.icu/api/v1/client/subscribe?token=0e40f2eb1aa3ef01cb66d860f8d33aee
-http://ml10.hfhfb.homes/api/v1/client/subscribe?token=9a36feea42c3f0f99f2d4885e300a5c9
-https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
-https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+https://loopycloudcfjiasucdn.xx.kg/api/a71888f81c48fed12d9fb1b737464734
 https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
+https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+https://another1.264869.xyz/another/dy?token=58581ec8dbd8ee799482b05bbcc8d16e
+https://2c.xg-hub.icu/api/v1/client/subscribe?token=55c36a9cb5e3a39a8b477acd52a38e66
