@@ -1,31 +1,25 @@
 -- play_list --
 
-可用流量: 581.44 GB https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=bac52fe68dc27e139a21ea0b91ac14c2
-可用流量: 1872.09 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=fa3579bd26bf7d098fda60e2f4311705
-可用流量: 483.7 GB http://ml10.hfhfb.homes/api/v1/client/subscribe?token=9a36feea42c3f0f99f2d4885e300a5c9
-可用流量: 990.62 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=887f6488515321b34939e1288e8cf708
 可用流量: 192.24 GB https://1a.xg-hub.icu/api/v1/client/subscribe?token=35fece68da1c5f4661749989705cf915
-可用流量: 175.42 GB https://1a.xg-hub.icu/api/v1/client/subscribe?token=03608f759b9e202527c37b3c5a5b60a5
-可用流量: 185.16 GB https://1a.xg-hub.icu/api/v1/client/subscribe?token=0e40f2eb1aa3ef01cb66d860f8d33aee
-可用流量: 496.31 GB https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
-可用流量: 481.11 GB http://ml10.hfhfb.homes/api/v1/client/subscribe?token=5801ef9b9aee100cc4fe358363035bcd
-可用流量: 358.82 GB http://suburl.tkrjc.xyz/suburl?token=2f17591a3c8e5e9cdd1258fa08b5d996
+可用流量: 1871.87 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=fa3579bd26bf7d098fda60e2f4311705
+可用流量: 1937.17 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=ba3afee2d4f0d8bfd2f1e869b4fb3786
 可用流量: 374.97 GB http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
-可用流量: 1937.18 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=ba3afee2d4f0d8bfd2f1e869b4fb3786
-可用流量: 999.59 GB https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+可用流量: 781.06 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+可用流量: 1809.33 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=94bcb9e5f22f45f0fe3dfe11a2d4bee3
+可用流量: 1757.99 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=d59585623733c8457e92baa39d300f27
+可用流量: 581.35 GB https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=bac52fe68dc27e139a21ea0b91ac14c2
+可用流量: 496.31 GB https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
+可用流量: 29.37 GB https://another1.264869.xyz/another/dy?token=58581ec8dbd8ee799482b05bbcc8d16e
 
 -- sub_list --
 
-https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=bac52fe68dc27e139a21ea0b91ac14c2
-https://mly1.543412546.xyz/api/v1/client/subscribe?token=fa3579bd26bf7d098fda60e2f4311705
-http://ml10.hfhfb.homes/api/v1/client/subscribe?token=9a36feea42c3f0f99f2d4885e300a5c9
-https://bbb.flylink.cyou/api/v1/client/subscribe?token=887f6488515321b34939e1288e8cf708
 https://1a.xg-hub.icu/api/v1/client/subscribe?token=35fece68da1c5f4661749989705cf915
-https://1a.xg-hub.icu/api/v1/client/subscribe?token=03608f759b9e202527c37b3c5a5b60a5
-https://1a.xg-hub.icu/api/v1/client/subscribe?token=0e40f2eb1aa3ef01cb66d860f8d33aee
-https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
-http://ml10.hfhfb.homes/api/v1/client/subscribe?token=5801ef9b9aee100cc4fe358363035bcd
-http://suburl.tkrjc.xyz/suburl?token=2f17591a3c8e5e9cdd1258fa08b5d996
-http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
+https://mly1.543412546.xyz/api/v1/client/subscribe?token=fa3579bd26bf7d098fda60e2f4311705
 https://mly1.543412546.xyz/api/v1/client/subscribe?token=ba3afee2d4f0d8bfd2f1e869b4fb3786
-https://wanmeiwl1.xyz/gywl/f1205dd97b180cd2b0afadbd0908de11
+http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
+https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+https://mly1.543412546.xyz/api/v1/client/subscribe?token=94bcb9e5f22f45f0fe3dfe11a2d4bee3
+https://mly1.543412546.xyz/api/v1/client/subscribe?token=d59585623733c8457e92baa39d300f27
+https://qqww.yunjijd.xyz/api/v1/client/subscribe?token=bac52fe68dc27e139a21ea0b91ac14c2
+https://getinfo.bigbigwatermelon.com/s?token=bb52b959895375cc9d224d8937d1a8db
+https://another1.264869.xyz/another/dy?token=58581ec8dbd8ee799482b05bbcc8d16e
