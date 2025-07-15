@@ -1,5 +1,6 @@
-https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml
-https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
-https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
+https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://sub.cloudtaste.xyz/tastegood/cceb7b9626d0a269739d55cafea8b384
+https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml
+https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
+https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
+https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
