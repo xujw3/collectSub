@@ -1,10 +1,5 @@
-https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
-https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
-https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
 https://abffbd64.jego.vip/subscribe/mihomo/dc86f3052559c8e222d6c2f5e9904578
-https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
-https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
-https://raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
+https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
+https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
 https://gist.github.com/go4sharing/3ac45a5b829f245b9cbb7122dc4ec43d/raw/1597e0b653bf8790561ed283fbc39888180e8b90/gistfile1.txt
