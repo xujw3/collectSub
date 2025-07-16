@@ -1,5 +1,7 @@
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
+https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
+https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
+https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
 https://gist.github.com/go4sharing/3ac45a5b829f245b9cbb7122dc4ec43d/raw/1597e0b653bf8790561ed283fbc39888180e8b90/gistfile1.txt
 https://abffbd64.jego.vip/subscribe/mihomo/dc86f3052559c8e222d6c2f5e9904578
-https://sub.cloudtaste.xyz/tastegood/b6713a93d35fe3786c1c535160826aea
 https://sub.cloudtaste.xyz/tastegood/cceb7b9626d0a269739d55cafea8b384
+https://sub.cloudtaste.xyz/tastegood/b6713a93d35fe3786c1c535160826aea
