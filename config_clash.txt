@@ -1,8 +1,3 @@
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
-https://sub-qq.jilian.store/api/jilian/9cb4c410e2e6e949c840b29576783368
-https://img.redbean.pro/static/0aafd8f38fd102573decdd730211ab93
-https://abffbd64.jego.vip/subscribe/mihomo/dc86f3052559c8e222d6c2f5e9904578
 https://raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
-https://sub.cloudtaste.xyz/tastegood/cceb7b9626d0a269739d55cafea8b384
-https://sub.cloudtaste.xyz/tastegood/b6713a93d35fe3786c1c535160826aea
+https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
+https://abffbd64.jego.vip/subscribe/mihomo/dc86f3052559c8e222d6c2f5e9904578
