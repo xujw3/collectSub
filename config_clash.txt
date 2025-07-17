@@ -1,3 +1,5 @@
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
+https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
 https://abffbd64.jego.vip/subscribe/mihomo/dc86f3052559c8e222d6c2f5e9904578
-https://sub-qq.jilian.store/api/jilian/9cb4c410e2e6e949c840b29576783368
+https://img.redbean.pro/static/0aafd8f38fd102573decdd730211ab93
+https://raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
