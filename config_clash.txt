@@ -1,1 +1,5 @@
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
+https://sub.cloudtaste.xyz/tastegood/b6713a93d35fe3786c1c535160826aea
+https://sub.cloudtaste.xyz/tastegood/cceb7b9626d0a269739d55cafea8b384
+https://img.redbean.pro/static/0aafd8f38fd102573decdd730211ab93
+https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
