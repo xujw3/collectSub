@@ -1,6 +1,2 @@
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://sub-qq.jilian.store/api/jilian/9cb4c410e2e6e949c840b29576783368
-https://img.redbean.pro/static/0aafd8f38fd102573decdd730211ab93
 https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
-https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
-https://img.saigonfly.com/static/e268a9154c39afed2c5c8adcec996296
+https://img.redbean.pro/static/0aafd8f38fd102573decdd730211ab93
