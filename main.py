@@ -86,69 +86,168 @@ async def get_channel_urls(channel_url, session):
 
 async def sub_check(url, session):
     """
-    检查订阅链接的有效性：
+    改进的订阅检查函数：
       - 判断响应头中的 subscription-userinfo 用于机场订阅
       - 判断内容中是否包含 'proxies:' 判定 clash 订阅
-      - 尝试 base64 解码判断 v2 订阅（识别 ss://、ssr://、vmess://、trojan://）
+      - 尝试 base64 解码判断 v2 订阅（识别 ss://、ssr://、vmess://、trojan://、vless://）
+      - 增加重试机制和更好的错误处理
     返回一个字典：{"url": ..., "type": ..., "info": ...}
     """
-    headers = {'User-Agent': 'ClashforWindows/0.18.1'}
-    try:
-        async with session.get(url, headers=headers, timeout=10) as response:
-            if response.status == 200:
-                text = await response.text()
-                result = {"url": url, "type": None, "info": None}
-                # 判断机场订阅（检查流量信息）
-                sub_info = response.headers.get('subscription-userinfo')
-                if sub_info:
-                    nums = re.findall(r'\d+', sub_info)
-                    if len(nums) >= 3:
-                        upload, download, total = map(int, nums[:3])
-                        unused = (total - upload - download) / (1024 ** 3)
-                        if unused > 0:
-                            result["type"] = "机场订阅"
-                            result["info"] = f"可用流量: {round(unused, 2)} GB"
+    headers = {
+        'User-Agent': 'ClashforWindows/0.18.1',
+        'Accept': '*/*',
+        'Accept-Encoding': 'gzip, deflate'
+    }
+    
+    # 重试机制
+    for attempt in range(2):
+        try:
+            async with session.get(url, headers=headers, timeout=12) as response:
+                if response.status == 200:
+                    text = await response.text()
+                    
+                    # 检查内容是否为空或过短
+                    if not text or len(text.strip()) < 10:
+                        logger.debug(f"订阅 {url} 内容为空或过短")
+                        return None
+                    
+                    result = {"url": url, "type": None, "info": None}
+                    
+                    # 判断机场订阅（检查流量信息）
+                    sub_info = response.headers.get('subscription-userinfo')
+                    if sub_info:
+                        nums = re.findall(r'\d+', sub_info)
+                        if len(nums) >= 3:
+                            upload, download, total = map(int, nums[:3])
+                            if total > 0:  # 确保总流量大于0
+                                unused = (total - upload - download) / (1024 ** 3)
+                                if unused > 0:
+                                    result["type"] = "机场订阅"
+                                    result["info"] = f"可用流量: {round(unused, 2)} GB"
+                                    return result
+                    
+                    # 判断 clash 订阅 - 更严格的检查
+                    if "proxies:" in text and ("name:" in text or "server:" in text):
+                        proxy_count = text.count("- name:")
+                        if proxy_count > 0:
+                            result["type"] = "clash订阅"
+                            result["info"] = f"包含 {proxy_count} 个节点"
                             return result
-                # 判断 clash 订阅
-                if "proxies:" in text:
-                    result["type"] = "clash订阅"
-                    return result
-                # 判断 v2 订阅，通过 base64 解码检测
-                try:
-                    sample = text[:64]
-                    decoded = base64.b64decode(sample).decode('utf-8', errors='ignore')
-                    if any(proto in decoded for proto in ['ss://', 'ssr://', 'vmess://', 'trojan://']):
-                        result["type"] = "v2订阅"
-                        return result
-                except Exception:
-                    pass
-                # 若都不满足，则返回未知类型但视为有效
-                result["type"] = "未知订阅"
-                return result
-            else:
-                logger.warning(f"订阅检查 {url} 返回状态 {response.status}")
-                return None
-    except Exception as e:
-        logger.error(f"订阅检查 {url} 异常: {e}")
-        return None
+                    
+                    # 判断 v2 订阅，通过 base64 解码检测
+                    try:
+                        # 尝试解码整个内容
+                        decoded = base64.b64decode(text).decode('utf-8', errors='ignore')
+                        protocols = ['ss://', 'ssr://', 'vmess://', 'trojan://', 'vless://']
+                        found_protocols = [proto for proto in protocols if proto in decoded]
+                        
+                        if found_protocols:
+                            node_count = sum(decoded.count(proto) for proto in found_protocols)
+                            if node_count > 0:
+                                result["type"] = "v2订阅"
+                                result["info"] = f"包含 {node_count} 个节点"
+                                return result
+                    except Exception:
+                        pass
+                    
+                    # 检查是否是原始格式的v2订阅
+                    protocols = ['ss://', 'ssr://', 'vmess://', 'trojan://', 'vless://']
+                    found_protocols = [proto for proto in protocols if proto in text]
+                    if found_protocols:
+                        node_count = sum(text.count(proto) for proto in found_protocols)
+                        if node_count > 0:
+                            result["type"] = "v2订阅"
+                            result["info"] = f"包含 {node_count} 个节点"
+                            return result
+                    
+                    # 如果内容看起来像配置但不匹配已知格式，记录调试信息
+                    if len(text) > 100:
+                        logger.debug(f"订阅 {url} 内容不匹配已知格式，长度: {len(text)}")
+                    
+                    return None
+                    
+                elif response.status in [403, 404, 410, 500]:
+                    # 这些状态码通常表示永久失败
+                    logger.debug(f"订阅检查 {url} 返回状态 {response.status}")
+                    return None
+                else:
+                    logger.warning(f"订阅检查 {url} 返回状态 {response.status}")
+                    if attempt == 0:  # 第一次失败，重试
+                        await asyncio.sleep(1)
+                        continue
+                    return None
+                    
+        except asyncio.TimeoutError:
+            logger.debug(f"订阅检查 {url} 超时，尝试 {attempt + 1}/2")
+            if attempt == 0:
+                await asyncio.sleep(1)
+                continue
+        except Exception as e:
+            logger.debug(f"订阅检查 {url} 异常: {e}，尝试 {attempt + 1}/2")
+            if attempt == 0:
+                await asyncio.sleep(1)
+                continue
+    
+    return None
 
 # -------------------------------
 # 节点有效性检测（根据多个检测入口）
 # -------------------------------
 async def url_check_valid(url, target, session):
     """
+    改进的节点有效性检测：
     通过遍历多个检测入口检查订阅节点有效性，
-    如果任一检测返回状态 200，则认为该节点有效。
+    不仅检查状态码，还验证返回内容的有效性。
     """
     encoded_url = quote(url, safe='')
+    
     for check_base in CHECK_URL_LIST:
         check_url = CHECK_NODE_URL_STR.format(check_base, target, encoded_url)
         try:
-            async with session.get(check_url, timeout=15) as resp:
+            async with session.get(check_url, timeout=20) as resp:
                 if resp.status == 200:
-                    return url
-        except Exception:
+                    content = await resp.text()
+                    
+                    # 检查返回内容是否有效
+                    if not content or len(content.strip()) < 50:
+                        logger.debug(f"节点检测 {url} 在 {check_base} 返回内容过短")
+                        continue
+                    
+                    # 根据目标类型验证内容
+                    if target == "clash":
+                        if "proxies:" in content and ("name:" in content or "server:" in content):
+                            proxy_count = content.count("- name:")
+                            if proxy_count > 0:
+                                logger.debug(f"节点检测 {url} 在 {check_base} 成功，包含 {proxy_count} 个节点")
+                                return url
+                    elif target == "loon":
+                        # Loon格式通常包含[Proxy]段落
+                        if "[Proxy]" in content or "=" in content:
+                            logger.debug(f"节点检测 {url} 在 {check_base} 成功 (Loon格式)")
+                            return url
+                    elif target == "v2ray":
+                        # V2Ray格式可能是JSON或其他格式
+                        if len(content.strip()) > 100:  # 基本长度检查
+                            logger.debug(f"节点检测 {url} 在 {check_base} 成功 (V2Ray格式)")
+                            return url
+                    else:
+                        # 其他格式，基本长度检查
+                        if len(content.strip()) > 100:
+                            logger.debug(f"节点检测 {url} 在 {check_base} 成功")
+                            return url
+                    
+                    logger.debug(f"节点检测 {url} 在 {check_base} 内容格式不匹配")
+                else:
+                    logger.debug(f"节点检测 {url} 在 {check_base} 返回状态 {resp.status}")
+                    
+        except asyncio.TimeoutError:
+            logger.debug(f"节点检测 {url} 在 {check_base} 超时")
             continue
+        except Exception as e:
+            logger.debug(f"节点检测 {url} 在 {check_base} 异常: {e}")
+            continue
+    
+    logger.debug(f"节点检测 {url} 在所有检测点都失败")
     return None
 
 # -------------------------------
@@ -171,9 +270,29 @@ async def check_subscriptions(urls):
     异步检查所有订阅链接的有效性，
     返回检查结果列表，每个结果为字典 {url, type, info}
     """
+    if not urls:
+        return []
+    
     results = []
-    async with aiohttp.ClientSession() as session:
-        tasks = [sub_check(url, session) for url in urls]
+    # 创建连接器，限制并发连接数
+    connector = aiohttp.TCPConnector(
+        limit=100,
+        limit_per_host=20,
+        ttl_dns_cache=300,
+        use_dns_cache=True,
+    )
+    
+    timeout = aiohttp.ClientTimeout(total=30, connect=10)
+    
+    async with aiohttp.ClientSession(connector=connector, timeout=timeout) as session:
+        # 使用信号量限制并发数
+        semaphore = asyncio.Semaphore(50)
+        
+        async def check_single(url):
+            async with semaphore:
+                return await sub_check(url, session)
+        
+        tasks = [check_single(url) for url in urls]
         for coro in tqdm(asyncio.as_completed(tasks), total=len(tasks), desc="订阅筛选"):
             res = await coro
             if res:
