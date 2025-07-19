@@ -136,32 +136,37 @@ async def sub_check(url, session):
                     
                     # 判断 v2 订阅，通过 base64 解码检测
                     try:
-                        # 先检查是否看起来像base64编码
-                        if len(text) > 20 and all(c in 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=\n\r' for c in text.strip()):
-                            # 尝试解码整个内容
-                            decoded = base64.b64decode(text.strip()).decode('utf-8', errors='ignore')
-                            protocols = ['ss://', 'ssr://', 'vmess://', 'trojan://', 'vless://']
-                            found_protocols = [proto for proto in protocols if proto in decoded]
-                            
-                            if found_protocols:
-                                node_count = sum(decoded.count(proto) for proto in found_protocols)
-                                if node_count > 0:
-                                    result["type"] = "v2订阅"
-                                    result["info"] = f"包含 {node_count} 个节点 (base64)"
-                                    logger.debug(f"订阅 {url} 识别为base64编码的v2订阅，包含 {node_count} 个节点")
-                                    return result
-                            else:
-                                # 即使没有找到协议，如果解码后内容合理，也可能是有效的
-                                if len(decoded.strip()) > 50 and '\n' in decoded:
-                                    # 可能是其他格式的节点配置
-                                    lines = [line.strip() for line in decoded.split('\n') if line.strip()]
-                                    if len(lines) > 0:
+                        # 检查是否可能是base64编码（更宽松的检查）
+                        text_clean = text.strip().replace('\n', '').replace('\r', '')
+                        if len(text_clean) > 20:
+                            try:
+                                # 尝试解码
+                                decoded = base64.b64decode(text_clean).decode('utf-8', errors='ignore')
+                                protocols = ['ss://', 'ssr://', 'vmess://', 'trojan://', 'vless://']
+                                found_protocols = [proto for proto in protocols if proto in decoded]
+                                
+                                if found_protocols:
+                                    node_count = sum(decoded.count(proto) for proto in found_protocols)
+                                    if node_count > 0:
                                         result["type"] = "v2订阅"
-                                        result["info"] = f"包含 {len(lines)} 行配置 (base64)"
-                                        logger.debug(f"订阅 {url} 识别为base64编码的配置文件")
+                                        result["info"] = f"包含 {node_count} 个节点 (base64)"
+                                        logger.debug(f"订阅 {url} 识别为base64编码的v2订阅，包含 {node_count} 个节点")
                                         return result
+                                else:
+                                    # 检查解码后是否包含配置关键字
+                                    config_keywords = ['server', 'port', 'password', 'method', 'host', 'path']
+                                    if any(keyword in decoded.lower() for keyword in config_keywords):
+                                        lines = [line.strip() for line in decoded.split('\n') if line.strip()]
+                                        if len(lines) > 0:
+                                            result["type"] = "v2订阅"
+                                            result["info"] = f"包含 {len(lines)} 行配置 (base64)"
+                                            logger.debug(f"订阅 {url} 识别为base64编码的配置文件")
+                                            return result
+                            except Exception:
+                                # base64解码失败，继续其他检查
+                                pass
                     except Exception as e:
-                        logger.debug(f"订阅 {url} base64解码失败: {e}")
+                        logger.debug(f"订阅 {url} base64检测异常: {e}")
                         pass
                     
                     # 检查是否是原始格式的v2订阅
@@ -175,20 +180,6 @@ async def sub_check(url, session):
                             logger.debug(f"订阅 {url} 识别为原始格式的v2订阅")
                             return result
                     
-                    # 最后检查：如果内容看起来像base64但解码后没有找到已知协议
-                    # 仍然可能是有效的订阅（比如某些特殊格式）
-                    if (len(text) > 100 and 
-                        len(text.strip()) % 4 == 0 and  # base64长度特征
-                        all(c in 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=\n\r' for c in text.strip())):
-                        try:
-                            decoded = base64.b64decode(text.strip()).decode('utf-8', errors='ignore')
-                            if len(decoded.strip()) > 20:
-                                result["type"] = "v2订阅"
-                                result["info"] = f"base64编码内容 ({len(decoded)} 字符)"
-                                logger.debug(f"订阅 {url} 识别为可能的base64编码订阅")
-                                return result
-                        except:
-                            pass
                     
                     # 如果内容看起来像配置但不匹配已知格式，记录调试信息
                     if len(text) > 100:
