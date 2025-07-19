@@ -1,3 +1,2 @@
-https://sub-qq.jilian.store/api/jilian/9cb4c410e2e6e949c840b29576783368
+https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://img.saigonfly.com/static/e268a9154c39afed2c5c8adcec996296
-https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
