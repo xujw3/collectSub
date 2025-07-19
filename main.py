@@ -299,18 +299,27 @@ async def check_subscriptions(urls):
                 results.append(res)
     return results
 
-async def check_nodes(urls, target):
+async def check_nodes(urls, target, session):
     """
     异步检查每个订阅节点的有效性，
     返回检测有效的节点 URL 列表
     """
+    if not urls:
+        return []
+    
     valid_urls = []
-    async with aiohttp.ClientSession() as session:
-        tasks = [url_check_valid(url, target, session) for url in urls]
-        for coro in tqdm(asyncio.as_completed(tasks), total=len(tasks), desc="节点检测"):
-            res = await coro
-            if res:
-                valid_urls.append(res)
+    # 使用信号量限制并发数
+    semaphore = asyncio.Semaphore(20)  # 节点检测并发数较低，避免被封
+    
+    async def check_single_node(url):
+        async with semaphore:
+            return await url_check_valid(url, target, session)
+    
+    tasks = [check_single_node(url) for url in urls]
+    for coro in tqdm(asyncio.as_completed(tasks), total=len(tasks), desc=f"检测{target}节点"):
+        res = await coro
+        if res:
+            valid_urls.append(res)
     return valid_urls
 
 def write_url_list(url_list, file_path):
@@ -322,55 +331,186 @@ def write_url_list(url_list, file_path):
 # -------------------------------
 # 主函数入口
 # -------------------------------
+async def validate_existing_subscriptions(config, session):
+    """验证现有订阅的有效性，移除失效订阅"""
+    logger.info("🔍 开始验证现有订阅的有效性...")
+    
+    all_existing_urls = []
+    
+    # 提取所有现有订阅URL
+    for category in ["机场订阅", "clash订阅", "v2订阅"]:
+        for item in config.get(category, []):
+            if isinstance(item, str) and item.strip():
+                all_existing_urls.append((item.strip(), category))
+    
+    # 从开心玩耍中提取URL
+    for item in config.get("开心玩耍", []):
+        if isinstance(item, str) and item.strip():
+            url_match = re.search(r'https?://[^\s]+', item)
+            if url_match:
+                all_existing_urls.append((url_match.group(), "开心玩耍"))
+    
+    if not all_existing_urls:
+        logger.info("📝 没有现有订阅需要验证")
+        return {"机场订阅": [], "clash订阅": [], "v2订阅": [], "开心玩耍": []}
+    
+    logger.info(f"📊 需要验证 {len(all_existing_urls)} 个现有订阅")
+    
+    # 使用信号量限制并发
+    semaphore = asyncio.Semaphore(30)
+    
+    async def check_single_existing(url_info):
+        url, category = url_info
+        async with semaphore:
+            result = await sub_check(url, session)
+            return (url, category, result)
+    
+    valid_existing = {"机场订阅": [], "clash订阅": [], "v2订阅": [], "开心玩耍": []}
+    tasks = [check_single_existing(url_info) for url_info in all_existing_urls]
+    
+    for coro in tqdm(asyncio.as_completed(tasks), total=len(tasks), desc="验证现有订阅"):
+        url, category, result = await coro
+        if result:
+            if result["type"] == "机场订阅":
+                valid_existing["机场订阅"].append(url)
+                if result["info"]:
+                    valid_existing["开心玩耍"].append(f'{result["info"]} {url}')
+            elif result["type"] == "clash订阅":
+                valid_existing["clash订阅"].append(url)
+            elif result["type"] == "v2订阅":
+                valid_existing["v2订阅"].append(url)
+    
+    # 统计验证结果
+    total_original = len(all_existing_urls)
+    total_valid = sum(len(valid_existing[cat]) for cat in ["机场订阅", "clash订阅", "v2订阅"])
+    
+    logger.info(f"✅ 现有订阅验证完成: {total_original} → {total_valid} (有效率: {total_valid/total_original*100:.1f}%)")
+    
+    return valid_existing
+
 async def main():
     config_path = 'config.yaml'
+    
+    logger.info("🚀 开始订阅管理流程...")
+    logger.info("=" * 60)
+    
+    # 加载现有配置
     config = load_yaml_config(config_path)
-
-    # 使用单个 ClientSession 获取 Telegram 频道订阅链接
-    async with aiohttp.ClientSession() as session:
+    
+    # 统计原始数据
+    original_counts = {}
+    for category in ["机场订阅", "clash订阅", "v2订阅", "开心玩耍"]:
+        original_counts[category] = len(config.get(category, []))
+    
+    logger.info("📊 原始配置统计:")
+    for category, count in original_counts.items():
+        logger.info(f"   {category}: {count:,} 个")
+    
+    # 创建优化的会话
+    connector = aiohttp.TCPConnector(
+        limit=100,
+        limit_per_host=20,
+        ttl_dns_cache=300,
+        use_dns_cache=True,
+    )
+    timeout = aiohttp.ClientTimeout(total=30, connect=10)
+    
+    async with aiohttp.ClientSession(connector=connector, timeout=timeout) as session:
+        
+        # 第一步：验证现有订阅
+        logger.info("\n🔍 第一步：验证现有订阅")
+        logger.info("-" * 40)
+        valid_existing = await validate_existing_subscriptions(config, session)
+        
+        # 第二步：获取新的订阅链接
+        logger.info("\n📡 第二步：获取新的订阅链接")
+        logger.info("-" * 40)
         today_urls = await update_today_sub(session)
-    logger.info(f"从 Telegram 频道获得 {len(today_urls)} 个链接")
-
-    # 异步检查订阅链接的有效性
-    sub_results = await check_subscriptions(today_urls)
-    # 根据检查结果按类型分类
-    subs   = [res["url"] for res in sub_results if res and res["type"] == "机场订阅"]
-    clash  = [res["url"] for res in sub_results if res and res["type"] == "clash订阅"]
-    v2     = [res["url"] for res in sub_results if res and res["type"] == "v2订阅"]
-    play   = [f'{res["info"]} {res["url"]}' for res in sub_results if res and res["type"] == "机场订阅" and res["info"]]
-    print("subs:",subs)
-    print("clash:",clash)
-    print("v2:",v2)
-    print("play:",play)
-    # 合并并更新配置（与原有数据合并）
-    config["机场订阅"] = sorted(list(set(config.get("机场订阅", []) + subs)))
-    config["clash订阅"] = sorted(list(set(config.get("clash订阅", []) + clash)))
-    config["v2订阅"] = sorted(list(set(config.get("v2订阅", []) + v2)))
-    config["开心玩耍"] = sorted(list(set(config.get("开心玩耍", []) + play)))
-    save_yaml_config(config, config_path)
-    logger.info("配置文件已更新。")
-
-    # 写入订阅存储文件（包含流量信息和机场订阅链接）
-    sub_store_file = config_path.replace('.yaml', '_sub_store.txt')
-    content = "-- play_list --\n\n" + "\n".join(play) + "\n\n-- sub_list --\n\n" + "\n".join(subs)
-    with open(sub_store_file, 'w', encoding='utf-8') as f:
-        f.write(content)
-    logger.info(f"订阅存储文件已保存至 {sub_store_file}")
-
-    # 检测“机场订阅”中节点的有效性（例如目标 target 为 "loon"）
-    valid_nodes = await check_nodes(subs, "loon")
-    valid_file = config_path.replace('.yaml', '_loon.txt')
-    write_url_list(valid_nodes, valid_file)
-
-    # 检测“机场订阅”中节点的有效性（例如目标 target 为 "clash"）
-    valid_nodes = await check_nodes(clash, "clash")
-    valid_file = config_path.replace('.yaml', '_clash.txt')
-    write_url_list(valid_nodes, valid_file)
-
-    # 检测“机场订阅”中节点的有效性（例如目标 target 为 "clash"）
-    valid_nodes = await check_nodes(v2, "v2ray")
-    valid_file = config_path.replace('.yaml', '_v2.txt')
-    write_url_list(valid_nodes, valid_file)
+        logger.info(f"📥 从 Telegram 频道获得 {len(today_urls)} 个新链接")
+        
+        # 第三步：检查新订阅的有效性
+        logger.info("\n🔍 第三步：检查新订阅有效性")
+        logger.info("-" * 40)
+        new_results = await check_subscriptions(today_urls)
+        
+        # 分类新订阅
+        new_subs = [res["url"] for res in new_results if res and res["type"] == "机场订阅"]
+        new_clash = [res["url"] for res in new_results if res and res["type"] == "clash订阅"]
+        new_v2 = [res["url"] for res in new_results if res and res["type"] == "v2订阅"]
+        new_play = [f'{res["info"]} {res["url"]}' for res in new_results 
+                   if res and res["type"] == "机场订阅" and res["info"]]
+        
+        logger.info(f"✅ 新增有效订阅: 机场{len(new_subs)}个, clash{len(new_clash)}个, v2{len(new_v2)}个")
+        
+        # 第四步：合并有效订阅
+        logger.info("\n🔄 第四步：合并有效订阅")
+        logger.info("-" * 40)
+        
+        final_config = {
+            "机场订阅": sorted(list(set(valid_existing["机场订阅"] + new_subs))),
+            "clash订阅": sorted(list(set(valid_existing["clash订阅"] + new_clash))),
+            "v2订阅": sorted(list(set(valid_existing["v2订阅"] + new_v2))),
+            "开心玩耍": sorted(list(set(valid_existing["开心玩耍"] + new_play))),
+            "tgchannel": config.get("tgchannel", [])  # 保留频道配置
+        }
+        
+        # 统计最终结果
+        logger.info("📈 最终统计对比:")
+        total_original = sum(original_counts.values())
+        total_final = sum(len(final_config[cat]) for cat in ["机场订阅", "clash订阅", "v2订阅", "开心玩耍"])
+        
+        for category in ["机场订阅", "clash订阅", "v2订阅", "开心玩耍"]:
+            original = original_counts[category]
+            final = len(final_config[category])
+            change = final - original
+            change_str = f"(+{change})" if change > 0 else f"({change})" if change < 0 else "(=)"
+            logger.info(f"   {category}: {original:,} → {final:,} {change_str}")
+        
+        logger.info(f"📊 总体: {total_original:,} → {total_final:,} "
+                   f"(清理率: {(total_original-total_final)/total_original*100:.1f}%)")
+        
+        # 保存更新后的配置
+        save_yaml_config(final_config, config_path)
+        logger.info("💾 配置文件已更新")
+        
+        # 第五步：生成输出文件
+        logger.info("\n📝 第五步：生成输出文件")
+        logger.info("-" * 40)
+        
+        # 写入订阅存储文件
+        sub_store_file = config_path.replace('.yaml', '_sub_store.txt')
+        content = ("-- play_list --\n\n" + 
+                  "\n".join(final_config["开心玩耍"]) + 
+                  "\n\n-- sub_list --\n\n" + 
+                  "\n".join(final_config["机场订阅"]))
+        with open(sub_store_file, 'w', encoding='utf-8') as f:
+            f.write(content)
+        logger.info(f"📄 订阅存储文件已保存: {sub_store_file}")
+        
+        # 第六步：检测节点有效性
+        logger.info("\n🔍 第六步：检测节点有效性")
+        logger.info("-" * 40)
+        
+        # 检测机场订阅节点
+        if final_config["机场订阅"]:
+            valid_loon = await check_nodes(final_config["机场订阅"], "loon", session)
+            loon_file = config_path.replace('.yaml', '_loon.txt')
+            write_url_list(valid_loon, loon_file)
+        
+        # 检测clash订阅节点
+        if final_config["clash订阅"]:
+            valid_clash = await check_nodes(final_config["clash订阅"], "clash", session)
+            clash_file = config_path.replace('.yaml', '_clash.txt')
+            write_url_list(valid_clash, clash_file)
+        
+        # 检测v2订阅节点
+        if final_config["v2订阅"]:
+            valid_v2 = await check_nodes(final_config["v2订阅"], "v2ray", session)
+            v2_file = config_path.replace('.yaml', '_v2.txt')
+            write_url_list(valid_v2, v2_file)
+    
+    logger.info("\n🎉 订阅管理流程完成！")
+    logger.info("=" * 60)
 
 if __name__ == '__main__':
     asyncio.run(main())
