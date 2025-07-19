@@ -1,2 +1,3 @@
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
+https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
+https://gist.github.com/go4sharing/3ac45a5b829f245b9cbb7122dc4ec43d/raw/1597e0b653bf8790561ed283fbc39888180e8b90/gistfile1.txt
 https://img.saigonfly.com/static/e268a9154c39afed2c5c8adcec996296
