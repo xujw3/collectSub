@@ -1,4 +1,2 @@
 https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
-https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
-https://img.redbean.pro/static/0aafd8f38fd102573decdd730211ab93
 https://img.saigonfly.com/static/e268a9154c39afed2c5c8adcec996296
