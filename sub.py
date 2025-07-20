@@ -25,7 +25,7 @@ def postdata(data):
             {
                 'type': 'Script Operator',
                 'args': {
-                    'content': 'https://raw.githubusercontent.com/xujw3/other/refs/heads/main/rename.js#clear&flag#noCache',
+                    'content': 'https://raw.githubusercontent.com/xujw3/other/refs/heads/main/rename.js#clear&flag',
                     'mode': 'link',
                     'arguments': {
                         'clear': True,
