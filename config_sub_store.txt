@@ -1,29 +1,29 @@
 -- play_list --
 
-可用流量: 0.2 GB https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=04364bd7c6c818bc9ad86bd9983739c1
-可用流量: 100.0 GB https://sub-1.rsjc.xyz/rsjc/760e7cfd2f64d5d4fec86844ef20cb4b
-可用流量: 105.07 GB https://n67.688997.xyz/api/v1/client/subscribe?token=e459a686c275b9287264662739a10726
-可用流量: 114.65 GB https://www.xg-hub.icu/api/v1/client/subscribe?token=3951643530039dd159814a1cb33b659b
-可用流量: 128.87 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff?b64
-可用流量: 132.92 GB https://ne688.688997.xyz/api/v1/client/subscribe?token=825cc71759905835868b77543b2bd350
-可用流量: 145.26 GB https://ne997.688997.xyz/api/v1/client/subscribe?token=60134bd813885150097d655082b55a05
-可用流量: 208.5 GB https://ne688.688997.xyz/api/v1/client/subscribe?token=f7178fe1d22081bd2f3819fa5a959d49
-可用流量: 243.67 GB https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=f32350c82a01b364e0250785ad9897fd
-可用流量: 297.21 GB https://clck.ru/3MjhBu
+可用流量: 104.9 GB https://n67.688997.xyz/api/v1/client/subscribe?token=e459a686c275b9287264662739a10726
+可用流量: 114.28 GB https://www.xg-hub.icu/api/v1/client/subscribe?token=3951643530039dd159814a1cb33b659b
+可用流量: 131.42 GB https://ne688.688997.xyz/api/v1/client/subscribe?token=825cc71759905835868b77543b2bd350
+可用流量: 138.08 GB https://ne997.688997.xyz/api/v1/client/subscribe?token=60134bd813885150097d655082b55a05
+可用流量: 207.17 GB https://ne688.688997.xyz/api/v1/client/subscribe?token=f7178fe1d22081bd2f3819fa5a959d49
+可用流量: 22675.68 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff?b64
+可用流量: 22675.74 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff?b64
+可用流量: 243.62 GB https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=f32350c82a01b364e0250785ad9897fd
+可用流量: 297.05 GB https://clck.ru/3MjhBu
 可用流量: 358.82 GB http://suburl.tkrjc.xyz/suburl?token=2f17591a3c8e5e9cdd1258fa08b5d996
 可用流量: 374.97 GB http://suburl.tkrjc.xyz/suburl?token=32947968b78b0f03619c0d67ee167fbf
-可用流量: 4109.72 GB https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=4c409288a54caf5d44ab2a537f814bb8
-可用流量: 4571.61 GB https://9uc.buzz/v3/subscr?id=952797b621a04e66923930ef5c0efcdf
-可用流量: 527.49 GB https://user.flylink.cyou/api/v1/client/subscribe?token=d1dee445175ba19cca8e33319e3468e1
-可用流量: 572.19 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
+可用流量: 4109.31 GB https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=4c409288a54caf5d44ab2a537f814bb8
+可用流量: 4488.49 GB https://9uc.buzz/v3/subscr?id=952797b621a04e66923930ef5c0efcdf
+可用流量: 526.71 GB https://user.flylink.cyou/api/v1/client/subscribe?token=d1dee445175ba19cca8e33319e3468e1
+可用流量: 572.11 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
 可用流量: 60.43 GB https://yy-commitment.huaweioss.cloud/mo99/serve/axiba/gov?token=2c040f6498d20f1c3bf87b4d5c9bc67d
-可用流量: 637.11 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=772efc7caf64f0608218c5448c934a19
-可用流量: 717.73 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=d083596e273181d1fa67cb17ba532b08
-可用流量: 771.49 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=8982d48a7c7833bf8988a758944a4fe2
-可用流量: 798.65 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=775feffa75338cf492b1c2c4097b3c07
-可用流量: 847.92 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=9031a60d3611e9850ff19505f0ee0e2f
-可用流量: 881.59 GB https://user.flylink.cyou/api/v1/client/subscribe?token=d317a9cecd3ff4406c3d0150d1e1473e
-可用流量: 92.85 GB https://ierboryt.spphhnhg.top/link/oVxSoeJ0S3KqOmR3?clash=1
+可用流量: 636.51 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=772efc7caf64f0608218c5448c934a19
+可用流量: 715.65 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=d083596e273181d1fa67cb17ba532b08
+可用流量: 769.85 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=8982d48a7c7833bf8988a758944a4fe2
+可用流量: 798.26 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=775feffa75338cf492b1c2c4097b3c07
+可用流量: 846.85 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=9031a60d3611e9850ff19505f0ee0e2f
+可用流量: 880.69 GB https://user.flylink.cyou/api/v1/client/subscribe?token=d317a9cecd3ff4406c3d0150d1e1473e
+可用流量: 92.64 GB https://ierboryt.spphhnhg.top/link/oVxSoeJ0S3KqOmR3?clash=1
+可用流量: 99.38 GB https://sub-1.rsjc.xyz/rsjc/760e7cfd2f64d5d4fec86844ef20cb4b
 
 -- sub_list --
 
@@ -36,7 +36,6 @@ https://aaa.flylink.cyou/api/v1/client/subscribe?token=9031a60d3611e9850ff19505f
 https://bbb.flylink.cyou/api/v1/client/subscribe?token=775feffa75338cf492b1c2c4097b3c07
 https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0
 https://clck.ru/3MjhBu
-https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=04364bd7c6c818bc9ad86bd9983739c1
 https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=4c409288a54caf5d44ab2a537f814bb8
 https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=f32350c82a01b364e0250785ad9897fd
 https://ierboryt.spphhnhg.top/link/oVxSoeJ0S3KqOmR3?clash=1
