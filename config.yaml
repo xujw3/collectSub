@@ -3,6 +3,7 @@ clash订阅:
 - https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml
 - https://gist.github.com/go4sharing/3ac45a5b829f245b9cbb7122dc4ec43d/raw/1597e0b653bf8790561ed283fbc39888180e8b90/gistfile1.txt
 - https://gist.github.com/go4sharing/85b8d7efb26dd421edc5ed8bd11a5838/raw/69f39ebd482d73ce700fd8c35422863771bda052/gistfile1.txt
+- https://raw.githubusercontent.com/aiboboxx/clashfree/main/clash.yml
 - https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
 - https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
 - https://raw.githubusercontent.com/ripaojiedian/freenode/main/clash
@@ -178,81 +179,90 @@ v2订阅:
 - https://v2rayse.com/articles/mapping
 - https://www.evernote.com/l/AaF79psMKRZAOLA0IOrV8CQfjdssm_1f9N4/
 开心玩耍:
-- '可用流量: 11553.29 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff'
-- '可用流量: 11561.52 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff'
-- '可用流量: 11563.03 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff'
-- '可用流量: 11563.77 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff'
-- '可用流量: 11564.41 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff'
-- '可用流量: 11564.54 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff'
-- '可用流量: 11564.65 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff'
-- '可用流量: 11564.68 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff'
-- '可用流量: 11565.23 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff'
-- '可用流量: 1227.84 GB https://s1.byte16.com/api/v1/client/subscribe?token=45dc0e394fab30558f6b9363e1d1177b'
-- '可用流量: 131.39 GB https://www.xg-hub.icu/api/v1/client/subscribe?token=f14c98d702b7fbb5e7209142eae91310'
-- '可用流量: 134.01 GB https://ne688.688997.xyz/api/v1/client/subscribe?token=5dc9bf8746fbbd954ac416ecf80b1859'
-- '可用流量: 136.36 GB https://1a.xg-hub.icu/api/v1/client/subscribe?token=0e40f2eb1aa3ef01cb66d860f8d33aee'
-- '可用流量: 144.6 GB https://2c.xg-hub.icu/api/v1/client/subscribe?token=def900389254842a1994214a6a3b348c'
-- '可用流量: 148.32 GB https://www.xg-hub.icu/api/v1/client/subscribe?token=49c88ca60ed3df61e297736d3e8446d9'
+- '可用流量: 10776.6 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff'
+- '可用流量: 10799.54 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff'
+- '可用流量: 10799.69 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff'
+- '可用流量: 10800.62 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff'
+- '可用流量: 10800.65 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff'
+- '可用流量: 10800.71 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff'
+- '可用流量: 10800.79 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff'
+- '可用流量: 10800.8 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff'
+- '可用流量: 10800.94 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff'
+- '可用流量: 10801.11 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff'
+- '可用流量: 10801.12 GB https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff'
+- '可用流量: 1227.5 GB https://s1.byte16.com/api/v1/client/subscribe?token=45dc0e394fab30558f6b9363e1d1177b'
+- '可用流量: 130.48 GB https://ne688.688997.xyz/api/v1/client/subscribe?token=5dc9bf8746fbbd954ac416ecf80b1859'
+- '可用流量: 131.2 GB https://www.xg-hub.icu/api/v1/client/subscribe?token=f14c98d702b7fbb5e7209142eae91310'
+- '可用流量: 131.21 GB https://www.xg-hub.icu/api/v1/client/subscribe?token=f14c98d702b7fbb5e7209142eae91310'
+- '可用流量: 136.33 GB https://1a.xg-hub.icu/api/v1/client/subscribe?token=0e40f2eb1aa3ef01cb66d860f8d33aee'
+- '可用流量: 144.54 GB https://2c.xg-hub.icu/api/v1/client/subscribe?token=def900389254842a1994214a6a3b348c'
+- '可用流量: 148.12 GB https://www.xg-hub.icu/api/v1/client/subscribe?token=49c88ca60ed3df61e297736d3e8446d9'
+- '可用流量: 148.15 GB https://www.xg-hub.icu/api/v1/client/subscribe?token=49c88ca60ed3df61e297736d3e8446d9'
 - '可用流量: 165.52 GB https://2c.xg-hub.icu/api/v1/client/subscribe?token=fca28050a26e4665addd1e847f08801e'
-- '可用流量: 166.27 GB https://1a.xg-hub.icu/api/v1/client/subscribe?token=d99614e42637e1a3b014f215d0c2b98e'
-- '可用流量: 169.8 GB https://2c.xg-hub.icu/api/v1/client/subscribe?token=a824008eefedbfcc681fc53574866d5d'
-- '可用流量: 173.7 GB https://1a.xg-hub.icu/api/v1/client/subscribe?token=cf992e7e67311eb3367b1da4e7c0ba23'
-- '可用流量: 1739.22 GB https://sub.xn--2vxn29amga.com/s/2611e8695041c3c1f5fdf19aa56bb4bc'
-- '可用流量: 1739.64 GB https://sub.xn--2vxn29amga.com/s/2611e8695041c3c1f5fdf19aa56bb4bc'
-- '可用流量: 176.08 GB https://1a.xg-hub.icu/api/v1/client/subscribe?token=ad6dd492974edadbb9efe6e55b39dec9'
-- '可用流量: 180.18 GB https://2c.xg-hub.icu/api/v1/client/subscribe?token=889251f8f61c943d1391374ef400cab1'
-- '可用流量: 180.28 GB https://ne997.688997.xyz/api/v1/client/subscribe?token=dc97c40f01eae2ed112b52be19f56599'
-- '可用流量: 181.83 GB https://1a.xg-hub.icu/api/v1/client/subscribe?token=5b97b103433cc7eb4e9fd21256bd1ff2'
-- '可用流量: 184.44 GB https://ne997.688997.xyz/api/v1/client/subscribe?token=4002be5bd476f38549b54f96f9676469'
-- '可用流量: 184.52 GB https://ne688.688997.xyz/api/v1/client/subscribe?token=d24e4eaa000709486484e7b1d41a585a'
-- '可用流量: 186.68 GB https://1a.xg-hub.icu/api/v1/client/subscribe?token=3c282e3fea5c51f1461ac263b235e298'
-- '可用流量: 19.69 GB https://www.xg-hub.icu/api/v1/client/subscribe?token=3951643530039dd159814a1cb33b659b'
+- '可用流量: 166.05 GB https://1a.xg-hub.icu/api/v1/client/subscribe?token=d99614e42637e1a3b014f215d0c2b98e'
+- '可用流量: 169.04 GB https://2c.xg-hub.icu/api/v1/client/subscribe?token=a824008eefedbfcc681fc53574866d5d'
+- '可用流量: 1706.95 GB https://sub.xn--2vxn29amga.com/s/2611e8695041c3c1f5fdf19aa56bb4bc'
+- '可用流量: 1707.77 GB https://sub.xn--2vxn29amga.com/s/2611e8695041c3c1f5fdf19aa56bb4bc'
+- '可用流量: 173.67 GB https://1a.xg-hub.icu/api/v1/client/subscribe?token=cf992e7e67311eb3367b1da4e7c0ba23'
+- '可用流量: 175.98 GB https://1a.xg-hub.icu/api/v1/client/subscribe?token=ad6dd492974edadbb9efe6e55b39dec9'
+- '可用流量: 179.18 GB https://ne997.688997.xyz/api/v1/client/subscribe?token=dc97c40f01eae2ed112b52be19f56599'
+- '可用流量: 180.09 GB https://2c.xg-hub.icu/api/v1/client/subscribe?token=889251f8f61c943d1391374ef400cab1'
+- '可用流量: 181.78 GB https://1a.xg-hub.icu/api/v1/client/subscribe?token=5b97b103433cc7eb4e9fd21256bd1ff2'
+- '可用流量: 182.8 GB https://ne688.688997.xyz/api/v1/client/subscribe?token=d24e4eaa000709486484e7b1d41a585a'
+- '可用流量: 182.92 GB https://ne997.688997.xyz/api/v1/client/subscribe?token=4002be5bd476f38549b54f96f9676469'
+- '可用流量: 186.63 GB https://1a.xg-hub.icu/api/v1/client/subscribe?token=3c282e3fea5c51f1461ac263b235e298'
+- '可用流量: 19.38 GB https://ne688.688997.xyz/api/v1/client/subscribe?token=5584699da4ad349c24a3df49db963a59'
+- '可用流量: 19.56 GB https://ne688.688997.xyz/api/v1/client/subscribe?token=5584699da4ad349c24a3df49db963a59'
+- '可用流量: 19.59 GB https://www.xg-hub.icu/api/v1/client/subscribe?token=3951643530039dd159814a1cb33b659b'
 - '可用流量: 191.61 GB https://2c.xg-hub.icu/api/v1/client/subscribe?token=415d6882c2c0c1087a0673fb5a4611b8'
 - '可用流量: 194.82 GB https://2c.xg-hub.icu/api/v1/client/subscribe?token=f50ae039f9e0c35e839784373f49b7ab'
 - '可用流量: 196.85 GB https://2c.xg-hub.icu/api/v1/client/subscribe?token=adb45b30bf9e2b3c011546d460942754'
-- '可用流量: 1997.97 GB http://9uc.buzz/v3/subscr?id=952797b621a04e66923930ef5c0efcdf'
-- '可用流量: 1997.97 GB https://9uc.buzz/v3/subscr?id=952797b621a04e66923930ef5c0efcdf'
-- '可用流量: 215.82 GB https://vpn.huasuan666.top/api/v1/client/subscribe?token=5e601745d4af6b7107ebfeff2a86d823'
+- '可用流量: 1988.08 GB http://9uc.buzz/v3/subscr?id=952797b621a04e66923930ef5c0efcdf'
+- '可用流量: 1988.08 GB https://9uc.buzz/v3/subscr?id=952797b621a04e66923930ef5c0efcdf'
+- '可用流量: 215.77 GB https://vpn.huasuan666.top/api/v1/client/subscribe?token=5e601745d4af6b7107ebfeff2a86d823'
 - '可用流量: 241.41 GB https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=f32350c82a01b364e0250785ad9897fd'
-- '可用流量: 26.16 GB https://ne688.688997.xyz/api/v1/client/subscribe?token=5584699da4ad349c24a3df49db963a59'
-- '可用流量: 26.4 GB https://ne688.688997.xyz/api/v1/client/subscribe?token=5584699da4ad349c24a3df49db963a59'
-- '可用流量: 280.5 GB https://clck.ru/3MjhBu'
-- '可用流量: 284.03 GB https://ne688.688997.xyz/api/v1/client/subscribe?token=a38de9a2b88c48248687332ad9ef3996'
-- '可用流量: 338.85 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=772efc7caf64f0608218c5448c934a19'
-- '可用流量: 39.78 GB https://ne688.688997.xyz/api/v1/client/subscribe?token=f7178fe1d22081bd2f3819fa5a959d49'
-- '可用流量: 4088.17 GB https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=4c409288a54caf5d44ab2a537f814bb8'
-- '可用流量: 484.47 GB https://user.flylink.cyou/api/v1/client/subscribe?token=d1dee445175ba19cca8e33319e3468e1'
-- '可用流量: 490.47 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=12fd0c2f1422fb58fdac24311bd28af8'
-- '可用流量: 491.39 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0'
-- '可用流量: 491.4 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0'
-- '可用流量: 496.25 GB https://hz.dport.top/api/v1/client/subscribe?token=9bc33e3a487e60f60dcc8240f36f9000'
-- '可用流量: 496.28 GB https://hz.dport.top/api/v1/client/subscribe?token=9bc33e3a487e60f60dcc8240f36f9000'
-- '可用流量: 499.94 GB https://ml6.hfhfb.homes/api/v1/client/subscribe?token=85e9c09380fdb3ec23f547a465588b1b'
-- '可用流量: 509.49 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=7c9f10e3a06bed1b3b3a91bc1ab4a35c'
-- '可用流量: 515.55 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=b5d047404f52b5a7e5632a05e4dc5a2b'
-- '可用流量: 570.36 GB https://sh.dport.top/api/v1/client/subscribe?token=91b22c7be8b9f91934599d8726819aba'
+- '可用流量: 280.03 GB https://clck.ru/3MjhBu'
+- '可用流量: 284.01 GB https://ne688.688997.xyz/api/v1/client/subscribe?token=a38de9a2b88c48248687332ad9ef3996'
+- '可用流量: 338.22 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=772efc7caf64f0608218c5448c934a19'
+- '可用流量: 34.39 GB https://ne688.688997.xyz/api/v1/client/subscribe?token=f7178fe1d22081bd2f3819fa5a959d49'
+- '可用流量: 4088.13 GB https://d7b12d59-21aa-9561-087f-89c834ac7fe8.372372.xyz/api/v1/client/subscribe?token=4c409288a54caf5d44ab2a537f814bb8'
+- '可用流量: 484.41 GB https://user.flylink.cyou/api/v1/client/subscribe?token=d1dee445175ba19cca8e33319e3468e1'
+- '可用流量: 489.99 GB https://mly1.543412546.xyz/api/v1/client/subscribe?token=12fd0c2f1422fb58fdac24311bd28af8'
+- '可用流量: 491.27 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0'
+- '可用流量: 491.31 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=eb035db57f48ac5c5d5c9bcf2786dfd0'
+- '可用流量: 494.45 GB https://hz.dport.top/api/v1/client/subscribe?token=9bc33e3a487e60f60dcc8240f36f9000'
+- '可用流量: 499.88 GB https://ml6.hfhfb.homes/api/v1/client/subscribe?token=85e9c09380fdb3ec23f547a465588b1b'
+- '可用流量: 509.45 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=7c9f10e3a06bed1b3b3a91bc1ab4a35c'
+- '可用流量: 515.51 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=b5d047404f52b5a7e5632a05e4dc5a2b'
+- '可用流量: 569.87 GB https://sh.dport.top/api/v1/client/subscribe?token=91b22c7be8b9f91934599d8726819aba'
+- '可用流量: 569.97 GB https://sh.dport.top/api/v1/client/subscribe?token=91b22c7be8b9f91934599d8726819aba'
 - '可用流量: 576.93 GB https://sh.dport.top/api/v1/client/subscribe?token=d9b2e343b4039440511287e73bbbb687'
-- '可用流量: 594.43 GB https://sh.dport.top/api/v1/client/subscribe?token=8285acfb74c33fd25bd81154ea7044ef'
+- '可用流量: 594.42 GB https://sh.dport.top/api/v1/client/subscribe?token=8285acfb74c33fd25bd81154ea7044ef'
 - '可用流量: 596.56 GB https://gw.dport.top/api/v1/client/subscribe?token=84a4da5791a31071729ed5e93cd8c692'
 - '可用流量: 597.36 GB https://sh.dport.top/api/v1/client/subscribe?token=36998b09cb4d9d217a193bc9697c5284'
-- '可用流量: 598.25 GB https://hz.dport.top/api/v1/client/subscribe?token=401f8fe2b65f0e3012f5bc74fe8bb3a5'
+- '可用流量: 598.23 GB https://hz.dport.top/api/v1/client/subscribe?token=401f8fe2b65f0e3012f5bc74fe8bb3a5'
 - '可用流量: 599.47 GB https://hz.dport.top/api/v1/client/subscribe?token=471e987cadaca66380a157d1880e5650'
 - '可用流量: 60.43 GB https://yy-commitment.huaweioss.cloud/mo99/serve/axiba/gov?token=2c040f6498d20f1c3bf87b4d5c9bc67d'
-- '可用流量: 630.31 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=d083596e273181d1fa67cb17ba532b08'
-- '可用流量: 677.5 GB https://www.1112244.xyz/baipiao/cb3de016fc3a85ff30c5c8671600a0e5'
-- '可用流量: 702.48 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=8982d48a7c7833bf8988a758944a4fe2'
-- '可用流量: 760.4 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=07e24cac52f0057b9903fc422d617ecf'
-- '可用流量: 770.92 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=775feffa75338cf492b1c2c4097b3c07'
-- '可用流量: 779.76 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=9031a60d3611e9850ff19505f0ee0e2f'
-- '可用流量: 844.96 GB https://user.flylink.cyou/api/v1/client/subscribe?token=d317a9cecd3ff4406c3d0150d1e1473e'
-- '可用流量: 88.92 GB https://hs.huasuan666.top/api/v1/client/subscribe?token=d0c7a62abddcc8c072f364029510b5ec'
+- '可用流量: 630.21 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=d083596e273181d1fa67cb17ba532b08'
+- '可用流量: 630.25 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=d083596e273181d1fa67cb17ba532b08'
+- '可用流量: 66.84 GB https://xbox.crvesoft.top/s/91c7148d097869a98bc81dc0bd64eade'
+- '可用流量: 675.93 GB https://www.1112244.xyz/baipiao/cb3de016fc3a85ff30c5c8671600a0e5'
+- '可用流量: 675.96 GB https://www.1112244.xyz/baipiao/cb3de016fc3a85ff30c5c8671600a0e5'
+- '可用流量: 702.03 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=8982d48a7c7833bf8988a758944a4fe2'
+- '可用流量: 760.38 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=07e24cac52f0057b9903fc422d617ecf'
+- '可用流量: 770.8 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=775feffa75338cf492b1c2c4097b3c07'
+- '可用流量: 779.67 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=9031a60d3611e9850ff19505f0ee0e2f'
+- '可用流量: 844.93 GB https://user.flylink.cyou/api/v1/client/subscribe?token=d317a9cecd3ff4406c3d0150d1e1473e'
+- '可用流量: 88.35 GB https://hs.huasuan666.top/api/v1/client/subscribe?token=d0c7a62abddcc8c072f364029510b5ec'
 - '可用流量: 935.76 GB https://user.flylink.cyou/api/v1/client/subscribe?token=445e9f582a568b578fc02d849a62b0bf'
-- '可用流量: 940.68 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=b7e9d485f7668175e5d0e3e4326f3a1d'
-- '可用流量: 953.87 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=fe8a6326c94c65b4d7704b9806f3affc'
-- '可用流量: 962.59 GB https://user.flylink.cyou/api/v1/client/subscribe?token=0fe63331eb181f6adf9e50c1e04dc153'
+- '可用流量: 940.39 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=b7e9d485f7668175e5d0e3e4326f3a1d'
+- '可用流量: 940.42 GB https://bbb.flylink.cyou/api/v1/client/subscribe?token=b7e9d485f7668175e5d0e3e4326f3a1d'
+- '可用流量: 953.85 GB https://wy.flylink.cyou/api/v1/client/subscribe?token=fe8a6326c94c65b4d7704b9806f3affc'
+- '可用流量: 962.38 GB https://user.flylink.cyou/api/v1/client/subscribe?token=0fe63331eb181f6adf9e50c1e04dc153'
+- '可用流量: 962.39 GB https://user.flylink.cyou/api/v1/client/subscribe?token=0fe63331eb181f6adf9e50c1e04dc153'
 - '可用流量: 99.47 GB https://base64.bigwatermelon.org/s?token=6bd2964274968fcd0e5282fec90a3aa3'
-- '可用流量: 991.01 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=9b45ad24686cff1c671890dfce2cf413'
-- '可用流量: 9938615.38 GB https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9'
+- '可用流量: 991.0 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=9b45ad24686cff1c671890dfce2cf413'
+- '可用流量: 999.27 GB https://aaa.flylink.cyou/api/v1/client/subscribe?token=5aa3064a4aef7d1f53f55a1dcd921bf1'
 机场订阅:
 - http://9uc.buzz/v3/subscr?id=952797b621a04e66923930ef5c0efcdf
 - https://007.xingfu.qzz.io/d88937d0-ce43-4bf8-9df6-d632810ba9ff
@@ -270,6 +280,7 @@ v2订阅:
 - https://2c.xg-hub.icu/api/v1/client/subscribe?token=f50ae039f9e0c35e839784373f49b7ab
 - https://2c.xg-hub.icu/api/v1/client/subscribe?token=fca28050a26e4665addd1e847f08801e
 - https://9uc.buzz/v3/subscr?id=952797b621a04e66923930ef5c0efcdf
+- https://aaa.flylink.cyou/api/v1/client/subscribe?token=5aa3064a4aef7d1f53f55a1dcd921bf1
 - https://aaa.flylink.cyou/api/v1/client/subscribe?token=772efc7caf64f0608218c5448c934a19
 - https://aaa.flylink.cyou/api/v1/client/subscribe?token=9031a60d3611e9850ff19505f0ee0e2f
 - https://aaa.flylink.cyou/api/v1/client/subscribe?token=9b45ad24686cff1c671890dfce2cf413
@@ -296,7 +307,6 @@ v2订阅:
 - https://ne688.688997.xyz/api/v1/client/subscribe?token=f7178fe1d22081bd2f3819fa5a959d49
 - https://ne997.688997.xyz/api/v1/client/subscribe?token=4002be5bd476f38549b54f96f9676469
 - https://ne997.688997.xyz/api/v1/client/subscribe?token=dc97c40f01eae2ed112b52be19f56599
-- https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
 - https://s1.byte16.com/api/v1/client/subscribe?token=45dc0e394fab30558f6b9363e1d1177b
 - https://sh.dport.top/api/v1/client/subscribe?token=36998b09cb4d9d217a193bc9697c5284
 - https://sh.dport.top/api/v1/client/subscribe?token=8285acfb74c33fd25bd81154ea7044ef
@@ -316,4 +326,5 @@ v2订阅:
 - https://wy.flylink.cyou/api/v1/client/subscribe?token=8982d48a7c7833bf8988a758944a4fe2
 - https://wy.flylink.cyou/api/v1/client/subscribe?token=d083596e273181d1fa67cb17ba532b08
 - https://wy.flylink.cyou/api/v1/client/subscribe?token=fe8a6326c94c65b4d7704b9806f3affc
+- https://xbox.crvesoft.top/s/91c7148d097869a98bc81dc0bd64eade
 - https://yy-commitment.huaweioss.cloud/mo99/serve/axiba/gov?token=2c040f6498d20f1c3bf87b4d5c9bc67d
