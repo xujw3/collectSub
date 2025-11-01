@@ -1,3 +1,2 @@
-https://jnir.lightnright.com/sub/jnir_pub_11_no/7b71e18908c233c35422c60cf63c2bf4
-https://T5SvMV.prosubnet02.eu:8443/api/v1/client/bd97917149a3dc03cbcdb51e1fefaaeb
 https://wocao.su7.me/s/853d9326bb3f90bc1dc407431f1436d2
+https://jnir.lightnright.com/sub/jnir_pub_11_no/7b71e18908c233c35422c60cf63c2bf4
