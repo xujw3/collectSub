@@ -1,9 +1,9 @@
+https://shz.al/Ydcz
+https://shz.al/ZYWi
+https://shz.al/wpBe
 https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
-https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
-https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/super-sub.txt
 https://shz.al/NfWe
 https://shz.al/ERhB
 https://shz.al/X4dA
-https://shz.al/ZYWi
-https://shz.al/Ydcz
-https://shz.al/wpBe
+https://raw.githubusercontent.com/ssrsub/ssr/master/v2ray
+https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/super-sub.txt
