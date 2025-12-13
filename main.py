@@ -401,11 +401,11 @@ def deduplicate_urls_by_domain(url_list):
     # 保持输出顺序与原始列表的相对顺序一致（基于Python 3.7+的字典顺序）
     # 但由于原始列表是异步检查的结果，顺序可能不固定。
     # 这里我们直接返回字典的值列表，它们是按遇到顺序保留的最后一个。
-    deduped_urls = list(domain_to_url.values())
+    s = list(domain_to_url.values())
     
     logger.info(f"去重前链接数: {len(url_list)}, 去重后链接数: {len(deduped_urls)}")
     
-    return deduped_url
+    return deduped_urls
 # -------------------------------
 # 主函数入口
 # -------------------------------
