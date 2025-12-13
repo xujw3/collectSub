@@ -357,8 +357,10 @@ def write_url_list(url_list, file_path):
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write("\n".join(url_list))
     logger.info(f"已保存 {len(url_list)} 个链接到 {file_path}")
+from urllib.parse import urlparse
+
 # -------------------------------
-# 链接去重辅助函数
+# 链接去重辅助函数 (复用)
 # -------------------------------
 def get_domain(url):
     """提取 URL 的主域名（hostname）"""
@@ -383,26 +385,20 @@ def deduplicate_urls_by_domain(url_list):
     根据主域名对 URL 列表进行去重。
     保留列表中每个主域名下的 '最后一个' 链接。
     """
-    # 使用字典存储：{域名: 最后一个遇到的完整URL}
-    # 遍历列表时，后面的会覆盖前面的，正好实现“保留最后一个”
     domain_to_url = {}
     
-    # 因为您希望保留“最后一个”链接，所以我们按顺序遍历列表
     for url in url_list:
-        domain = get_domain(url)
-        # 如果域名有效且不是空字符串
+        # 对于 "开心玩耍" 列表，链接在字符串的末尾，需要先提取URL
+        cleaned_url = url.split(' ')[-1] if ' ' in url and 'http' in url else url
+        
+        domain = get_domain(cleaned_url)
         if domain:
-            domain_to_url[domain] = url
+            # 存储的是完整的原始字符串，以便保留 "可用流量: XX GB" 信息
+            domain_to_url[domain] = url 
         else:
-            # 如果无法解析域名，为了安全起见，保留原始链接
             domain_to_url[url] = url
             
-    # 字典的值就是去重后的且保留最后一个的 URL 列表
-    # 保持输出顺序与原始列表的相对顺序一致（基于Python 3.7+的字典顺序）
-    # 但由于原始列表是异步检查的结果，顺序可能不固定。
-    # 这里我们直接返回字典的值列表，它们是按遇到顺序保留的最后一个。
     deduped_urls = list(domain_to_url.values())
-    
     logger.info(f"去重前链接数: {len(url_list)}, 去重后链接数: {len(deduped_urls)}")
     
     return deduped_urls
@@ -524,11 +520,33 @@ async def main():
         logger.info("\n🔄 第四步：合并有效订阅")
         logger.info("-" * 40)
         
+        # 1. 初步合并和去重 (set() 自动去重)
+        merged_subs = sorted(list(set(valid_existing["机场订阅"] + new_subs)))
+        merged_clash = sorted(list(set(valid_existing["clash订阅"] + new_clash)))
+        merged_v2 = sorted(list(set(valid_existing["v2订阅"] + new_v2)))
+        merged_play = sorted(list(set(valid_existing["开心玩耍"] + new_play)))
+        
+        # 2. **新增：主域名去重**
+        logger.info("开始对 '机场订阅' 列表进行主域名去重...")
+        final_subs_deduped = deduplicate_urls_by_domain(merged_subs)
+        
+        # '开心玩耍' 包含流量信息，也需要去重
+        logger.info("开始对 '开心玩耍' 列表进行主域名去重...")
+        final_play_deduped = deduplicate_urls_by_domain(merged_play)
+        
+        # clash 和 v2 在这里不需要去重，因为它们会在第六步生成输出文件时再次去重
+        # 但为了保证 config.yaml 本身是干净的，也进行去重
+        logger.info("开始对 'clash订阅' 列表进行主域名去重...")
+        final_clash_deduped = deduplicate_urls_by_domain(merged_clash)
+        
+        logger.info("开始对 'v2订阅' 列表进行主域名去重...")
+        final_v2_deduped = deduplicate_urls_by_domain(merged_v2)
+        
         final_config = {
-            "机场订阅": sorted(list(set(valid_existing["机场订阅"] + new_subs))),
-            "clash订阅": sorted(list(set(valid_existing["clash订阅"] + new_clash))),
-            "v2订阅": sorted(list(set(valid_existing["v2订阅"] + new_v2))),
-            "开心玩耍": sorted(list(set(valid_existing["开心玩耍"] + new_play))),
+            "机场订阅": final_subs_deduped,
+            "clash订阅": final_clash_deduped,
+            "v2订阅": final_v2_deduped,
+            "开心玩耍": final_play_deduped,
             "tgchannel": config.get("tgchannel", [])  # 保留频道配置
         }
         
