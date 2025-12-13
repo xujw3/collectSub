@@ -1,8 +1,8 @@
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://90317953.ghelper.me/subs/mihomo/38bde7d790317953e25a75a1b33c6422
-https://gist.github.com/go4sharing/256ba0fc8a12ca81e1d556061f8b6fbd/raw/e6a323e04d1d5c66590f2ad7cbf8732382656f8b/gistfile1.txt
+https://update.glados-config.com/mihomo/568139/d8a31eb/57408/glados.yaml
 https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial.yaml
-https://x.juzi.lat/view.php?id=d02147208bd10b1f
+https://gist.github.com/go4sharing/d21555d607e3f395b7568b5f39c4fdd8/raw/99f21be91cb04b55c2d4286478158cee985afbdc/gistfile1.txt
+https://x.juzi.lat/view.php?id=8cb4f20db9fe1ed9
 https://cache.ravelloh.top/?uuid=cc980bc7-352e-d2d3-8059-eb91414f4a6e
+https://90317953.ghelper.me/subs/mihomo/38bde7d790317953e25a75a1b33c6422
 https://chromego-sub.netlify.app/sub/merged_proxies_new.yaml
 https://ciallo.775678.xyz/sc
