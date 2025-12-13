@@ -11,6 +11,7 @@ def postdata(data):
         'ignoreFailedRemoteSub': 'quiet',
         'passThroughUA': False,
         'icon': 'https://raw.githubusercontent.com/cc63/ICON/main/icons/AMY.png',
+        'isIconColor': True,
         'process': [
             {
                 'type': 'Quick Setting Operator',
@@ -35,6 +36,18 @@ def postdata(data):
                 'id': '36934923.422785416',
                 'disabled': True,
             },
+            {
+                'type': 'Handle Duplicate Operator',
+                'args': {
+                    'action': 'delete',
+                    'position': 'back',
+                    'template': '0 1 2 3 4 5 6 7 8 9',
+                    'link': '-',
+                },
+                'customName': '',
+                'id': '40664239.26595869',
+                'disabled': False,
+            },
         ],
         'subUserinfo': 'upload=1000000000000; download=1000000000000; total=100000000000000; expire=4115721600; reset_day=1; plan_name=VIP9; app_url=https://sub.xujw.dpdns.org/',
         'proxy': '',
@@ -46,6 +59,7 @@ def postdata(data):
         'url': data,
         'content': '',
         'ua': 'Clash Verge/1.7.1',
+        'subscriptions': [],
         'display-name': 'github抓取',
     }
     apiurl = os.getenv("APIURL")
