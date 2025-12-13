@@ -5,6 +5,7 @@ import yaml
 import os
 import base64
 from urllib.parse import quote
+from urllib.parse import urlparse
 from tqdm import tqdm
 from loguru import logger
 
@@ -356,7 +357,55 @@ def write_url_list(url_list, file_path):
     with open(file_path, 'w', encoding='utf-8') as f:
         f.write("\n".join(url_list))
     logger.info(f"已保存 {len(url_list)} 个链接到 {file_path}")
+# -------------------------------
+# 链接去重辅助函数
+# -------------------------------
+def get_domain(url):
+    """提取 URL 的主域名（hostname）"""
+    try:
+        # urlparse解析URL，获取网络位置（netloc），即域名+端口
+        netloc = urlparse(url).netloc
+        if not netloc:
+            # 如果netloc为空，可能不是一个完整的URL，尝试直接返回
+            return url
+        # 移除可能的端口号（如:8080）
+        domain = netloc.split(':')[0]
+        # 移除 www. 前缀
+        if domain.startswith('www.'):
+            domain = domain[4:]
+        return domain
+    except Exception as e:
+        logger.warning(f"无法解析 URL: {url}，异常: {e}")
+        return url
 
+def deduplicate_urls_by_domain(url_list):
+    """
+    根据主域名对 URL 列表进行去重。
+    保留列表中每个主域名下的 '最后一个' 链接。
+    """
+    # 使用字典存储：{域名: 最后一个遇到的完整URL}
+    # 遍历列表时，后面的会覆盖前面的，正好实现“保留最后一个”
+    domain_to_url = {}
+    
+    # 因为您希望保留“最后一个”链接，所以我们按顺序遍历列表
+    for url in url_list:
+        domain = get_domain(url)
+        # 如果域名有效且不是空字符串
+        if domain:
+            domain_to_url[domain] = url
+        else:
+            # 如果无法解析域名，为了安全起见，保留原始链接
+            domain_to_url[url] = url
+            
+    # 字典的值就是去重后的且保留最后一个的 URL 列表
+    # 保持输出顺序与原始列表的相对顺序一致（基于Python 3.7+的字典顺序）
+    # 但由于原始列表是异步检查的结果，顺序可能不固定。
+    # 这里我们直接返回字典的值列表，它们是按遇到顺序保留的最后一个。
+    deduped_urls = list(domain_to_url.values())
+    
+    logger.info(f"去重前链接数: {len(url_list)}, 去重后链接数: {len(deduped_urls)}")
+    
+    return deduped_url
 # -------------------------------
 # 主函数入口
 # -------------------------------
@@ -523,18 +572,39 @@ async def main():
         # 检测机场订阅节点
         if final_config["机场订阅"]:
             valid_loon = await check_nodes(final_config["机场订阅"], "loon", session)
+            
+            # --- 新增去重逻辑 ---
+            if valid_loon:
+                logger.info("开始对 loon 订阅链接进行主域名去重...")
+                valid_loon = deduplicate_urls_by_domain(valid_loon)
+            # --------------------
+            
             loon_file = config_path.replace('.yaml', '_loon.txt')
             write_url_list(valid_loon, loon_file)
         
         # 检测clash订阅节点
         if final_config["clash订阅"]:
             valid_clash = await check_nodes(final_config["clash订阅"], "clash", session)
+            
+            # --- 新增去重逻辑 ---
+            if valid_clash:
+                logger.info("开始对 clash 订阅链接进行主域名去重...")
+                valid_clash = deduplicate_urls_by_domain(valid_clash)
+            # --------------------
+            
             clash_file = config_path.replace('.yaml', '_clash.txt')
             write_url_list(valid_clash, clash_file)
         
         # 检测v2订阅节点
         if final_config["v2订阅"]:
             valid_v2 = await check_nodes(final_config["v2订阅"], "v2ray", session)
+            
+            # --- 新增去重逻辑 ---
+            if valid_v2:
+                logger.info("开始对 v2 订阅链接进行主域名去重...")
+                valid_v2 = deduplicate_urls_by_domain(valid_v2)
+            # --------------------
+            
             v2_file = config_path.replace('.yaml', '_v2.txt')
             write_url_list(valid_v2, v2_file)
     
